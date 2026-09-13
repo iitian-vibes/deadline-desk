@@ -4,7 +4,7 @@
 
 Every row is read on the organisation's own page before it lands here (never an aggregator), and every deadline carries a verbatim quote in [`data/opportunities.json`](data/opportunities.json). Expired rows are removed. Rebuilt every Saturday; a daily watcher opens an issue when a tracked source changes.
 
-![open](https://img.shields.io/badge/open_now-62-C2410C) ![watch](https://img.shields.io/badge/on_watch-37-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
+![open](https://img.shields.io/badge/open_now-61-C2410C) ![watch](https://img.shields.io/badge/on_watch-37-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
 
 Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — the live board has countdown timers, filters and the receipts. Run by IITians; open to everyone.
 
@@ -15,7 +15,6 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Closes | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|---|
-| **16 Sep 2026** | [Mitacs Globalink Research Internship 2027](https://globalink.mitacs.ca/#/login) | Mitacs (Canada) | airfare, housing stipend, food/incidentals stipend, health insurance | Full-time UG; ≥2 years completed; 1–3 semesters remaining as of fall 2027; India partner AICTE; min 70%. IIT students NOT eligible for 2027 per Mitacs page. |
 | **1 Oct 2026** | [Max Planck School Matter to Life — URO 2027](https://mps.cloud.opencampus.net/) | Max Planck School Matter to Life (Germany) | funded (amount not stated) | Bachelor's students at the physics/chemistry/biology/engineering interface; GPA ≥ 1.7 German scale; enrolled throughout |
 | **15 Oct 2026** | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/) | OIST, Okinawa (Japan) | 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY | Last two years of bachelor's, any year of master's, or recent graduates; PhD not eligible; home-institution approval |
 | **1 Nov 2026** | [Max Planck CS Institutes Summer Internship 2027](https://apply.cis.mpg.de/register/internship) | Max Planck CIS (MPI-SWS, MPI-INF, MPI-IS, MPI-SP) | All internships are fully funded, covering living costs, housing and roundtrip travel costs | Bachelor's/Master's/PhD students worldwide; ~3 years of CS bachelor's completed by start |
