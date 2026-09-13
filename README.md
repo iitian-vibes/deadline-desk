@@ -4,7 +4,7 @@
 
 Every row is read on the organisation's own page before it lands here (never an aggregator), and every deadline carries a verbatim quote in [`data/opportunities.json`](data/opportunities.json). Expired rows are removed. Rebuilt every Saturday; a daily watcher opens an issue when a tracked source changes.
 
-![open](https://img.shields.io/badge/open_now-75-C2410C) ![watch](https://img.shields.io/badge/on_watch-40-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
+![open](https://img.shields.io/badge/open_now-78-C2410C) ![watch](https://img.shields.io/badge/on_watch-47-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
 
 Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — the live board has countdown timers, filters and the receipts. Run by IITians; open to everyone.
 
@@ -31,7 +31,17 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 | **6 Oct 2026** | [Knight-Hennessy Scholars 2027](https://knight-hennessy.stanford.edu/admission) | Stanford University | up to three years of tuition plus living and travel stipends | Any nationality; first bachelor's earned 2020 or later; separate Stanford grad admission required |
 | **20 Oct 2026** | [Commonwealth Master's Scholarships 2027-28](https://cscuk.fcdo.gov.uk/apply/) | Commonwealth Scholarship Commission (UK) | full tuition + stipend | Indian citizen; apply to CSC AND India's nominating agency (Ministry of Education) which may set an earlier date |
 | **20 Oct 2026** | [Commonwealth PhD Scholarships 2027-28](https://cscuk.fcdo.gov.uk/apply/) | Commonwealth Scholarship Commission (UK) | Fully funded UK PhD | Indian citizen; nominated by Ministry of Education after applying on CSC system |
+| **10 Nov 2026** | [Swiss Government Excellence Scholarships 2027–28 (India window)](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) | SERI, Switzerland · via Swiss Embassy New Delhi | CHF 2,450 per month to cover basic living expenses | Master's completed by 31 July 2027 (ETH Zurich: 30 June); born after 31 Dec 1991; needs a support letter from a Swiss supervisor; applications go to the Swiss Embassy in New Delhi |
 | **8 Dec 2026** | [Gates Cambridge Scholarship 2027-28](https://www.gatescambridge.org/apply/how-to-apply/) | Gates Cambridge Trust | full-cost award | Non-UK citizen; new full-time postgraduate course at Cambridge; apply via Cambridge postgraduate application |
+
+<details><summary><b>Rolling — no stated deadline (2)</b></summary>
+
+| Opportunity | Organisation | What you get | Who can apply |
+|---|---|---|---|
+| [Erasmus Mundus Joint Masters — 2027 intakes](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en) | European Union (EACEA) | Full scholarship on funded programmes (some catalogue entries have exhausted funding — check each programme) | Master's-level applicants worldwide; Indian graduates apply directly to each consortium |
+| [DAAD EPOS — development-related postgraduate courses 2027/28](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777) | DAAD, Germany | Monthly payments of 992 euros for graduates; insurance cover; travel allowance | Graduates from DAAD's eligibility list (India included); Bachelor's + at least two years' professional experience; degree usually not older than six years; apply to up to 3 courses directly, never to DAAD |
+
+</details>
 
 ## Industry — internships & new-grad
 
@@ -137,7 +147,7 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 </details>
 
-## On watch — not open yet (40)
+## On watch — not open yet (47)
 
 | Opportunity | Organisation | Status |
 |---|---|---|
@@ -181,6 +191,13 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 | [CMAT 2027](https://cmat.nta.nic.in/) | National Testing Agency | Previous cycle complete; CMAT 2027 not announced |
 | [ITC Interrobang?!](https://www.itcportal.com/careers/interrobang.aspx) | ITC Limited | Registrations open only after the on-campus case launch; 2026-27 season not announced |
 | [Goldman Sachs Asia Possibilities Series](https://www.goldmansachs.com/careers/students/programs-and-internships/asia-pacific/asia-possibilities-series) | Goldman Sachs | Previous cycle closed; next not announced. MBA students explicitly excluded. |
+| [Japan MEXT Scholarship — India embassy track](https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html) | Embassy of Japan in India / MEXT | Previous cycle (Apr–May 2026); 2028-intake window not announced — expect April 2027 |
+| [Global Korea Scholarship (GKS) 2027](https://www.studyinkorea.go.kr/en/plan/scholarship.do?tab=gks-tab1) | NIIED, Government of Korea | Standing schedule; the 2027 guidelines post on the GKS notice board around late January — previous cycle pattern, next not announced |
+| [Chinese Government Scholarship (CSC) 2027](https://www.campuschina.org/content/details3_74776.html) | China Scholarship Council | No official global deadline — each receiving university/agency sets its own 2027 date; previous cycles cluster Dec–Apr. Next cycle not announced. |
+| [Türkiye Scholarships 2027](https://www.turkiyeburslari.gov.tr/calendar) | YTB, Republic of Türkiye | Standing official calendar (10 Jan – 20 Feb); the 2027 call itself is not yet announced — previous cycle pattern |
+| [Stipendium Hungaricum 2027/28](https://stipendiumhungaricum.hu/apply/) | Tempus Public Foundation, Hungary | Previous cycle (closed 15 Jan 2026); 2027/28 call expected ~November — not announced |
+| [France Excellence Eiffel Scholarship 2027](https://www.inde.campusfrance.org/eiffel_scholarship_2024) | French MEAE / Campus France | Previous cycle; 2027 call expected ~October — not announced. Ask your target French university about nomination NOW. |
+| [GREAT Scholarships India 2027-28](https://www.britishcouncil.in/study-uk/scholarships/great-scholarships) | British Council / UK Government | Previous cycle spent; 2027-28 list not announced — typically posts in autumn. Partial funding — labelled so. |
 
 ---
 

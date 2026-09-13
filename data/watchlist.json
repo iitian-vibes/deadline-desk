@@ -297,5 +297,47 @@
     "type": "page",
     "url": "https://picampus-school.com/programme/school-of-artificial-intelligence/",
     "note": "next cohort dates"
+  },
+  {
+    "id": "page-turkiye-burslari",
+    "org": "Türkiye Scholarships",
+    "type": "page",
+    "url": "https://www.turkiyeburslari.gov.tr/",
+    "note": "2027 call (~10 Jan)"
+  },
+  {
+    "id": "page-stipendium-hu",
+    "org": "Stipendium Hungaricum",
+    "type": "page",
+    "url": "https://stipendiumhungaricum.hu/apply/",
+    "note": "2027/28 call (~Nov)"
+  },
+  {
+    "id": "page-eiffel",
+    "org": "Eiffel (Campus France India)",
+    "type": "page",
+    "url": "https://www.inde.campusfrance.org/eiffel_scholarship_2024",
+    "note": "2027 call (~Oct)"
+  },
+  {
+    "id": "page-gks",
+    "org": "GKS (Study in Korea)",
+    "type": "page",
+    "url": "https://www.studyinkorea.go.kr/en/plan/scholarship.do?tab=gks-tab1",
+    "note": "2027 guidelines (~late Jan)"
+  },
+  {
+    "id": "page-mext-india",
+    "org": "MEXT (Embassy of Japan, India)",
+    "type": "page",
+    "url": "https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html",
+    "note": "2028 windows (~Apr)"
+  },
+  {
+    "id": "page-great-india",
+    "org": "GREAT Scholarships India",
+    "type": "page",
+    "url": "https://www.britishcouncil.in/study-uk/scholarships/great-scholarships",
+    "note": "2027-28 list (autumn)"
   }
 ]
