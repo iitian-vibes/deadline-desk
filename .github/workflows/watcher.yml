@@ -13,19 +13,30 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
+      # main is protected; watcher outputs live on the watcher-state branch instead
+      - name: Restore previous state
+        run: |
+          git fetch origin watcher-state 2>/dev/null || exit 0
+          git checkout origin/watcher-state -- state reports 2>/dev/null || true
       - name: Diff all tracked sources
         run: node scripts/watch.mjs
-      - name: Commit state + report
+      - name: Push state + report to watcher-state
         run: |
           git config user.name "deadline-desk-watcher"
           git config user.email "actions@users.noreply.github.com"
-          git add state/ reports/
-          git diff --cached --quiet || git commit -m "watcher: $(date -u +%F)" && git push
+          git add -f state/ reports/
+          git stash push --staged -m watcher >/dev/null
+          git fetch origin watcher-state 2>/dev/null && git checkout -B watcher-state origin/watcher-state || git checkout --orphan watcher-state
+          git rm -rq --cached . 2>/dev/null || true
+          git checkout stash@{0} -- state reports 2>/dev/null || git stash pop
+          git add -f state/ reports/
+          git commit -m "watcher: $(date -u +%F)" state reports || exit 0
+          git push origin watcher-state
       - name: Open issue when something changed
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
           REPORT="reports/$(date -u +%F).md"
-          if grep -q "NEW__" "$REPORT"; then
+          if [ -f "$REPORT" ] && grep -q "NEW__" "$REPORT"; then
             gh issue create --title "Opened/changed: $(grep -c 'NEW__' "$REPORT") source(s) — $(date -u +%F)" \
-              --body-file "$REPORT" --label "watcher"
+              --body-file "$REPORT" --label watcher
           fi
