@@ -123,7 +123,7 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|
-| [XAT 2027 registration](https://xatonline.in/) | XLRI Jamshedpur | MBA/PGDM entrance accepted by 250+ B-schools; exam 5 January 2027, 2–5:30 PM | Per the XAT Bulletin 2027 on the site |
+| [XAT 2027 registration](https://xatonline.in/) | XLRI Jamshedpur | MBA/PGDM entrance accepted by 250+ B-schools; exam 5 January 2027, 2–5:30 PM. Registration open now. | Per the XAT Bulletin 2027 on the site |
 | [GMAT (book year-round)](https://www.mba.com/exams/gmat-exam/register) | GMAC | Global MBA admissions test accepted by 2,400+ programmes; online or test-centre, score valid five years | Five attempts per rolling 12 months, 16-day gap between attempts |
 | [L'Oréal Brandstorm](https://brandstorm.loreal.com/en) | L'Oréal | Main prize: get hired at L'Oréal and go on a professional mission at HQ in Paris; local winners' travel covered | Everyone between 18 and 30; no specific background required |
 | [McKinsey campus application deadlines](https://www.mckinsey.com/careers/students/application-deadlines) | McKinsey & Company | The official deadlines tool for Business Analyst / Associate consulting roles — pick your degree, school and preferred office to see your exact date | Current students: undergraduate, MBA, or other advanced degrees |
