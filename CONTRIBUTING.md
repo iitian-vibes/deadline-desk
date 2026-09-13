@@ -27,3 +27,12 @@ Add an entry to `data/watchlist.json` (`greenhouse`/`greenhouse-eu`/`amazon` boa
 ## What gets a row
 
 Real money or real prestige, open to students in India (or a note when a group is excluded — we publish eligibility honestly, including "IITs not eligible" when an org says so). Paid-listing spam, MLM "internships", unpaid "exposure" roles: no.
+
+## How this repo connects to iitianvibes.com
+
+Two gates, on purpose:
+
+1. **Into the repo** — your PR must pass CI (`scripts/verify.mjs` probes every link, rejects aggregator hosts, enforces the schema) **and** a maintainer review. Nothing merges on CI alone.
+2. **Onto the live board** — the website does **not** auto-deploy from this repo. At each weekly rebuild a maintainer diffs this dataset against the live one, re-reads the source page for anything new, and only then ships. A bad row that somehow slipped through gate 1 dies at gate 2 without ever reaching the site.
+
+The daily watcher runs the other way: it detects changes at the source organisations and opens an issue here, so contributors and maintainers see "X just opened" the day it happens.
