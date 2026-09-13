@@ -1,0 +1,31 @@
+name: Daily watcher
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 09:00 IST daily
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Diff all tracked sources
+        run: node scripts/watch.mjs
+      - name: Commit state + report
+        run: |
+          git config user.name "deadline-desk-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ reports/
+          git diff --cached --quiet || git commit -m "watcher: $(date -u +%F)" && git push
+      - name: Open issue when something changed
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          REPORT="reports/$(date -u +%F).md"
+          if grep -q "NEW__" "$REPORT"; then
+            gh issue create --title "Opened/changed: $(grep -c 'NEW__' "$REPORT") source(s) — $(date -u +%F)" \
+              --body-file "$REPORT" --label "watcher"
+          fi
