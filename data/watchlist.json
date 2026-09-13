@@ -283,5 +283,19 @@
     "type": "page",
     "url": "https://cmat.nta.nic.in/",
     "note": "2027 notification"
+  },
+  {
+    "id": "page-ethindia",
+    "org": "ETHIndia (Devfolio)",
+    "type": "page",
+    "url": "https://ethindia.co/",
+    "note": "2026 edition dates"
+  },
+  {
+    "id": "page-pischool",
+    "org": "Pi School",
+    "type": "page",
+    "url": "https://picampus-school.com/programme/school-of-artificial-intelligence/",
+    "note": "next cohort dates"
   }
 ]

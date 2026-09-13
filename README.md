@@ -4,7 +4,7 @@
 
 Every row is read on the organisation's own page before it lands here (never an aggregator), and every deadline carries a verbatim quote in [`data/opportunities.json`](data/opportunities.json). Expired rows are removed. Rebuilt every Saturday; a daily watcher opens an issue when a tracked source changes.
 
-![open](https://img.shields.io/badge/open_now-68-C2410C) ![watch](https://img.shields.io/badge/on_watch-40-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
+![open](https://img.shields.io/badge/open_now-75-C2410C) ![watch](https://img.shields.io/badge/on_watch-40-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
 
 Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — the live board has countdown timers, filters and the receipts. Run by IITians; open to everyone.
 
@@ -41,7 +41,7 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 | **15 Sep 2026** | [Application Engineering Intern, Winter 2027 — India](https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern-winter-2027-english) | Google | 26-week internship, Bengaluru, starting January 2027 | Graduating 2027; pursuing a Bachelor's in IT/IS/CS or related; must reside in India for the duration |
 | **30 Apr 2027** | [Silicon Engineering Intern, PhD — Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027) | Google | 12-week PhD silicon / TPU internship, Bengaluru or Hyderabad, summer 2027 | Pursuing a PhD in Computer Engineering, CS, ECE, EE or related; C++/Python/Verilog/UVM |
 
-<details><summary><b>Rolling — no stated deadline (30)</b></summary>
+<details><summary><b>Rolling — no stated deadline (32)</b></summary>
 
 | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|
@@ -75,6 +75,8 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 | [Associate ML Scientist I](https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000005875356/Associate-ML-Scientist-I) | Wadhwani AI | Entry-level ML scientist building AI for public health, agriculture and education; remote | Bachelor's or Master's in CS / EE / Statistics / Applied Maths / Physics / Economics with 0–2 years of experience |
 | [Software Development Engineer I](https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000005021055/Software-Development-Engineer-I) | Wadhwani AI | Fresher SDE building web/mobile and ML infrastructure for social-good deployments; New Delhi | Fresher; Bachelor's/Master's in CS, Physics or an engineering discipline |
 | [New Analyst Program — India (2027 batch)](https://www.goldmansachs.com/careers/students/programs-and-internships/india/new-analyst-program) | Goldman Sachs | Full-time new analyst across divisions including Engineering; Bengaluru / Hyderabad / Mumbai | Graduating from a Bachelor's or Master's in 2027 |
+| [Pi School of Artificial Intelligence](https://picampus-school.com/programme/school-of-artificial-intelligence/) | Pi School (Rome) | Programme fees of €12,500 fully covered by grants for top engineers | Global, BSc STEM minimum; selection via CV + HackerRank + interviews; remote-friendly from India |
+| [fal Research Grants](https://fal.ai/grants) | fal.ai | Free compute resources (not cash) — pitch your project with a GitHub link | Open to anyone advancing AI through open source — no degree required; fully remote |
 
 </details>
 
@@ -95,12 +97,17 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 |---|---|---|---|---|
 | **22 Sep 2026** | [Kaggle: Biohub Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) | CZ Biohub / Kaggle | 1st Place - $18,000 2nd Place - $12,000 3rd Place - $8,000 | Open worldwide; individuals/teams |
 | **23 Sep 2026** | [Kaggle: Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Kaggle | 1st–10th Place - $5,000 each | Open worldwide |
+| **25 Sep 2026** | [IBM Bob 2.0 Hackathon](https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon) | lablab.ai × IBM | Prize pool: $10,000 | Online, worldwide — build from India |
 | **30 Sep 2026** | [Smart India Hackathon 2026](https://www.sih.gov.in/sih2026PS) | Ministry of Education Innovation Cell / AICTE | Rs.1,50,000/- per problem statement | Student teams nominated by college SPOC after an internal hackathon; max 50 teams per institute |
+| **30 Sep 2026** | [Hacker House Goa 2026](https://hacker-house-goa-2026.devfolio.co/) | 247 PM Studio | Free residency — accommodation, meals and amenities provided; no cash pool | Open application on Devfolio; ~247 picked from 10,000+ — selective. You get yourself to Goa; the rest is covered. |
+| **30 Sep 2026** | [Codeutsava X.0](https://codeutsava-x.devfolio.co/) | NIT Raipur | ~₹10 lakh aggregate pool (Devfolio lists $11,370) | Open registration on Devfolio; in-person at NIT Raipur |
+| **30 Sep 2026** | [AssemblyAI Voice Agent Hackathon](https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon) | lablab.ai × AssemblyAI | $10,000 Prize Pool ($5k cash + $5k in AAI credits) | Online, worldwide — build from India |
 | **4 Oct 2026** | [Yuva Yodha Energy Tech Hackathon 2026](https://www.yuvayodhatech.com/) | Schneider Electric India | Grand Prize: ₹20,00,000 Runner-up: ₹15,00,000 3rd Place: ₹10,00,000 | Indian citizen/resident, 18+, full-time UG/PG STEM student in India; teams up to 4 |
 | **15 Oct 2026** | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | RSNA / Kaggle | First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500 | Open worldwide |
 | **21 Oct 2026** | [Dynamix 2027 (Formula Bharat)](https://formulabharat.com/sub-events/dynamix-2027/) | Formula Bharat | Track-only Formula Student event for CV/EV cars at Kari Motor Speedway, Coimbatore, 19–24 Jan 2027 | University Formula Student teams; club membership required |
 | **26 Oct 2026** | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3) | ARC Prize Foundation / Kaggle | TOTAL PRIZES AVAILABLE: $850,000 | Open worldwide; winners must open-source |
 | **13 Nov 2026** | [Solar Decathlon India 2026-27](https://sdichallenge.in/) | IIHS + AEEE | scholarship grants for finalists (amounts not stated) | UG/PG student teams from Indian institutions; fee INR 5,000 early bird / 7,500 standard |
+| **1 Dec 2026** | [AMD AI Academy Challenge](https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge) | lablab.ai × AMD | Prize Pool: $5,000 | Online, worldwide, individual participation — suits students |
 
 <details><summary><b>Rolling — no stated deadline (2)</b></summary>
 
