@@ -71,7 +71,8 @@ for (const r of rows) {
   // Dormant programmes' pages flap (NTA especially). An unreachable link on a row
   // that promises nothing live is a warning, not a failure.
   if (!a.ok && (r.status === 'EXPECTED' || r.status === 'OPENS_SOON')) a = { ok: true, status: 0, why: `unreachable (${a.why}) — tolerated on ${r.status}` };
-  const s = r.source_url && r.source_url !== r.apply_url ? await probe(r.source_url) : { ok: true, status: 'same' };
+  let s = r.source_url && r.source_url !== r.apply_url ? await probe(r.source_url) : { ok: true, status: 'same' };
+  if (!s.ok && (r.status === 'EXPECTED' || r.status === 'OPENS_SOON')) s = { ok: true, status: 0, why: `unreachable (${s.why}) — tolerated on ${r.status}` };
   if (!a.ok) problems.push(`apply_url: ${a.why}`);
   if (!s.ok) problems.push(`source_url: ${s.why}`);
   const line = `${problems.length ? '✗' : '✓'} ${r.id.padEnd(28)} ${r.status.padEnd(10)} ${(r.deadline || '—').padEnd(10)} apply:${a.status ?? a.why}${a.why && a.ok ? ' (' + a.why + ')' : ''}${problems.length ? '  ← ' + problems.join('; ') : ''}`;
