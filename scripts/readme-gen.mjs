@@ -4,7 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const rows = JSON.parse(fs.readFileSync(path.join(root, 'data/opportunities.json'), 'utf8'));
-const LANE = { 'A-research': 'Research internships', 'A-fellowship': 'Fellowships & scholarships', 'B-industry': 'Industry — internships & new-grad', 'B-govt': 'Government, PSUs & exams', 'C-competition': 'Competitions & open source' };
+const LANE = { 'A-research': 'Research internships', 'A-fellowship': 'Fellowships & scholarships', 'B-industry': 'Industry — internships & new-grad', 'B-govt': 'Government, PSUs & exams', 'C-competition': 'Competitions & open source', 'D-mba': 'MBA & management' };
 const now = Date.now();
 const iso = (r) => r.deadline_time || `${r.deadline}T23:59:59+05:30`;
 const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];

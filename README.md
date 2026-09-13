@@ -4,7 +4,7 @@
 
 Every row is read on the organisation's own page before it lands here (never an aggregator), and every deadline carries a verbatim quote in [`data/opportunities.json`](data/opportunities.json). Expired rows are removed. Rebuilt every Saturday; a daily watcher opens an issue when a tracked source changes.
 
-![open](https://img.shields.io/badge/open_now-61-C2410C) ![watch](https://img.shields.io/badge/on_watch-37-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
+![open](https://img.shields.io/badge/open_now-68-C2410C) ![watch](https://img.shields.io/badge/on_watch-40-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
 
 Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — the live board has countdown timers, filters and the receipts. Run by IITians; open to everyone.
 
@@ -111,7 +111,26 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 </details>
 
-## On watch — not open yet (37)
+## MBA & management
+
+| Closes | Opportunity | Organisation | What you get | Who can apply |
+|---|---|---|---|---|
+| **14 Sep 2026** | [Tata Imagination Challenge 2026](https://www.tata.com/careers/programs/tata-imagination-challenge) | Tata Group | ₹2 lakh each in cash prizes for the Top 10, plus a fully sponsored two-day Mumbai finale for up to 30 finalists | Graduate and postgraduate students in India |
+| **15 Sep 2026** | [CAT 2026 registration](https://iimcat.ac.in/) | IIMs (convened by IIM Indore) | The MBA entrance for the 21 IIMs and 1,000+ B-schools; exam day 29 November 2026 | Graduates and final-year students per the CAT 2026 eligibility document; registration on iimcat.ac.in only |
+| **10 Oct 2026** | [NMAT by GMAC 2026](https://www.mba.com/exams/nmat) | GMAC | Computer-adaptive MBA entrance for NMIMS and 58+ B-schools; exam window 2 Nov – 20 Dec, up to 3 attempts | MBA aspirants; open registration |
+
+<details><summary><b>Rolling — no stated deadline (4)</b></summary>
+
+| Opportunity | Organisation | What you get | Who can apply |
+|---|---|---|---|
+| [XAT 2027 registration](https://xatonline.in/) | XLRI Jamshedpur | MBA/PGDM entrance accepted by 250+ B-schools; exam 5 January 2027, 2–5:30 PM | Per the XAT Bulletin 2027 on the site |
+| [GMAT (book year-round)](https://www.mba.com/exams/gmat-exam/register) | GMAC | Global MBA admissions test accepted by 2,400+ programmes; online or test-centre, score valid five years | Five attempts per rolling 12 months, 16-day gap between attempts |
+| [L'Oréal Brandstorm](https://brandstorm.loreal.com/en) | L'Oréal | Main prize: get hired at L'Oréal and go on a professional mission at HQ in Paris; local winners' travel covered | Everyone between 18 and 30; no specific background required |
+| [McKinsey campus application deadlines](https://www.mckinsey.com/careers/students/application-deadlines) | McKinsey & Company | The official deadlines tool for Business Analyst / Associate consulting roles — pick your degree, school and preferred office to see your exact date | Current students: undergraduate, MBA, or other advanced degrees |
+
+</details>
+
+## On watch — not open yet (40)
 
 | Opportunity | Organisation | Status |
 |---|---|---|
@@ -152,6 +171,9 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 | [TCS CodeVita Season 14](https://codevita.tcsapps.com/) | Tata Consultancy Services | Season 14 dates not announced |
 | [Microsoft Imagine Cup 2027](https://imaginecup.microsoft.com/en-us) | Microsoft | Not announced; sub-pages 404 |
 | [Cohere Labs Scholars Program (2027 cohort)](https://cohere.com/research/scholars-program) | Cohere Labs | Not announced beyond "Fall 2026"; previous cycles opened in August with a January start; remote and India-eligible in past cohorts |
+| [CMAT 2027](https://cmat.nta.nic.in/) | National Testing Agency | Previous cycle complete; CMAT 2027 not announced |
+| [ITC Interrobang?!](https://www.itcportal.com/careers/interrobang.aspx) | ITC Limited | Registrations open only after the on-campus case launch; 2026-27 season not announced |
+| [Goldman Sachs Asia Possibilities Series](https://www.goldmansachs.com/careers/students/programs-and-internships/asia-pacific/asia-possibilities-series) | Goldman Sachs | Previous cycle closed; next not announced. MBA students explicitly excluded. |
 
 ---
 
