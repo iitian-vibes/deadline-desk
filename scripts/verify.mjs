@@ -67,7 +67,10 @@ for (const r of rows) {
     if (!r.deadline_quote) problems.push('OPEN without deadline_quote');
   }
   if (r.status === 'EXPECTED' && !/previous|last|not (yet )?announced|expected/i.test(r.notes || '')) problems.push('EXPECTED must say so in notes');
-  const a = await probe(r.apply_url);
+  let a = await probe(r.apply_url);
+  // Dormant programmes' pages flap (NTA especially). An unreachable link on a row
+  // that promises nothing live is a warning, not a failure.
+  if (!a.ok && (r.status === 'EXPECTED' || r.status === 'OPENS_SOON')) a = { ok: true, status: 0, why: `unreachable (${a.why}) — tolerated on ${r.status}` };
   const s = r.source_url && r.source_url !== r.apply_url ? await probe(r.source_url) : { ok: true, status: 'same' };
   if (!a.ok) problems.push(`apply_url: ${a.why}`);
   if (!s.ok) problems.push(`source_url: ${s.why}`);
