@@ -21,6 +21,8 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHT
 
 const today = new Date().toISOString().slice(0, 10);
 const fix = process.argv.includes('--fix');
+const STRICT_WHO = process.argv.includes('--strict-who');
+let warnCount = 0;
 const rows = JSON.parse(fs.readFileSync(DATA, 'utf8'));
 
 async function probe(url) {
@@ -59,12 +61,19 @@ const failures = [];
 const kept = [];
 for (const r of rows) {
   const problems = [];
+  const warnings = [];
   if (!r.id || !r.name || !r.org || !r.lane) problems.push('missing id/name/org/lane');
   if (!['OPEN', 'OPENS_SOON', 'EXPECTED', 'ROLLING'].includes(r.status)) problems.push(`bad status ${r.status}`);
   if (r.status === 'OPEN') {
     if (!r.deadline) problems.push('OPEN without deadline');
     else if (r.deadline < today) problems.push(`deadline ${r.deadline} has passed`);
     if (!r.deadline_quote) problems.push('OPEN without deadline_quote');
+    // `who`: the eligibility RANGE with its edge, as a viewer would recognise themself —
+    // "third year and up, any branch" / "first years only". Operator ruling 16 Sep 2026:
+    // no row ships without stating who is in. Warns until the rebuild fills it; --strict-who fails.
+    const who = (r.who || '').trim();
+    const whoOk = who.split(/\s+/).length >= 3 && /\b(year|years|batch|graduat|undergrad|postgrad|b\.?tech|m\.?tech|m\.?sc|phd|ph\.d|any|anyone|everyone|all|fresher|aspirant|working)\b/i.test(who);
+    if (!whoOk) (STRICT_WHO ? problems : warnings).push(who ? `who "${who}" names no year/batch/stage` : 'OPEN without who');
   }
   if (r.status === 'EXPECTED' && !/previous|last|not (yet )?announced|expected/i.test(r.notes || '')) problems.push('EXPECTED must say so in notes');
   let a = await probe(r.apply_url);
@@ -75,9 +84,10 @@ for (const r of rows) {
   if (!s.ok && (r.status === 'EXPECTED' || r.status === 'OPENS_SOON')) s = { ok: true, status: 0, why: `unreachable (${s.why}) — tolerated on ${r.status}` };
   if (!a.ok) problems.push(`apply_url: ${a.why}`);
   if (!s.ok) problems.push(`source_url: ${s.why}`);
-  const line = `${problems.length ? '✗' : '✓'} ${r.id.padEnd(28)} ${r.status.padEnd(10)} ${(r.deadline || '—').padEnd(10)} apply:${a.status ?? a.why}${a.why && a.ok ? ' (' + a.why + ')' : ''}${problems.length ? '  ← ' + problems.join('; ') : ''}`;
+  const line = `${problems.length ? '✗' : '✓'} ${r.id.padEnd(28)} ${r.status.padEnd(10)} ${(r.deadline || '—').padEnd(10)} apply:${a.status ?? a.why}${a.why && a.ok ? ' (' + a.why + ')' : ''}${problems.length ? '  ← ' + problems.join('; ') : ''}${warnings.length ? '  ⚠ ' + warnings.join('; ') : ''}`;
   console.log(line);
   if (problems.length) failures.push({ id: r.id, problems });
+  if (warnings.length) warnCount++;
   const expired = r.status === 'OPEN' && r.deadline && r.deadline < today;
   if (!(fix && expired)) kept.push(r);
 }
@@ -85,5 +95,5 @@ if (fix && kept.length !== rows.length) {
   fs.writeFileSync(DATA, JSON.stringify(kept, null, 2) + '\n');
   console.log(`\n--fix: dropped ${rows.length - kept.length} expired row(s)`);
 }
-console.log(`\n${rows.length} rows · ${failures.length} with problems · today ${today}`);
+console.log(`\n${rows.length} rows · ${failures.length} with problems · ${warnCount} with warnings (who) · today ${today}`);
 process.exit(failures.length ? 1 : 0);
