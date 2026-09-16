@@ -4,7 +4,7 @@
 
 Every row is read on the organisation's own page before it lands here (never an aggregator), and every deadline carries a verbatim quote in [`data/opportunities.json`](data/opportunities.json). Expired rows are removed. Rebuilt every Saturday; a daily watcher opens an issue when a tracked source changes.
 
-![open](https://img.shields.io/badge/open_now-78-C2410C) ![watch](https://img.shields.io/badge/on_watch-47-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
+![open](https://img.shields.io/badge/open_now-72-C2410C) ![watch](https://img.shields.io/badge/on_watch-47-6F665B) ![verified](https://img.shields.io/badge/last_verified-2026-09-12-1A1714)
 
 Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — the live board has countdown timers, filters and the receipts. Run by IITians; open to everyone.
 
@@ -24,7 +24,6 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Closes | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|---|
-| **15 Sep 2026** | [OPJEMS 2026](https://www.opjems.com/) | O.P. Jindal Group | INR 80,000 per Student (yearly) | Institute-nominated: top 3 of each year in Civil, Electrical, Mechanical, Metallurgical at IIT BHU, Bombay, Delhi, Gandhinagar, Guwahati, Kanpur, Kharagpur, Madras, Roorkee |
 | **5 Oct 2026** | [Reliance Foundation Postgraduate Scholarships 2026-27](https://scholarships.reliancefoundation.org/PG_Scholarship.aspx) | Reliance Foundation | up to INR 6 Lakhs over the degree | First-year full-time PG (MTech/MSc) in CS/AI/Maths/EE/ECE/Mech/Chem/Energy/Materials/Life Sci; GATE 2026 550-1000 OR UG CGPA >= 7.5; 60-min aptitude test |
 | **5 Oct 2026** | [Reliance Foundation Undergraduate Scholarships 2026-27](https://scholarships.reliancefoundation.org/UG_Scholarship.aspx) | Reliance Foundation | up to INR 2 Lakhs over the degree | First year (AY 2026-27) full-time degree; Class 12 >= 60%; household income < Rs 15 lakh; aptitude test |
 | **6 Oct 2026** | [Chevening Scholarships 2027-28 (India)](https://www.chevening.org/scholarship/india/) | UK FCDO | fully funded (tuition, living, travel) | Indian citizen; UG completed; >= 2 years (2,800 hrs) work experience; 3 UK course choices |
@@ -47,8 +46,6 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Closes | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|---|
-| **15 Sep 2026** | [Application Engineering Intern, Summer 2027 — India](https://www.google.com/about/careers/applications/jobs/results/127840103736189638-application-engineering-intern-summer-2027-english) | Google | 10–12 week internship, Bengaluru/Hyderabad/Mumbai, summer 2027 | Anticipated graduation 2028; pursuing Bachelor's in IT/IS/CS or related; must reside in India for the duration |
-| **15 Sep 2026** | [Application Engineering Intern, Winter 2027 — India](https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern-winter-2027-english) | Google | 26-week internship, Bengaluru, starting January 2027 | Graduating 2027; pursuing a Bachelor's in IT/IS/CS or related; must reside in India for the duration |
 | **30 Apr 2027** | [Silicon Engineering Intern, PhD — Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027) | Google | 12-week PhD silicon / TPU internship, Bengaluru or Hyderabad, summer 2027 | Pursuing a PhD in Computer Engineering, CS, ECE, EE or related; C++/Python/Verilog/UVM |
 
 <details><summary><b>Rolling — no stated deadline (32)</b></summary>
@@ -94,7 +91,6 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Closes | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|---|
-| **15 Sep 2026** | [IISc ICER Project Associate (Power Electronics)](https://www.iisc.ac.in/careers/contract-project-staff/) | IISc Bengaluru | Salary: As per IISc norms. | B.E. EE + Master's in EE (Power Electronics/Drives preferred) |
 | **16 Sep 2026** | [ISRO Scientist/Engineer 'SC' — ISRO:ICRB:03(EMC):2026](https://www.isro.gov.in/ICRB_Recruitment13.html) | ISRO (ICRB) | Level 10, minimum basic pay ₹56,100/- p.m. + DA, HRA, TA | BE/B.Tech in ECE / Mechanical / CS with min 65% or CGPA 6.84; age 28 as on 16-09-2026 |
 | **22 Sep 2026** | [UPSC Combined Geo-Scientist Examination 2027](https://upsconline.nic.in/) | UPSC | 127 tentative posts at GSI and CGWB (Geologist, Geophysicist, Chemist, Hydrogeologist); Prelims 10 Jan 2027 | Master's in Geology/Geophysics/Physics/Chemistry per post; age 21–32 on 1 Jan 2027 |
 | **27 Sep 2026** | [GATE 2027 registration](https://gate2027.iitm.ac.in/) | IIT Madras (organising institute) | Fee ₹2000 one paper (₹1000 female/SC/ST/PwD); +₹500 in extended window | 3rd year or higher of any UG programme, or any completed degree |
@@ -132,8 +128,6 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 
 | Closes | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|---|
-| **14 Sep 2026** | [Tata Imagination Challenge 2026](https://www.tata.com/careers/programs/tata-imagination-challenge) | Tata Group | ₹2 lakh each in cash prizes for the Top 10, plus a fully sponsored two-day Mumbai finale for up to 30 finalists | Graduate and postgraduate students in India |
-| **15 Sep 2026** | [CAT 2026 registration](https://iimcat.ac.in/) | IIMs (convened by IIM Indore) | The MBA entrance for the 21 IIMs and 1,000+ B-schools; exam day 29 November 2026 | Graduates and final-year students per the CAT 2026 eligibility document; registration on iimcat.ac.in only |
 | **10 Oct 2026** | [NMAT by GMAC 2026](https://www.mba.com/exams/nmat) | GMAC | Computer-adaptive MBA entrance for NMIMS and 58+ B-schools; exam window 2 Nov – 20 Dec, up to 3 attempts | MBA aspirants; open registration |
 
 <details><summary><b>Rolling — no stated deadline (4)</b></summary>
