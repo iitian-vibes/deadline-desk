@@ -100,7 +100,8 @@
   "org": "DRDO RAC",
   "type": "page",
   "url": "https://rac.gov.in/",
-  "note": "Scientist B 2027 advert expected"
+  "note": "Scientist B 2027 advert expected · blocks datacenter IPs (403/refused from GitHub even via Chromium); needs the local pass",
+  "ci": false
  },
  {
   "id": "page-sac-isro",
@@ -177,7 +178,8 @@
   "org": "Smart India Hackathon",
   "type": "page",
   "url": "https://www.sih.gov.in/",
-  "note": "nomination deadlines"
+  "note": "nomination deadlines · blocks datacenter IPs (403/refused from GitHub even via Chromium); needs the local pass",
+  "ci": false
  },
  {
   "id": "page-yuvayodha",
@@ -247,7 +249,8 @@
   "org": "Khorana Program (IUSSTF)",
   "type": "page",
   "url": "https://iusstf.org/khorana-program-for-scholars",
-  "note": "dormant — watch for revival"
+  "note": "dormant — watch for revival · blocks datacenter IPs (403/refused from GitHub even via Chromium); needs the local pass",
+  "ci": false
  },
  {
   "id": "page-xat",
@@ -275,7 +278,8 @@
   "org": "L'Oréal Brandstorm",
   "type": "page",
   "url": "https://brandstorm.loreal.com/en",
-  "note": "season calendar"
+  "note": "season calendar · blocks datacenter IPs (403/refused from GitHub even via Chromium); needs the local pass",
+  "ci": false
  },
  {
   "id": "page-cmat",

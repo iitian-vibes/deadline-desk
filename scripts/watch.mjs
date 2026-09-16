@@ -4,7 +4,9 @@
 //
 //   node scripts/watch.mjs             # diff against state/, write reports/YYYY-MM-DD.md
 //   node scripts/watch.mjs --seed      # first run: record state, report nothing
-//   node scripts/watch.mjs --dry --only page-sih,page-gate   # test a few sources, write nothing
+//   node scripts/watch.mjs --dry --only=page-sih,page-gate   # test a few sources, write nothing
+//   WATCH_CI=1 node scripts/watch.mjs   # CI: skips sources marked "ci": false (geo/bot-walled for datacenter IPs)
+//   node scripts/watch.mjs --local      # from a machine in India: ONLY the "ci": false sources; then scripts/push-state.sh
 //
 // Page sources that 403/timeout for plain fetch+curl are retried through headless
 // Chromium when `playwright` is importable (CI installs it; local runs skip silently).
@@ -24,6 +26,8 @@ const seed = process.argv.includes('--seed');
 const dry = process.argv.includes('--dry');
 const onlyArg = process.argv.find((a) => a.startsWith('--only='))?.slice(7);
 const ONLY = onlyArg ? new Set(onlyArg.split(',')) : null;
+const CI = !!process.env.WATCH_CI;
+const LOCAL = process.argv.includes('--local');
 
 // What a deadline-ish line looks like. Anything else added to a page is churn.
 const SIGNAL = /\b(deadline|last date|closes?|closing|closed|apply|applications?|registration|register|opens?|opening|due|submission|submit|nominat|announce|notification|advertisement|advt|recruit|vacanc|intake|call for|walk-?in|extended)\b|\b(20(2[6-9]))\b|\b\d{1,2}(st|nd|rd|th)?[\s-]+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b/i;
@@ -120,6 +124,8 @@ let minor = 0;
 const manual = [];
 for (const src of WATCHLIST) {
   if (ONLY && !ONLY.has(src.id)) continue;
+  if (LOCAL && src.ci !== false) continue;
+  if (CI && src.ci === false) { manual.push(`- ${src.org}: ${src.url} — ${src.note ?? ''} (run \`node scripts/watch.mjs --local\` from India)`); continue; }
   await sleep(300);
   checked++;
   const prev = state[src.id];
@@ -175,7 +181,7 @@ for (const src of WATCHLIST) {
 
 const header = `# Watcher report — ${today}\n\n${checked} sources checked · ${newMarkers.length} with new activity · ${minor} minor · ${errors} errors\n\n`;
 const minorBlock = minorLines.length ? `\n<details><summary>${minorLines.length} page(s) changed without a deadline-shaped line</summary>\n\n${minorLines.join('\n')}\n</details>\n` : '';
-const manualBlock = manual.length ? `\n**Needs a human look (bot-walled, not fetched):**\n${manual.join('\n')}\n` : '';
+const manualBlock = manual.length ? `\n**Not fetched from CI (bot-walled or geo-blocked):**\n${manual.join('\n')}\n` : '';
 const report = header + (lines.length ? lines.join('\n') : '_No changes detected._') + '\n' + minorBlock + manualBlock;
 console.log(report);
 if (dry) { console.log('(dry run — nothing written)'); process.exit(0); }
@@ -183,9 +189,9 @@ if (dry) { console.log('(dry run — nothing written)'); process.exit(0); }
 fs.mkdirSync(path.join(root, 'state'), { recursive: true });
 fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 1) + '\n');
 fs.mkdirSync(path.join(root, 'reports'), { recursive: true });
-fs.writeFileSync(path.join(root, `reports/${today}.md`), report);
+fs.writeFileSync(path.join(root, `reports/${today}${LOCAL ? '-local' : ''}.md`), report);
 // One line per day, so the trend is readable without opening 30 files.
-fs.appendFileSync(path.join(root, 'reports/digest.md'), `${today} · ${checked} checked · ${newMarkers.length} signal · ${minor} minor · ${errors} errors\n`);
+fs.appendFileSync(path.join(root, 'reports/digest.md'), `${today}${LOCAL ? ' (local)' : ''} · ${checked} checked · ${newMarkers.length} signal · ${minor} minor · ${errors} errors\n`);
 
 // Draft rows: every signal hit becomes a stub in the dataset's shape with the receipt
 // pre-filled. The draft-PR step in CI opens a PR from these; a human fills the TODOs.

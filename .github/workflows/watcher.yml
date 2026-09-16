@@ -27,7 +27,7 @@ jobs:
           git fetch origin watcher-state 2>/dev/null || exit 0
           git checkout origin/watcher-state -- state reports 2>/dev/null || true
       - name: Diff all tracked sources
-        run: node scripts/watch.mjs
+        run: WATCH_CI=1 node scripts/watch.mjs
       - name: Push state + report to watcher-state
         run: |
           git config user.name "deadline-desk-watcher"
