@@ -1,0 +1,39 @@
+name: Submit an opportunity
+description: Know a deadline that isn't on the board? Two minutes. We verify on the organisation's own page before it ships.
+title: "[Add] <organisation> — <programme name>"
+labels: [submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. Rules we hold every row to: real money or real prestige · open to students in India · the apply link is the **organisation's own page** (not Unstop, not LinkedIn, not a Telegram forward) · a closing date we can quote from that page.
+  - type: input
+    id: org
+    attributes: { label: Organisation, placeholder: "e.g. ISRO, Jane Street, Max Planck Society" }
+    validations: { required: true }
+  - type: input
+    id: name
+    attributes: { label: Programme / role, placeholder: "e.g. Scientist/Engineer SC 2026, Summer Research Fellowship 2027" }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Apply link (organisation's own domain), placeholder: "https://..." }
+    validations: { required: true }
+  - type: input
+    id: deadline
+    attributes: { label: Closing date, placeholder: "YYYY-MM-DD, or 'rolling'" }
+    validations: { required: true }
+  - type: input
+    id: quote
+    attributes: { label: The sentence on that page that states the deadline (copy it exactly), placeholder: "e.g. 'The last date for submission of online application is 30 September 2026.'" }
+    validations: { required: true }
+  - type: input
+    id: who
+    attributes: { label: Who can apply, placeholder: "year / batch / branch / degree — e.g. 'third year and up, any branch' or 'final-year B.Tech, CS/EE only'" }
+    validations: { required: true }
+  - type: input
+    id: pay
+    attributes: { label: Money (exactly as the page states it, or 'not stated'), placeholder: "e.g. ₹56,100/month basic; $5,800/week; fully funded" }
+  - type: textarea
+    id: notes
+    attributes: { label: Anything else, placeholder: "traps, nomination route, extended windows, why this matters" }

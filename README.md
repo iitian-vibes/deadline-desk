@@ -204,3 +204,13 @@ Maintained by [IITian Vibes](https://iitianvibes.com/blog/deadline-desk/) — th
 ### License
 
 Code (scripts/, workflows) — [MIT](LICENSE). Data (`data/`) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse freely with attribution to **IITian Vibes · Deadline Desk**.
+
+## Subscribe to every deadline
+
+One calendar feed, refreshed as the board changes: **[webcal://iitianvibes.com/blog/deadline-desk/calendar.ics](https://iitianvibes.com/blog/deadline-desk/#calendar)** (per-batch feeds: `calendar-2027.ics` etc.). Each closing date carries a 36-hour alarm; closed rows vanish from your calendar on the next refresh.
+
+## Watcher, drafts, submissions
+
+- The daily watcher (09:00 IST) reads ~45 org pages and job boards. A change only counts when an added line looks like a deadline or an opening; everything else is filed as "minor". Bot-walled pages are read through headless Chromium; the ones nothing can read are listed under "needs a human look".
+- Every hit becomes a stub row with the receipt pre-filled in a `draft/<date>` PR (`data/drafts/`). Drafts are **not** the board — a person fills the TODOs from the org's own page and moves the row into `data/opportunities.json`.
+- Know a deadline we're missing? [Submit it in two minutes](../../issues/new?template=submit-opportunity.yml).

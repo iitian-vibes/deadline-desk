@@ -1,343 +1,343 @@
 [
-  {
-    "id": "gh-janestreet",
-    "org": "Jane Street",
-    "type": "greenhouse",
-    "slug": "janestreet",
-    "filter": [
-      "intern",
-      "graduate",
-      "new grad",
-      "campus"
-    ]
-  },
-  {
-    "id": "gh-flowtraders",
-    "org": "Flow Traders",
-    "type": "greenhouse",
-    "slug": "flowtraders",
-    "filter": [
-      "intern",
-      "graduate",
-      "trainee"
-    ]
-  },
-  {
-    "id": "gh-graviton",
-    "org": "Graviton Research Capital",
-    "type": "greenhouse",
-    "slug": "gravitonresearchcapital",
-    "filter": [
-      "intern",
-      "graduate",
-      "2027",
-      "2028"
-    ]
-  },
-  {
-    "id": "gh-imc",
-    "org": "IMC Trading",
-    "type": "greenhouse-eu",
-    "slug": "imc",
-    "filter": [
-      "intern",
-      "graduate",
-      "launchpad",
-      "mumbai"
-    ]
-  },
-  {
-    "id": "gh-davinci",
-    "org": "Da Vinci Derivatives",
-    "type": "greenhouse-eu",
-    "slug": "davinciderivatives",
-    "filter": [
-      "intern",
-      "graduate"
-    ]
-  },
-  {
-    "id": "gh-hrt",
-    "org": "Hudson River Trading",
-    "type": "greenhouse",
-    "slug": "wehrtyou",
-    "filter": [
-      "intern",
-      "campus",
-      "graduate"
-    ]
-  },
-  {
-    "id": "amazon-in-intern",
-    "org": "Amazon India",
-    "type": "amazon",
-    "url": "https://www.amazon.jobs/en/search.json?base_query=intern&country=IND&result_limit=100",
-    "filter": []
-  },
-  {
-    "id": "page-gate2027",
-    "org": "GATE (IIT Madras)",
-    "type": "page",
-    "url": "https://gate2027.iitm.ac.in/",
-    "note": "registration windows, paper changes"
-  },
-  {
-    "id": "page-jam2027",
-    "org": "JAM (IIT Kharagpur)",
-    "type": "page",
-    "url": "https://jam.iitkgp.ac.in/",
-    "note": "registration windows"
-  },
-  {
-    "id": "page-isro-icrb",
-    "org": "ISRO ICRB",
-    "type": "page",
-    "url": "https://www.isro.gov.in/ICRB_Recruitment13.html",
-    "note": "scientist/engineer drives"
-  },
-  {
-    "id": "page-rac-drdo",
-    "org": "DRDO RAC",
-    "type": "page",
-    "url": "https://rac.gov.in/",
-    "note": "Scientist B 2027 advert expected"
-  },
-  {
-    "id": "page-sac-isro",
-    "org": "ISRO SAC careers",
-    "type": "page",
-    "url": "https://careers.sac.gov.in/",
-    "note": "JRF/RA drives"
-  },
-  {
-    "id": "page-mpg-cis",
-    "org": "Max Planck CS institutes",
-    "type": "page",
-    "url": "https://www.cis.mpg.de/internships/",
-    "note": "summer internship, 1 Nov deadline"
-  },
-  {
-    "id": "page-epfl-e3",
-    "org": "EPFL E3",
-    "type": "page",
-    "url": "https://eee.epfl.ch/apply/",
-    "note": "portal opens October"
-  },
-  {
-    "id": "page-epfl-summer",
-    "org": "Summer@EPFL",
-    "type": "page",
-    "url": "https://summer.epfl.ch/",
-    "note": "opens ~2 weeks before deadline"
-  },
-  {
-    "id": "page-eth-ssrf",
-    "org": "ETH Zurich SSRF",
-    "type": "page",
-    "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
-    "note": "window opens early Nov"
-  },
-  {
-    "id": "page-caltech-surf",
-    "org": "Caltech SURF",
-    "type": "page",
-    "url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
-    "note": "opens 1 Nov"
-  },
-  {
-    "id": "page-ias-srfp",
-    "org": "IAS/INSA/NASI SRFP",
-    "type": "page",
-    "url": "https://webjapps.ias.ac.in/fellowship2027/",
-    "note": "closes 30 Nov"
-  },
-  {
-    "id": "page-gsoc",
-    "org": "Google Summer of Code",
-    "type": "page",
-    "url": "https://summerofcode.withgoogle.com/",
-    "note": "2027 timeline expected"
-  },
-  {
-    "id": "page-outreachy",
-    "org": "Outreachy",
-    "type": "page",
-    "url": "https://www.outreachy.org/",
-    "note": "May 2027 cohort window ~Feb"
-  },
-  {
-    "id": "page-cohere-scholars",
-    "org": "Cohere Labs Scholars",
-    "type": "page",
-    "url": "https://cohere.com/research/scholars-program",
-    "note": "expected Fall 2026"
-  },
-  {
-    "id": "page-sih",
-    "org": "Smart India Hackathon",
-    "type": "page",
-    "url": "https://www.sih.gov.in/",
-    "note": "nomination deadlines"
-  },
-  {
-    "id": "page-yuvayodha",
-    "org": "Schneider Yuva Yodha",
-    "type": "page",
-    "url": "https://www.yuvayodhatech.com/",
-    "note": "ideas due 4 Oct"
-  },
-  {
-    "id": "page-reliance",
-    "org": "Reliance Foundation Scholarships",
-    "type": "page",
-    "url": "https://scholarships.reliancefoundation.org/",
-    "note": "UG+PG close 5 Oct"
-  },
-  {
-    "id": "page-pmrf",
-    "org": "PMRF",
-    "type": "page",
-    "url": "https://www.pmrf.in/",
-    "note": "no live cycle — watch for reopening"
-  },
-  {
-    "id": "page-tifr-gs",
-    "org": "TIFR Graduate School",
-    "type": "page",
-    "url": "https://www.tifr.res.in/academics/gs_advertisement.php",
-    "note": "GS-2027 advert expected late Sept"
-  },
-  {
-    "id": "page-barc-oces",
-    "org": "BARC OCES/DGFS",
-    "type": "page",
-    "url": "https://www.barc.gov.in/careers/officers.html",
-    "note": "2027 advert expected ~Jan"
-  },
-  {
-    "id": "page-surge-iitk",
-    "org": "IIT Kanpur SURGE",
-    "type": "page",
-    "url": "https://surge.iitk.ac.in/",
-    "note": "2027 advert expected late Jan"
-  },
-  {
-    "id": "page-spark-iitr",
-    "org": "IIT Roorkee SPARK",
-    "type": "page",
-    "url": "https://spark.iitr.ac.in/",
-    "note": "2027 window not announced"
-  },
-  {
-    "id": "page-codevita",
-    "org": "TCS CodeVita",
-    "type": "page",
-    "url": "https://codevita.tcsapps.com/",
-    "note": "Season 14 expected"
-  },
-  {
-    "id": "page-imaginecup",
-    "org": "Microsoft Imagine Cup",
-    "type": "page",
-    "url": "https://imaginecup.microsoft.com/en-us",
-    "note": "2027 'coming soon'"
-  },
-  {
-    "id": "page-khorana",
-    "org": "Khorana Program (IUSSTF)",
-    "type": "page",
-    "url": "https://iusstf.org/khorana-program-for-scholars",
-    "note": "dormant — watch for revival"
-  },
-  {
-    "id": "page-xat",
-    "org": "XAT (XLRI)",
-    "type": "page",
-    "url": "https://xatonline.in/",
-    "note": "reg close date (site currently prints stale year)"
-  },
-  {
-    "id": "page-tata-imagination",
-    "org": "Tata Imagination Challenge",
-    "type": "page",
-    "url": "https://www.tata.com/careers/programs/tata-imagination-challenge",
-    "note": "round windows"
-  },
-  {
-    "id": "page-itc-interrobang",
-    "org": "ITC Interrobang",
-    "type": "page",
-    "url": "https://www.itcportal.com/careers/interrobang.aspx",
-    "note": "season launch"
-  },
-  {
-    "id": "page-brandstorm",
-    "org": "L'Oréal Brandstorm",
-    "type": "page",
-    "url": "https://brandstorm.loreal.com/en",
-    "note": "season calendar"
-  },
-  {
-    "id": "page-cmat",
-    "org": "CMAT (NTA)",
-    "type": "page",
-    "url": "https://cmat.nta.nic.in/",
-    "note": "2027 notification"
-  },
-  {
-    "id": "page-ethindia",
-    "org": "ETHIndia (Devfolio)",
-    "type": "page",
-    "url": "https://ethindia.co/",
-    "note": "2026 edition dates"
-  },
-  {
-    "id": "page-pischool",
-    "org": "Pi School",
-    "type": "page",
-    "url": "https://picampus-school.com/programme/school-of-artificial-intelligence/",
-    "note": "next cohort dates"
-  },
-  {
-    "id": "page-turkiye-burslari",
-    "org": "Türkiye Scholarships",
-    "type": "page",
-    "url": "https://www.turkiyeburslari.gov.tr/",
-    "note": "2027 call (~10 Jan)"
-  },
-  {
-    "id": "page-stipendium-hu",
-    "org": "Stipendium Hungaricum",
-    "type": "page",
-    "url": "https://stipendiumhungaricum.hu/apply/",
-    "note": "2027/28 call (~Nov)"
-  },
-  {
-    "id": "page-eiffel",
-    "org": "Eiffel (Campus France India)",
-    "type": "page",
-    "url": "https://www.inde.campusfrance.org/eiffel_scholarship_2024",
-    "note": "2027 call (~Oct)"
-  },
-  {
-    "id": "page-gks",
-    "org": "GKS (Study in Korea)",
-    "type": "page",
-    "url": "https://www.studyinkorea.go.kr/en/plan/scholarship.do?tab=gks-tab1",
-    "note": "2027 guidelines (~late Jan)"
-  },
-  {
-    "id": "page-mext-india",
-    "org": "MEXT (Embassy of Japan, India)",
-    "type": "page",
-    "url": "https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html",
-    "note": "2028 windows (~Apr)"
-  },
-  {
-    "id": "page-great-india",
-    "org": "GREAT Scholarships India",
-    "type": "page",
-    "url": "https://www.britishcouncil.in/study-uk/scholarships/great-scholarships",
-    "note": "2027-28 list (autumn)"
-  }
+ {
+  "id": "gh-janestreet",
+  "org": "Jane Street",
+  "type": "greenhouse",
+  "slug": "janestreet",
+  "filter": [
+   "intern",
+   "graduate",
+   "new grad",
+   "campus"
+  ]
+ },
+ {
+  "id": "gh-flowtraders",
+  "org": "Flow Traders",
+  "type": "greenhouse",
+  "slug": "flowtraders",
+  "filter": [
+   "intern",
+   "graduate",
+   "trainee"
+  ]
+ },
+ {
+  "id": "gh-graviton",
+  "org": "Graviton Research Capital",
+  "type": "greenhouse",
+  "slug": "gravitonresearchcapital",
+  "filter": [
+   "intern",
+   "graduate",
+   "2027",
+   "2028"
+  ]
+ },
+ {
+  "id": "gh-imc",
+  "org": "IMC Trading",
+  "type": "greenhouse-eu",
+  "slug": "imc",
+  "filter": [
+   "intern",
+   "graduate",
+   "launchpad",
+   "mumbai"
+  ]
+ },
+ {
+  "id": "gh-davinci",
+  "org": "Da Vinci Derivatives",
+  "type": "greenhouse-eu",
+  "slug": "davinciderivatives",
+  "filter": [
+   "intern",
+   "graduate"
+  ]
+ },
+ {
+  "id": "gh-hrt",
+  "org": "Hudson River Trading",
+  "type": "greenhouse",
+  "slug": "wehrtyou",
+  "filter": [
+   "intern",
+   "campus",
+   "graduate"
+  ]
+ },
+ {
+  "id": "amazon-in-intern",
+  "org": "Amazon India",
+  "type": "amazon",
+  "url": "https://www.amazon.jobs/en/search.json?base_query=intern&country=IND&result_limit=100",
+  "filter": []
+ },
+ {
+  "id": "page-gate2027",
+  "org": "GATE (IIT Madras)",
+  "type": "page",
+  "url": "https://gate2027.iitm.ac.in/",
+  "note": "registration windows, paper changes"
+ },
+ {
+  "id": "page-jam2027",
+  "org": "JAM (IIT Kharagpur)",
+  "type": "page",
+  "url": "https://jam.iitkgp.ac.in/",
+  "note": "registration windows"
+ },
+ {
+  "id": "page-isro-icrb",
+  "org": "ISRO ICRB",
+  "type": "page",
+  "url": "https://www.isro.gov.in/ICRB_Recruitment13.html",
+  "note": "scientist/engineer drives"
+ },
+ {
+  "id": "page-rac-drdo",
+  "org": "DRDO RAC",
+  "type": "page",
+  "url": "https://rac.gov.in/",
+  "note": "Scientist B 2027 advert expected"
+ },
+ {
+  "id": "page-sac-isro",
+  "org": "ISRO SAC careers",
+  "type": "page",
+  "url": "https://careers.sac.gov.in/",
+  "note": "JRF/RA drives"
+ },
+ {
+  "id": "page-mpg-cis",
+  "org": "Max Planck CS institutes",
+  "type": "page",
+  "url": "https://www.cis.mpg.de/internships/",
+  "note": "summer internship, 1 Nov deadline"
+ },
+ {
+  "id": "page-epfl-e3",
+  "org": "EPFL E3",
+  "type": "page",
+  "url": "https://eee.epfl.ch/apply/",
+  "note": "portal opens October"
+ },
+ {
+  "id": "page-epfl-summer",
+  "org": "Summer@EPFL",
+  "type": "page",
+  "url": "https://summer.epfl.ch/",
+  "note": "opens ~2 weeks before deadline"
+ },
+ {
+  "id": "page-eth-ssrf",
+  "org": "ETH Zurich SSRF",
+  "type": "page",
+  "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+  "note": "window opens early Nov"
+ },
+ {
+  "id": "page-caltech-surf",
+  "org": "Caltech SURF",
+  "type": "page",
+  "url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
+  "note": "opens 1 Nov"
+ },
+ {
+  "id": "page-ias-srfp",
+  "org": "IAS/INSA/NASI SRFP",
+  "type": "page",
+  "url": "https://webjapps.ias.ac.in/fellowship2027/",
+  "note": "closes 30 Nov"
+ },
+ {
+  "id": "page-gsoc",
+  "org": "Google Summer of Code",
+  "type": "page",
+  "url": "https://summerofcode.withgoogle.com/",
+  "note": "2027 timeline expected"
+ },
+ {
+  "id": "page-outreachy",
+  "org": "Outreachy",
+  "type": "page",
+  "url": "https://www.outreachy.org/",
+  "note": "May 2027 cohort window ~Feb"
+ },
+ {
+  "id": "page-cohere-scholars",
+  "org": "Cohere Labs Scholars",
+  "type": "page",
+  "url": "https://cohere.com/research/scholars-program",
+  "note": "expected Fall 2026"
+ },
+ {
+  "id": "page-sih",
+  "org": "Smart India Hackathon",
+  "type": "page",
+  "url": "https://www.sih.gov.in/",
+  "note": "nomination deadlines"
+ },
+ {
+  "id": "page-yuvayodha",
+  "org": "Schneider Yuva Yodha",
+  "type": "page",
+  "url": "https://www.yuvayodhatech.com/",
+  "note": "ideas due 4 Oct"
+ },
+ {
+  "id": "page-reliance",
+  "org": "Reliance Foundation Scholarships",
+  "type": "page",
+  "url": "https://scholarships.reliancefoundation.org/",
+  "note": "UG+PG close 5 Oct"
+ },
+ {
+  "id": "page-pmrf",
+  "org": "PMRF",
+  "type": "page",
+  "url": "https://www.pmrf.in/",
+  "note": "no live cycle — watch for reopening"
+ },
+ {
+  "id": "page-tifr-gs",
+  "org": "TIFR Graduate School",
+  "type": "page",
+  "url": "https://www.tifr.res.in/academics/gs_advertisement.php",
+  "note": "GS-2027 advert expected late Sept"
+ },
+ {
+  "id": "page-barc-oces",
+  "org": "BARC OCES/DGFS",
+  "type": "page",
+  "url": "https://www.barc.gov.in/careers/officers.html",
+  "note": "2027 advert expected ~Jan"
+ },
+ {
+  "id": "page-surge-iitk",
+  "org": "IIT Kanpur SURGE",
+  "type": "page",
+  "url": "https://surge.iitk.ac.in/",
+  "note": "2027 advert expected late Jan"
+ },
+ {
+  "id": "page-spark-iitr",
+  "org": "IIT Roorkee SPARK",
+  "type": "page",
+  "url": "https://spark.iitr.ac.in/",
+  "note": "2027 window not announced"
+ },
+ {
+  "id": "page-codevita",
+  "org": "TCS CodeVita",
+  "type": "page",
+  "url": "https://codevita.tcsapps.com/",
+  "note": "Season 14 expected"
+ },
+ {
+  "id": "page-imaginecup",
+  "org": "Microsoft Imagine Cup",
+  "type": "page",
+  "url": "https://imaginecup.microsoft.com/en-us",
+  "note": "2027 'coming soon'"
+ },
+ {
+  "id": "page-khorana",
+  "org": "Khorana Program (IUSSTF)",
+  "type": "page",
+  "url": "https://iusstf.org/khorana-program-for-scholars",
+  "note": "dormant — watch for revival"
+ },
+ {
+  "id": "page-xat",
+  "org": "XAT (XLRI)",
+  "type": "page",
+  "url": "https://xatonline.in/",
+  "note": "reg close date (site currently prints stale year)"
+ },
+ {
+  "id": "page-tata-imagination",
+  "org": "Tata Imagination Challenge",
+  "type": "page",
+  "url": "https://www.tata.com/careers/programs/tata-imagination-challenge",
+  "note": "round windows"
+ },
+ {
+  "id": "page-itc-interrobang",
+  "org": "ITC Interrobang",
+  "type": "page",
+  "url": "https://www.itcportal.com/careers/interrobang.aspx",
+  "note": "season launch"
+ },
+ {
+  "id": "page-brandstorm",
+  "org": "L'Oréal Brandstorm",
+  "type": "page",
+  "url": "https://brandstorm.loreal.com/en",
+  "note": "season calendar"
+ },
+ {
+  "id": "page-cmat",
+  "org": "CMAT (NTA)",
+  "type": "page",
+  "url": "https://cmat.nta.nic.in/",
+  "note": "2027 notification"
+ },
+ {
+  "id": "page-ethindia",
+  "org": "ETHIndia (Devfolio)",
+  "type": "page",
+  "url": "https://ethindia.co/",
+  "note": "2026 edition dates"
+ },
+ {
+  "id": "page-pischool",
+  "org": "Pi School",
+  "type": "page",
+  "url": "https://picampus-school.com/programme/school-of-artificial-intelligence/",
+  "note": "next cohort dates"
+ },
+ {
+  "id": "page-turkiye-burslari",
+  "org": "Türkiye Scholarships",
+  "type": "page",
+  "url": "https://www.turkiyeburslari.gov.tr/",
+  "note": "2027 call (~10 Jan)"
+ },
+ {
+  "id": "page-stipendium-hu",
+  "org": "Stipendium Hungaricum",
+  "type": "page",
+  "url": "https://stipendiumhungaricum.hu/apply/",
+  "note": "2027/28 call (~Nov)"
+ },
+ {
+  "id": "page-eiffel",
+  "org": "Eiffel (Campus France India)",
+  "type": "page",
+  "url": "https://www.inde.campusfrance.org/eiffel_scholarship_2024",
+  "note": "2027 call (~Oct)"
+ },
+ {
+  "id": "page-gks",
+  "org": "GKS (Study in Korea)",
+  "type": "page",
+  "url": "https://www.studyinkorea.go.kr/en/plan/scholarship.do?tab=gks-tab1",
+  "note": "2027 guidelines (~late Jan)"
+ },
+ {
+  "id": "page-mext-india",
+  "org": "MEXT (Embassy of Japan, India)",
+  "type": "page",
+  "url": "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm",
+  "note": "2028 windows (~Apr). Indian embassy page (in.emb-japan.go.jp) is bot-walled — check it by hand in April"
+ },
+ {
+  "id": "page-great-india",
+  "org": "GREAT Scholarships India",
+  "type": "manual",
+  "url": "https://www.britishcouncil.in/study-uk/scholarships/great-scholarships",
+  "note": "2027-28 list (autumn). britishcouncil.in and study-uk.britishcouncil.org are Akamai-walled for every fetcher — open by hand"
+ }
 ]

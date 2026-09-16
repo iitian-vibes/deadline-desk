@@ -4,6 +4,12 @@
 //
 //   node scripts/watch.mjs             # diff against state/, write reports/YYYY-MM-DD.md
 //   node scripts/watch.mjs --seed      # first run: record state, report nothing
+//   node scripts/watch.mjs --dry --only page-sih,page-gate   # test a few sources, write nothing
+//
+// Page sources that 403/timeout for plain fetch+curl are retried through headless
+// Chromium when `playwright` is importable (CI installs it; local runs skip silently).
+// A page change only counts as NEW__ when an added line looks like a deadline/opening
+// (see SIGNAL); nav/video/footer churn is recorded but filed under "minor".
 //
 // Exit code: 0 always. "NEW__" markers in the report are what the CI issue step greps for.
 import fs from 'node:fs';
@@ -15,6 +21,17 @@ const WATCHLIST = JSON.parse(fs.readFileSync(path.join(root, 'data/watchlist.jso
 const STATE_PATH = path.join(root, 'state/watch-state.json');
 const state = fs.existsSync(STATE_PATH) ? JSON.parse(fs.readFileSync(STATE_PATH, 'utf8')) : {};
 const seed = process.argv.includes('--seed');
+const dry = process.argv.includes('--dry');
+const onlyArg = process.argv.find((a) => a.startsWith('--only='))?.slice(7);
+const ONLY = onlyArg ? new Set(onlyArg.split(',')) : null;
+
+// What a deadline-ish line looks like. Anything else added to a page is churn.
+const SIGNAL = /\b(deadline|last date|closes?|closing|closed|apply|applications?|registration|register|opens?|opening|due|submission|submit|nominat|announce|notification|advertisement|advt|recruit|vacanc|intake|call for|walk-?in|extended)\b|\b(20(2[6-9]))\b|\b\d{1,2}(st|nd|rd|th)?[\s-]+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b/i;
+const KEYWORD = /\b(deadline|last date|closes?|closing|closed|apply|applications?|registration|register|opens?|opening|due|submission|submit|nominat|announce|notification|advertisement|advt|recruit|vacanc|intake|call for|walk-?in|extended)\b/i;
+// A bare date ("- 16 Sep, 2026") is a page's last-updated stamp, not news; a date needs a sentence around it.
+const DATED = /\b\d{1,2}(st|nd|rd|th)?[\s-]+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+\d{1,2}\b/i;
+// Keyword lines need a sentence (a "Submit" button is 1 word); dated lines need a sentence too. A year on its own is never news.
+const isSignal = (line) => { const w = line.split(/\s+/).length; return (KEYWORD.test(line) && w >= 3) || (DATED.test(line) && w >= 5); };
 const UA = 'Mozilla/5.0 (compatible; DeadlineDeskWatcher/1.0; +https://iitianvibes.com/blog/deadline-desk)';
 const today = new Date().toISOString().slice(0, 10);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -37,6 +54,26 @@ async function get(url) {
     } catch {}
     return { err: e.name === 'AbortError' ? 'timeout' : String(e.message || e) };
   }
+}
+
+// Headless-Chromium fallback for bot-walled pages (SIH, MEXT, IUSSTF, Brandstorm all 403 plain fetch).
+let _pw = null;
+async function getWithBrowser(url) {
+  try { _pw ??= await import('playwright'); } catch { return { err: 'blocked (no browser available)' }; }
+  let browser;
+  try {
+    browser = await _pw.chromium.launch();
+    const ctx = await browser.newContext({ userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36', locale: 'en-IN', ignoreHTTPSErrors: true });
+    const page = await ctx.newPage();
+    const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForTimeout(1500);
+    const body = await page.content();
+    const status = resp?.status() ?? 0;
+    if (status >= 400 || body.length < 2000) return { err: `browser http ${status} (${body.length} bytes)` };
+    return { body, via: 'browser' };
+  } catch (e) {
+    return { err: `browser: ${String(e.message || e).split('\n')[0].slice(0, 80)}` };
+  } finally { await browser?.close(); }
 }
 
 const norm = (s) => s.toLowerCase();
@@ -74,27 +111,43 @@ function pageText(html) {
 }
 
 const lines = [];
+const minorLines = [];
+const drafts = [];   // one stub per signal hit → data/drafts/<date>.json for the draft-PR step
 const newMarkers = [];
 let checked = 0, errors = 0;
 
+let minor = 0;
+const manual = [];
 for (const src of WATCHLIST) {
+  if (ONLY && !ONLY.has(src.id)) continue;
   await sleep(300);
   checked++;
   const prev = state[src.id];
+  if (src.type === 'manual') { manual.push(`- ${src.org}: ${src.url} — ${src.note ?? ''}`); continue; }
   if (src.type === 'page') {
-    const { body, err } = await get(src.url);
+    let { body, err } = await get(src.url);
+    if (err && /http 40[0-9]|timeout|fetch failed|ECONNRESET|blocked/i.test(err)) {
+      const b = await getWithBrowser(src.url);
+      if (!b.err) { body = b.body; err = undefined; }
+      else err = `${err}; ${b.err}`;
+    }
     if (err) { errors++; lines.push(`- ERROR ${src.id} (${src.org}): ${err}`); state[src.id] = { ...prev, lastChecked: today, error: err }; continue; }
     const text = pageText(body);
     if (!prev?.text) { state[src.id] = { text, lastChecked: today, lastChanged: today }; continue; }
     if (prev.text !== text && !seed) {
       const prevSet = new Set(prev.text.split('\n'));
-      const added = text.split('\n').filter((l) => !prevSet.has(l)).slice(0, 6);
+      const addedAll = text.split('\n').filter((l) => !prevSet.has(l));
+      const added = [...new Set(addedAll.filter(isSignal))].slice(0, 8);
       if (added.length) {
         newMarkers.push(src.id);
         lines.push(`### NEW__ ${src.org} — page changed (${src.url})`);
         if (src.note) lines.push(`  _watching for: ${src.note}_`);
         for (const a of added) lines.push(`  + ${a.slice(0, 160)}`);
         lines.push('');
+        drafts.push({ src, quote: added[0] });
+      } else if (addedAll.length) {
+        minor++;
+        minorLines.push(`- minor: ${src.org} (${addedAll.length} changed line(s), none deadline-shaped)`);
       }
       state[src.id] = { text, lastChecked: today, lastChanged: today };
     } else {
@@ -111,6 +164,7 @@ for (const src of WATCHLIST) {
         newMarkers.push(src.id);
         lines.push(`### NEW__ ${src.org} — ${added.length} new posting(s)`);
         for (const [, t] of added) lines.push(`  + ${t}`);
+        for (const [, t] of added.slice(0, 3)) drafts.push({ src, quote: t });
       }
       if (removed.length) lines.push(`  (- ${removed.length} posting(s) closed/removed at ${src.org})`);
       lines.push('');
@@ -119,10 +173,38 @@ for (const src of WATCHLIST) {
   }
 }
 
+const header = `# Watcher report — ${today}\n\n${checked} sources checked · ${newMarkers.length} with new activity · ${minor} minor · ${errors} errors\n\n`;
+const minorBlock = minorLines.length ? `\n<details><summary>${minorLines.length} page(s) changed without a deadline-shaped line</summary>\n\n${minorLines.join('\n')}\n</details>\n` : '';
+const manualBlock = manual.length ? `\n**Needs a human look (bot-walled, not fetched):**\n${manual.join('\n')}\n` : '';
+const report = header + (lines.length ? lines.join('\n') : '_No changes detected._') + '\n' + minorBlock + manualBlock;
+console.log(report);
+if (dry) { console.log('(dry run — nothing written)'); process.exit(0); }
+
 fs.mkdirSync(path.join(root, 'state'), { recursive: true });
 fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 1) + '\n');
-const header = `# Watcher report — ${today}\n\n${checked} sources checked · ${newMarkers.length} with new activity · ${errors} errors\n\n`;
-const report = header + (lines.length ? lines.join('\n') : '_No changes detected._') + '\n';
 fs.mkdirSync(path.join(root, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(root, `reports/${today}.md`), report);
-console.log(report);
+// One line per day, so the trend is readable without opening 30 files.
+fs.appendFileSync(path.join(root, 'reports/digest.md'), `${today} · ${checked} checked · ${newMarkers.length} signal · ${minor} minor · ${errors} errors\n`);
+
+// Draft rows: every signal hit becomes a stub in the dataset's shape with the receipt
+// pre-filled. The draft-PR step in CI opens a PR from these; a human fills the TODOs.
+if (drafts.length) {
+  const slug = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+  const stubs = drafts.map(({ src, quote }) => ({
+    id: `${slug(src.org)}-${slug(quote.split(' — ')[0]).slice(0, 40)}-DRAFT`,
+    name: 'TODO — from watcher hit',
+    org: src.org,
+    lane: 'TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba',
+    sub: 'TODO', kind: 'TODO', what: 'TODO', eligibility: 'TODO — must state who can apply, incl. year/branch', pay: 'TODO verbatim or "not stated"',
+    status: 'OPEN', deadline: 'TODO YYYY-MM-DD',
+    deadline_quote: quote.slice(0, 240),
+    apply_url: (quote.match(/https?:\/\/\S+/) || [src.url])[0],
+    source_url: src.url,
+    notes: `Watcher hit ${today}: ${src.note ?? ''}`.trim(),
+    verified_at: null,
+  }));
+  fs.mkdirSync(path.join(root, 'data/drafts'), { recursive: true });
+  fs.writeFileSync(path.join(root, `data/drafts/${today}.json`), JSON.stringify(stubs, null, 1) + '\n');
+  console.log(`${stubs.length} draft stub(s) → data/drafts/${today}.json`);
+}

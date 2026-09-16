@@ -6,6 +6,7 @@ on:
 permissions:
   contents: write
   issues: write
+  pull-requests: write
 jobs:
   watch:
     runs-on: ubuntu-latest
@@ -13,6 +14,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
+      # Headless Chromium for the bot-walled pages (SIH, IUSSTF, Brandstorm, DRDO RAC 403 plain fetch).
+      # watch.mjs imports it dynamically and falls back to plain fetch when it is absent.
+      - name: Install headless Chromium
+        run: |
+          npm init -y >/dev/null
+          npm i --no-save playwright@1.47.2 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
       # main is protected; watcher outputs live on the watcher-state branch instead
       - name: Restore previous state
         run: |
@@ -24,6 +32,7 @@ jobs:
         run: |
           git config user.name "deadline-desk-watcher"
           git config user.email "actions@users.noreply.github.com"
+          rm -f package.json package-lock.json
           git add -f state/ reports/
           git stash push --staged -m watcher >/dev/null
           git fetch origin watcher-state 2>/dev/null && git checkout -B watcher-state origin/watcher-state || git checkout --orphan watcher-state
@@ -32,11 +41,37 @@ jobs:
           git add -f state/ reports/
           git commit -m "watcher: $(date -u +%F)" state reports || exit 0
           git push origin watcher-state
+          git checkout -q main
       - name: Open issue when something changed
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
           REPORT="reports/$(date -u +%F).md"
+          git checkout -q origin/watcher-state -- reports 2>/dev/null || true
           if [ -f "$REPORT" ] && grep -q "NEW__" "$REPORT"; then
             gh issue create --title "Opened/changed: $(grep -c 'NEW__' "$REPORT") source(s) — $(date -u +%F)" \
               --body-file "$REPORT" --label watcher
           fi
+      # Every signal hit becomes a stub row with the receipt pre-filled, on its own branch,
+      # as a PR a human finishes. Nothing here touches data/opportunities.json.
+      - name: Open draft-rows PR
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          DATE="$(date -u +%F)"
+          DRAFT="data/drafts/$DATE.json"
+          [ -f "$DRAFT" ] || exit 0
+          git checkout -q -B "draft/$DATE" origin/main
+          git add -f "$DRAFT"
+          git commit -q -m "drafts: $DATE watcher hits ($(node -e "console.log(require('./$DRAFT').length)") stub row(s))"
+          git push -f origin "draft/$DATE"
+          gh pr create --base main --head "draft/$DATE" --label draft-rows \
+            --title "Draft rows from watcher — $DATE" \
+            --body "Stub rows for today's watcher hits, receipt line pre-filled. To promote one: fill every TODO from the org's own page, move it into \`data/opportunities.json\`, delete it from this file, and let \`verify\` run. Rows reach the site only at the Saturday rebuild." || true
+      # Watcher issues go stale fast: a hit is either promoted within a week or it wasn't one.
+      - name: Close watcher issues older than 7 days
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          CUTOFF=$(date -u -d '7 days ago' +%FT%TZ)
+          gh issue list --label watcher --state open --limit 100 --json number,createdAt \
+            -q ".[] | select(.createdAt < \"$CUTOFF\") | .number" | while read -r n; do
+              gh issue close "$n" --comment "Auto-closed: watcher hits older than 7 days are either promoted to a row or were noise. The report stays on the watcher-state branch."
+            done
