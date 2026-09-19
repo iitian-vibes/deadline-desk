@@ -95,5 +95,10 @@ if (fix && kept.length !== rows.length) {
   fs.writeFileSync(DATA, JSON.stringify(kept, null, 2) + '\n');
   console.log(`\n--fix: dropped ${rows.length - kept.length} expired row(s)`);
 }
+// Record the probe so the README badge cannot claim a verification that did not happen.
+if (!failures.length) {
+  const statePath = path.resolve(__dirname, '../data/last-verified.json');
+  fs.writeFileSync(statePath, JSON.stringify({ links_checked: today, rows: rows.length, warnings_who: warnCount }, null, 1) + '\n');
+}
 console.log(`\n${rows.length} rows · ${failures.length} with problems · ${warnCount} with warnings (who) · today ${today}`);
 process.exit(failures.length ? 1 : 0);

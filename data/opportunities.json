@@ -55,7 +55,8 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "International",
-    "kind": "Internship"
+    "kind": "Internship",
+    "who": "bachelor’s students at the physics/chemistry/biology/engineering interface, enrolled through the whole internship"
   },
   {
     "id": "epfl-school-of-engineering-switzerland-epfl-excellence-in-en",
@@ -388,7 +389,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Study abroad",
-    "kind": "Scholarship"
+    "kind": "Scholarship",
+    "who": "graduates with at least two years (2,800 hours) of work experience, Indian citizens; current students cannot apply this cycle",
+    "trap": "Closes **11:00 UTC — 4:30 PM IST**, not midnight. An evening of the 6th does not exist for this one."
   },
   {
     "id": "stanford-university-knight-hennessy-scholars-2027",
@@ -407,7 +410,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Study abroad",
-    "kind": "Scholarship"
+    "kind": "Scholarship",
+    "who": "final years and graduates whose first bachelor’s is from 2020 or later, any nationality, applying to a Stanford graduate degree",
+    "trap": "Closes **1 PM Pacific = 01:30 IST on 7 Oct**, and Stanford’s own programme deadline is a separate application in December. The scholarship form is not the admission."
   },
   {
     "id": "gates-cambridge-trust-gates-cambridge-scholarship-2027-28",
@@ -446,7 +451,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Study abroad",
-    "kind": "Scholarship"
+    "kind": "Scholarship",
+    "who": "Indian citizens with a bachelor’s, applying through the Ministry of Education as nominating agency",
+    "trap": "The CSC date is 16:00 BST on 20 Oct, but India’s **Ministry of Education sets its own earlier internal date** — the CSC deadline is not your deadline."
   },
   {
     "id": "commonwealth-scholarship-commission-uk-commonwealth-phd-scho",
@@ -465,7 +472,8 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Study abroad",
-    "kind": "Scholarship"
+    "kind": "Scholarship",
+    "who": "Indian citizens nominated by the Ministry of Education after applying on the CSC system"
   },
   {
     "id": "tsinghua-university-schwarzman-scholars-2028-29",
@@ -977,27 +985,6 @@
     "kind": "Internship"
   },
   {
-    "id": "isro-icrb-isro-scientist-engineer-sc-isro-icrb-03-emc-2026",
-    "name": "ISRO Scientist/Engineer 'SC' — ISRO:ICRB:03(EMC):2026",
-    "org": "ISRO (ICRB)",
-    "lane": "B-govt",
-    "what": "Group A Scientist/Engineer SC, Level 10: Electronics 99, Mechanical 52, Computer Science 21 + PRL posts; CBT + interview",
-    "eligibility": "BE/B.Tech in ECE / Mechanical / CS with min 65% or CGPA 6.84; age 28 as on 16-09-2026",
-    "pay": "Level 10, minimum basic pay ₹56,100/- p.m. + DA, HRA, TA",
-    "status": "OPEN",
-    "opens": "2026-08-27",
-    "deadline": "2026-09-16",
-    "deadline_quote": "The online recruitment portal will be open from 27.08.2026 to 16.09.2026 at 11.55 PM",
-    "apply_url": "https://www.isro.gov.in/ICRB_Recruitment13.html",
-    "source_url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/August/Bilingual_Advertisement_27082026.pdf",
-    "source_published_at": "2026-08-27",
-    "notes": "Fee ₹250 (₹750 upfront, ₹500 refunded on appearing for CBT)",
-    "retrieved": "2026-09-12",
-    "verified_at": "2026-09-12",
-    "sub": "Recruitment",
-    "kind": "Full-time"
-  },
-  {
     "id": "isro-space-applications-centre-ahmedabad-isro-sac-jrf-ra-pro",
     "name": "ISRO SAC JRF / RA / Project Scientist-I — SAC:02:2026",
     "org": "ISRO Space Applications Centre, Ahmedabad",
@@ -1016,7 +1003,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Research posts",
-    "kind": "Full-time"
+    "kind": "Full-time",
+    "who": "ME/M.Tech, or BE/B.Tech/M.Sc with a valid GATE or CSIR-NET score; JRF age limit 28 as on 30 Sep 2026",
+    "trap": "The apply portal (careers.sac.gov.in) has been intermittently unreachable, so the link points at ISRO’s own advert PDF. Do not read a dead portal as a closed drive."
   },
   {
     "id": "upsc-upsc-engineering-services-prelims-2027",
@@ -1058,7 +1047,8 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Exams",
-    "kind": "Exam / admission"
+    "kind": "Exam / admission",
+    "who": "M.Sc / Integrated M.Sc in Geology, Geophysics, Physics or Chemistry, age 21–32 on 1 Jan 2027; B.Tech-only candidates are not eligible"
   },
   {
     "id": "iit-madras-organising-institute-gate-2027-registration",
@@ -1074,12 +1064,13 @@
     "deadline_quote": "27th September 2026 Regular registration closes Without late fee — 5th October 2026 Extended registration closes With late fee",
     "apply_url": "https://gate2027.iitm.ac.in/",
     "source_url": "https://gate2027.iitm.ac.in/",
-    "notes": "Extended to 5 Oct with late fee; DigiLocker account mandatory",
+    "notes": "Extended to 5 Oct with late fee. DigiLocker is mandatory for Indian nationals, but the site also states you may register with an UNVERIFIED DigiLocker account and pick the default ID proof — those applications are scrutinised after the deadline. Verified on the org page 18 Sep 2026.",
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Exams",
     "kind": "Exam / admission",
-    "who": "third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register"
+    "who": "third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register",
+    "trap": "Their banner says a VERIFIED DigiLocker account is mandatory. Further down, the same site allows registering with an **unverified** DigiLocker account — pick the default ID proof and they scrutinise the documents after the deadline. Nobody is locked out by DigiLocker alone."
   },
   {
     "id": "iit-kharagpur-organising-institute-jam-2027-registration",
@@ -1276,7 +1267,8 @@
     "verified_at": "2026-09-12",
     "sub": "Hackathons",
     "kind": "Competition",
-    "who": "any year, any branch, as a team nominated by your college SPOC after an internal round"
+    "who": "any year, any branch, as a team nominated by your college SPOC after an internal round",
+    "trap": "The 30th is the portal’s outer date. Your **college’s internal round closes earlier** and your SPOC sets that date; a problem statement also freezes once it collects 500 ideas."
   },
   {
     "id": "schneider-electric-india-yuva-yodha-energy-tech-hackathon-20",
@@ -1295,7 +1287,8 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "Hackathons",
-    "kind": "Competition"
+    "kind": "Competition",
+    "who": "any full-time UG or PG STEM student in India, first year included, in teams of up to four"
   },
   {
     "id": "cz-biohub-kaggle-kaggle-biohub-cell-tracking-during-developm",
@@ -1314,7 +1307,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "ML challenges",
-    "kind": "Competition"
+    "kind": "Competition",
+    "who": "any year, anywhere, solo or in a team — no degree or affiliation required",
+    "trap": "The date everyone saves is 29 Sep, the final submission. The **22nd is the entry deadline** — miss it and you cannot submit at all, however good your model."
   },
   {
     "id": "kaggle-kaggle-kaggriculture",
@@ -1333,7 +1328,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-09-12",
     "sub": "ML challenges",
-    "kind": "Competition"
+    "kind": "Competition",
+    "who": "any year, anywhere, solo or in a team — no degree or affiliation required",
+    "trap": "Same shape as every Kaggle competition: the **23rd is the entry deadline**, the 30th is only the final submission. Accept the rules first."
   },
   {
     "id": "rsna-kaggle-kaggle-rsna-knee-abnormality-detection",
@@ -1742,26 +1739,6 @@
     "verified_at": "2026-09-12"
   },
   {
-    "id": "amazon-applied-scientist-i-ads-trust-bengaluru",
-    "name": "Applied Scientist I — Ads Trust",
-    "org": "Amazon",
-    "lane": "B-industry",
-    "sub": "ML/AI",
-    "kind": "Full-time",
-    "what": "Entry-level applied scientist (deep learning for ads quality); Bengaluru",
-    "eligibility": "Has or is completing a Master's in Engineering / CS / ML / OR / Statistics; final-year M.Tech / MS / PhD fit",
-    "pay": "not stated",
-    "status": "ROLLING",
-    "deadline": null,
-    "deadline_quote": "Posted September 11, 2026",
-    "apply_url": "https://www.amazon.jobs/en/jobs/10537673/applied-scientist-i-ads-trust",
-    "source_url": "https://www.amazon.jobs/en/jobs/10537673/applied-scientist-i-ads-trust",
-    "source_published_at": "2026-09-11",
-    "notes": "Amazon India has no SDE or Applied Science internship live today; SDE-I postings require 1+ year of non-internship experience",
-    "retrieved": "2026-09-12",
-    "verified_at": "2026-09-12"
-  },
-  {
     "id": "wadhwani-ai-associate-ml-scientist-i",
     "name": "Associate ML Scientist I",
     "org": "Wadhwani AI",
@@ -2067,7 +2044,9 @@
     "source_url": "https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon",
     "notes": "Countdown is to the kick-off — register before 25 Sep",
     "retrieved": "2026-09-13",
-    "verified_at": "2026-09-13"
+    "verified_at": "2026-09-13",
+    "who": "any year, any branch, building online from India; register before the kick-off stream",
+    "trap": "The countdown on the page runs to the kick-off stream, not to a submission. You must **register before 25 Sep** or the 48-hour build starts without you."
   },
   {
     "id": "amd-lablab-ai-academy-challenge",
