@@ -1297,7 +1297,7 @@
     "lane": "C-competition",
     "what": "Research code competition: track zebrafish cells in 3D+time; $60,000 total",
     "eligibility": "Open worldwide; individuals/teams",
-    "pay": "1st Place - $18,000 2nd Place - $12,000 3rd Place - $8,000",
+    "pay": "1st $18,000 · 2nd $12,000 · 3rd $8,000 · 4th–5th $6,000 · 6th–7th $5,000",
     "status": "OPEN",
     "deadline": "2026-09-22",
     "deadline_quote": "September 22, 2026 - Entry Deadline. You must accept the competition rules before this date in order to compete. ... September 29, 2026 - Final Submission Deadline.",
@@ -1309,7 +1309,10 @@
     "sub": "ML challenges",
     "kind": "Competition",
     "who": "any year, anywhere, solo or in a team — no degree or affiliation required",
-    "trap": "The date everyone saves is 29 Sep, the final submission. The **22nd is the entry deadline** — miss it and you cannot submit at all, however good your model."
+    "trap": "The date everyone saves is 29 Sep, the final submission. The **22nd is the entry deadline** (and the team-merger deadline) — miss it and you cannot submit at all. Note it opened 29 June: 3,737 teams are already on the board.",
+    "opened": "2026-06-29",
+    "field": "13,223 entrants · 3,737 teams · 75,022 submissions already",
+    "runway": "Entry closes 22 Sep; final submission 29 Sep — a cold start leaves you 7 days against teams who have had three months."
   },
   {
     "id": "kaggle-kaggle-kaggriculture",
@@ -1318,7 +1321,7 @@
     "lane": "C-competition",
     "what": "Simulation competition: farming-sim agent on a ladder; $50,000 total, flat $5k for top 10",
     "eligibility": "Open worldwide",
-    "pay": "1st–10th Place - $5,000 each",
+    "pay": "1st–10th Place — $5,000 each ($50,000 total)",
     "status": "OPEN",
     "deadline": "2026-09-23",
     "deadline_quote": "September 23, 2026 - Entry Deadline. ... September 30, 2026 - Final Submission Deadline.",
@@ -1330,7 +1333,10 @@
     "sub": "ML challenges",
     "kind": "Competition",
     "who": "any year, anywhere, solo or in a team — no degree or affiliation required",
-    "trap": "Same shape as every Kaggle competition: the **23rd is the entry deadline**, the 30th is only the final submission. Accept the rules first."
+    "trap": "The **23rd is the entry deadline**, not the 30th. It opened 29 July, but this one is a ladder: games run to ~15 Oct and **all ten places pay $5,000 each**, so a good agent entered late still climbs.",
+    "opened": "2026-07-29",
+    "field": "20,629 entrants · 9,633 teams",
+    "runway": "Entry closes 23 Sep, final submission 30 Sep, then the ladder keeps playing to ~15 Oct — a late agent still accumulates games."
   },
   {
     "id": "rsna-kaggle-kaggle-rsna-knee-abnormality-detection",
@@ -1987,7 +1993,10 @@
     "source_url": "https://hacker-house-goa-2026.devfolio.co/",
     "notes": "Prestige/residency play; travel not covered",
     "retrieved": "2026-09-13",
-    "verified_at": "2026-09-13"
+    "verified_at": "2026-09-13",
+    "opened": "2026-08-13",
+    "event": "28–31 October 2026, in person in Goa",
+    "trap": "The 30 September date is the **application** deadline — the residency itself runs 28–31 October. Around 247 builders are picked from 10,000+ applicants, so treat it as an application, not a signup."
   },
   {
     "id": "codeutsava-x-nit-raipur",
@@ -2006,7 +2015,9 @@
     "source_url": "https://codeutsava-x.devfolio.co/",
     "notes": "",
     "retrieved": "2026-09-13",
-    "verified_at": "2026-09-13"
+    "verified_at": "2026-09-13",
+    "event": "3–4 October 2026, in person at NIT Raipur",
+    "trap": "Registration closes 30 September; the hackathon itself is 3–4 October, in person at NIT Raipur — budget the travel before you apply."
   },
   {
     "id": "assemblyai-voice-agent-hackathon",
