@@ -4,7 +4,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-70-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-4-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-47-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-19_Sep_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-70-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-4-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-47-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-20_Sep_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -16,12 +16,12 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **in 4 days**<br><sub>22 Sep 2026</sub> | [UPSC Combined Geo-Scientist Examination 2027](https://upsconline.nic.in/)<br><sub>UPSC · 127 tentative posts at GSI and CGWB (Geologist, Geophysicist, Chemist, Hydrogeologist); Prelims 10 Jan 2027</sub> | M.Sc / Integrated M.Sc in Geology, Geophysics, Physics or Chemistry, age 21–32 on 1 Jan 2027; B.Tech-only candidates are not eligible |
-| **in 4 days**<br><sub>22 Sep 2026</sub> | [Kaggle: Biohub Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development)<br><sub>CZ Biohub / Kaggle · 1st Place - $18,000 2nd Place - $12,000 3rd Place - $8,000</sub> | any year, anywhere, solo or in a team — no degree or affiliation required |
-| **in 5 days**<br><sub>23 Sep 2026</sub> | [Kaggle: Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)<br><sub>Kaggle · 1st–10th Place - $5,000 each</sub> | any year, anywhere, solo or in a team — no degree or affiliation required |
-| **in 7 days**<br><sub>25 Sep 2026</sub> | [IBM Bob 2.0 Hackathon](https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon)<br><sub>lablab.ai × IBM · Prize pool: $10,000</sub> | any year, any branch, building online from India; register before the kick-off stream |
+| **in 3 days**<br><sub>22 Sep 2026</sub> | [UPSC Combined Geo-Scientist Examination 2027](https://upsconline.nic.in/)<br><sub>UPSC · 127 tentative posts at GSI and CGWB (Geologist, Geophysicist, Chemist, Hydrogeologist); Prelims 10 Jan 2027</sub> | M.Sc / Integrated M.Sc in Geology, Geophysics, Physics or Chemistry, age 21–32 on 1 Jan 2027; B.Tech-only candidates are not eligible |
+| **in 3 days**<br><sub>22 Sep 2026</sub> | [Kaggle: Biohub Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development)<br><sub>CZ Biohub / Kaggle · 1st Place - $18,000 2nd Place - $12,000 3rd Place - $8,000</sub> | any year, anywhere, solo or in a team — no degree or affiliation required |
+| **in 4 days**<br><sub>23 Sep 2026</sub> | [Kaggle: Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)<br><sub>Kaggle · 1st–10th Place - $5,000 each</sub> | any year, anywhere, solo or in a team — no degree or affiliation required |
+| **in 6 days**<br><sub>25 Sep 2026</sub> | [IBM Bob 2.0 Hackathon](https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon)<br><sub>lablab.ai × IBM · Prize pool: $10,000</sub> | any year, any branch, building online from India; register before the kick-off stream |
 
-<sub>20 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>22 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 

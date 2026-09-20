@@ -42,6 +42,14 @@ async function probe(url) {
     // 403 from a WAF still means the page exists for humans; flag, don't fail.
     if (r.ok) return { ok: true, status: r.status };
     if (r.status === 403 || r.status === 400) return { ok: true, status: r.status, why: `bot-wall ${r.status} (exists for humans)` };
+    // A 307/308 that redirects to the same URL is a WAF challenge loop (cscuk.fcdo.gov.uk does this);
+    // the page loads normally in a real browser, so treat it like any other bot wall.
+    // A 307/308 carrying no Location, or pointing back at itself, is a WAF challenge, not a redirect
+    // (cscuk.fcdo.gov.uk does this). The page loads normally in a real browser — treat it as a bot wall.
+    if (r.status === 307 || r.status === 308) {
+      const loc = r.headers.get('location');
+      if (!loc || loc.replace(/\/$/, '') === url.replace(/\/$/, '')) return { ok: true, status: r.status, why: `bot-wall ${r.status} no-location (exists for humans)` };
+    }
     return { ok: false, status: r.status, why: `http ${r.status}` };
   } catch (e) {
     clearTimeout(t);
