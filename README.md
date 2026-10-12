@@ -4,7 +4,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-99-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-65-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-11_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-100-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -17,12 +17,12 @@
 | Closes | Opportunity | Who can apply |
 |---|---|---|
 | **tomorrow**<br><sub>12 Oct 2026</sub> | [GATE 2027 registration](https://gate2027.iitm.ac.in/)<br><sub>IIT Madras (organising institute) · Fee ₹2000 one paper (₹1000 female/SC/ST/PwD); +₹500 in extended window</sub> | third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register |
-| **in 2 days**<br><sub>13 Oct 2026</sub> | [ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026](https://www.lpsc.gov.in/)<br><sub>ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram · Scientist Engineer-'SC' [Level 10 (Pay Matrix : 56,100/- – 1,77,500/-)]</sub> | M.E./M.Tech graduates in welding, turbomachinery or power-electronics specialisations who hold a matching B.E./B.Tech, qualified by 13 Oct 2026, age 30 or under; B.Tech-only candidates and current students cannot apply |
+| **tomorrow**<br><sub>13 Oct 2026</sub> | [ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026](https://www.lpsc.gov.in/)<br><sub>ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram · Scientist Engineer-'SC' [Level 10 (Pay Matrix : 56,100/- – 1,77,500/-)]</sub> | M.E./M.Tech graduates in welding, turbomachinery or power-electronics specialisations who hold a matching B.E./B.Tech, qualified by 13 Oct 2026, age 30 or under; B.Tech-only candidates and current students cannot apply |
 | **in 4 days**<br><sub>15 Oct 2026</sub> | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan) · 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY</sub> | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
 | **in 4 days**<br><sub>15 Oct 2026</sub> | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)<br><sub>RSNA / Kaggle · First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; you must accept the rules by 15 Oct to submit at all |
 | **in 4 days**<br><sub>15 Oct 2026</sub> | [LIC Golden Jubilee Scholarship Scheme 2026](https://gjss.licindia.in/GJSS/)<br><sub>LIC Golden Jubilee Foundation · An amount of Rs.40,000/- per annum, will be awarded to the selected Scholar who pursues higher education in the field of Engineering (BE, BTECH, BArch) and shall be payable every year in two instalments of Rs.20000/- each during the duration of the course, subject to eligibility.</sub> | first-year undergrads (2026-27 entry) of any stream incl. IIT/NIT B.Tech, with 60%+ in Class 12 and family income up to ₹4.5 lakh; second years and above, and families above ₹4.5 lakh, cannot apply |
 
-<sub>26 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>27 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 
@@ -77,6 +77,7 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 |---|---|---|---|
 | **15 Oct 2026** | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan)</sub> | 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
 | **1 Nov 2026** | [Max Planck CS Institutes Summer Internship 2027](https://apply.cis.mpg.de/register/internship)<br><sub>Max Planck CIS (MPI-SWS, MPI-INF, MPI-IS, MPI-SP)</sub> | All internships are fully funded, covering living costs, housing and roundtrip travel costs | CS students with about three years of a bachelor's done by the start date, through master's and PhD; first and second years are too early. |
+| **1 Nov 2026** | [EPFL Excellence in Engineering (E3) Summer 2027](https://programs-recruiting.epfl.ch/position/49446916)<br><sub>EPFL School of Engineering (Switzerland)</sub> | Monthly allowance covering accommodation and living costs; travel covered | Third year and up in any engineering, science or tech branch, plus Master's students; first and second years cannot apply yet, PhD students are out |
 | **30 Nov 2026** | [Science Academies' Summer Research Fellowship Programme (SRFP) 2027](https://webjapps.ias.ac.in/fellowship2027/)<br><sub>Indian Academy of Sciences / INSA / NASI</sub> | round trip train fare and a monthly fellowship (amount not stated) | BTech second and third years, dual-degree second to fourth years, MTech/MSc first years, integrated PhD first and second years; final-year BTech students cannot apply. 65% in core subjects from Class X up. |
 
 <details><summary><b>Rolling — open now, no stated deadline (2)</b></summary>
@@ -263,11 +264,10 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | **15 Jan 2027** | [Heinrich Böll Foundation Scholarship: Spring 2027 round](https://www.boell.de/en/scholarships)<br><sub>Heinrich-Böll-Stiftung</sub> | International students who completed their first degree abroad (master's) or graduate degree abroad (PhD), applying for a programme in Germany; priority to DAC countries (India is DAC) not yet resident in Germany |
 | **17 Feb 2027** | [GAIL Executive Trainee through GATE 2027](https://www.gailonline.com/careers/currentOpnning/GATE-2027-1st-Advertisement-01092026.pdf)<br><sub>GAIL (India) Limited</sub> | BE in listed disciplines, min 65%; age 26 as on 18.03.2027; must appear in GATE 2027 |
 
-<details><summary><b>On watch — previous cycle known, next not announced (52)</b></summary>
+<details><summary><b>On watch — previous cycle known, next not announced (51)</b></summary>
 
 | Opportunity | Organisation | Status |
 |---|---|---|
-| [EPFL Excellence in Engineering (E3) Summer 2027](https://eee.epfl.ch/apply/) | EPFL School of Engineering (Switzerland) | Opens 'sometime in October'; portal still closed on 2 Oct, so no opening countdown. |
 | [UTokyo UTRIP 2027](https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/) | University of Tokyo Graduate School of Science | Previous cycle (25 Nov 2025 – 7 Jan 2026); 2027 not announced, expect late Nov |
 | [UTSIP Kashiwa 2027](https://www.k.u-tokyo.ac.jp/en/education/for_undergraduate/how_to_apply/) | University of Tokyo Graduate School of Frontier Sciences | Previous cycle; 2027 not announced |
 | [NTU Global Connect Fellowship 2027](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship/programme-details) | Nanyang Technological University, Singapore | Previous cycle; successor to NTU-India Connect; 2027 not announced |
