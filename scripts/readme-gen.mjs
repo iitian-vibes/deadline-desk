@@ -50,7 +50,9 @@ const table = (list, withDate) => {
   return head + '\n' + list.map(line).join('\n');
 };
 
-let md = `<div align="center">
+let md = `> **Looking for engineering internships?** The curated, daily-updated list now lives at [github.com/iitian-vibes/India-Tech-Internships](https://github.com/iitian-vibes/India-Tech-Internships), where you can also submit one.
+
+<div align="center">
 
 # Deadline Desk
 
