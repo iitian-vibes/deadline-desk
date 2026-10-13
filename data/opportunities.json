@@ -848,28 +848,6 @@
     "kind": "Internship"
   },
   {
-    "id": "iit-madras-organising-institute-gate-2027-registration",
-    "name": "GATE 2027 registration",
-    "org": "IIT Madras (organising institute)",
-    "lane": "B-govt",
-    "what": "30 papers incl. new Robotics & Automation; exams 6–21 Feb 2027; results 19 Mar 2027; gateway to PSU/DRDO/M.Tech",
-    "eligibility": "3rd year or higher of any UG programme, or any completed degree",
-    "pay": "Fee ₹2000 one paper (₹1000 female/SC/ST/PwD); +₹500 in extended window",
-    "status": "OPEN",
-    "opens": "2026-09-02",
-    "deadline": "2026-10-12",
-    "deadline_quote": "GATE 2027 registration with late fee window is open till 12 th October 2026.",
-    "apply_url": "https://gate2027.iitm.ac.in/",
-    "source_url": "https://gate2027.iitm.ac.in/",
-    "notes": "Regular window closed 5 Oct 2026 ('GATE 2027 regular registration is closed.'). Late-fee window open to 12 Oct 2026 (Important Dates table: '12 th October 2026 Extended registration closes With late fee'). Late fee +₹500. Exams 6–7, 13–14, 20–21 Feb 2027; admit card 4 Jan 2027.",
-    "retrieved": "2026-10-10",
-    "verified_at": "2026-10-10",
-    "sub": "Exams",
-    "kind": "Exam / admission",
-    "who": "third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register",
-    "trap": "Regular (no late fee) registration closed 5 Oct; only the late-fee window (+₹500) remains, and it shuts 12 Oct. Their banner says a VERIFIED DigiLocker account is mandatory, but the same site allows registering with an unverified DigiLocker account and the default ID proof."
-  },
-  {
     "id": "iit-kharagpur-organising-institute-jam-2027-registration",
     "name": "JAM 2027 registration",
     "org": "IIT Kharagpur (organising institute)",
@@ -1544,9 +1522,9 @@
     "deadline_quote": "Registration closes 6 December 2026",
     "apply_url": "https://xatonline.in/",
     "source_url": "https://xatonline.in/",
-    "notes": "XLRI has FIXED its page since 13 Sep: the timeline now reads 'Registration opens 15 July 2026 · Registration closes 6 December 2026 · Admit card download December 20, 2026 (Tentative) · XAT Exam date January 03, 2027, 2:00 pm to 5:00 pm'. The XLRI Admission Prospectus 2027 PDF (xatonline.in/assets/pdf/xlri-admission-prospectus-2027.pdf) agrees: 'December 06, 2026, Last date for the online registration of XAT-XLRI Programmes' and 'XAT 2027 will be conducted online on January 03, 2027.' NOTE the exam date changed from our old row (Jan 5, 2:00–5:30 PM) to Jan 3, 2:00–5:00 PM. Stale bits remain in hidden HTML comments (December 05, 2025 / 30 November 2026) and the 'XAT Bulletin' link still points to the 2026 bulletin, we quote only the visible, correct line. Fee per prospectus: XAT registration Rs 2300 (Indian candidates), plus Rs 200 per XLRI programme. Minor inconsistency on xatonline.in/faq: eligibility answer says final exams 'by June 12, 2027', another FAQ says 'June 11, 2027'.",
+    "notes": "New on xatonline.in (13 Oct): 'XAT 2027 Application Edit Window will be open on 16th & 17th October 2026' and 'Complete your XAT 2027 application before 16th Oct, 2026 to keep your application review and correction opportunity open.' Submit by 15 Oct if you want that correction window; a second edit window is listed for 7–8 Dec. Test city and XLRI programme preferences cannot be edited. XLRI has FIXED its page since 13 Sep: the timeline now reads 'Registration opens 15 July 2026 · Registration closes 6 December 2026 · Admit card download December 20, 2026 (Tentative) · XAT Exam date January 03, 2027, 2:00 pm to 5:00 pm'. The XLRI Admission Prospectus 2027 PDF (xatonline.in/assets/pdf/xlri-admission-prospectus-2027.pdf) agrees: 'December 06, 2026, Last date for the online registration of XAT-XLRI Programmes' and 'XAT 2027 will be conducted online on January 03, 2027.' NOTE the exam date changed from our old row (Jan 5, 2:00–5:30 PM) to Jan 3, 2:00–5:00 PM. Stale bits remain in hidden HTML comments (December 05, 2025 / 30 November 2026) and the 'XAT Bulletin' link still points to the 2026 bulletin, we quote only the visible, correct line. Fee per prospectus: XAT registration Rs 2300 (Indian candidates), plus Rs 200 per XLRI programme. Minor inconsistency on xatonline.in/faq: eligibility answer says final exams 'by June 12, 2027', another FAQ says 'June 11, 2027'.",
     "retrieved": "2026-10-02",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-13",
     "who": "Final-year undergrads (any discipline, 3-year degree or longer, finishing exams by June 2027) and graduates; no work experience needed. Indian candidates must take XAT; NRI/foreign/OCI/PIO applicants go through GMAT instead."
   },
   {

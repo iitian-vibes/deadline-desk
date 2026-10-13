@@ -4,7 +4,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-100-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-98-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-4-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -16,20 +16,19 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **tomorrow**<br><sub>12 Oct 2026</sub> | [GATE 2027 registration](https://gate2027.iitm.ac.in/)<br><sub>IIT Madras (organising institute) · Fee ₹2000 one paper (₹1000 female/SC/ST/PwD); +₹500 in extended window</sub> | third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register |
-| **tomorrow**<br><sub>13 Oct 2026</sub> | [ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026](https://www.lpsc.gov.in/)<br><sub>ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram · Scientist Engineer-'SC' [Level 10 (Pay Matrix : 56,100/- – 1,77,500/-)]</sub> | M.E./M.Tech graduates in welding, turbomachinery or power-electronics specialisations who hold a matching B.E./B.Tech, qualified by 13 Oct 2026, age 30 or under; B.Tech-only candidates and current students cannot apply |
-| **in 4 days**<br><sub>15 Oct 2026</sub> | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan) · 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY</sub> | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
-| **in 4 days**<br><sub>15 Oct 2026</sub> | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)<br><sub>RSNA / Kaggle · First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; you must accept the rules by 15 Oct to submit at all |
-| **in 4 days**<br><sub>15 Oct 2026</sub> | [LIC Golden Jubilee Scholarship Scheme 2026](https://gjss.licindia.in/GJSS/)<br><sub>LIC Golden Jubilee Foundation · An amount of Rs.40,000/- per annum, will be awarded to the selected Scholar who pursues higher education in the field of Engineering (BE, BTECH, BArch) and shall be payable every year in two instalments of Rs.20000/- each during the duration of the course, subject to eligibility.</sub> | first-year undergrads (2026-27 entry) of any stream incl. IIT/NIT B.Tech, with 60%+ in Class 12 and family income up to ₹4.5 lakh; second years and above, and families above ₹4.5 lakh, cannot apply |
+| **in 3 days**<br><sub>15 Oct 2026</sub> | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan) · 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY</sub> | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
+| **in 3 days**<br><sub>15 Oct 2026</sub> | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)<br><sub>RSNA / Kaggle · First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; you must accept the rules by 15 Oct to submit at all |
+| **in 3 days**<br><sub>15 Oct 2026</sub> | [LIC Golden Jubilee Scholarship Scheme 2026](https://gjss.licindia.in/GJSS/)<br><sub>LIC Golden Jubilee Foundation · An amount of Rs.40,000/- per annum, will be awarded to the selected Scholar who pursues higher education in the field of Engineering (BE, BTECH, BArch) and shall be payable every year in two instalments of Rs.20000/- each during the duration of the course, subject to eligibility.</sub> | first-year undergrads (2026-27 entry) of any stream incl. IIT/NIT B.Tech, with 60%+ in Class 12 and family income up to ₹4.5 lakh; second years and above, and families above ₹4.5 lakh, cannot apply |
+| **in 7 days**<br><sub>19 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
 
-<sub>27 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>25 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 
 Most opportunity lists are copied from other lists. This one is read off the source.
 
-- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *GATE 2027 registration*:
-  > “GATE 2027 registration with late fee window is open till 12 th October 2026.”
+- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *OIST Research Internship – Spring 2027*:
+  > “Spring 2027 Internship \| October 15th, 2026, 23:59 (JST UTC+9) \| Mid-December 2026 \| Between April 1st, 2027 - September 30th, 2027”
 - **Only the organisation's own page.** Never Unstop, never a LinkedIn repost, never a Telegram forward. CI rejects aggregator hosts on every pull request.
 - **Closed rows are deleted, not archived.** If it is on this list, it is open. A daily watcher re-reads ~45 sources and the board is rebuilt every Saturday.
 - **We say who it is *not* for.** Every row names the range and its edge — "third year and up; first and second years cannot register" — so you find out in one line instead of at the end of a form.
@@ -39,7 +38,6 @@ Most opportunity lists are copied from other lists. This one is read off the sou
 
 Deadlines that are not what they look like. Each one is quoted from the source.
 
-- **GATE 2027 registration** — Regular (no late fee) registration closed 5 Oct; only the late-fee window (+₹500) remains, and it shuts 12 Oct. Their banner says a VERIFIED DigiLocker account is mandatory, but the same site allows registering with an unverified DigiLocker account and the default ID proof.<br><sub>[IIT Madras (organising institute)](https://gate2027.iitm.ac.in/) · closes 12 Oct 2026</sub>
 - **ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026** — Closes at 2 pm on 13 Oct, not midnight. Qualification must be complete by 13 Oct 2026, final-year M.Tech students are not eligible.<br><sub>[ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram](https://www.lpsc.gov.in/) · closes 13 Oct 2026</sub>
 - **Hacker House Goa 2026** — The application window was **extended to 20 October**, but the residency itself runs 28–31 October, so if picked you have about a week to book travel.<br><sub>[247 PM Studio](https://hacker-house-goa-2026.devfolio.co/) · closes 20 Oct 2026</sub>
 - **Atomic Hack India 2026** — Teams of **3 to 4 only**, no solo entries, and the online qualification starts the same day registration closes.<br><sub>[GESH IITB (IIT Bombay) + JSC ETC GET / ROSATOM Corporate Academy](https://atomichackindia.com/register) · closes 20 Oct 2026</sub>
@@ -187,8 +185,6 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 
 | Closes | Opportunity | What you get | Who can apply |
 |---|---|---|---|
-| **12 Oct 2026** | [GATE 2027 registration](https://gate2027.iitm.ac.in/)<br><sub>IIT Madras (organising institute)</sub> | Fee ₹2000 one paper (₹1000 female/SC/ST/PwD); +₹500 in extended window | third year and up in any UG programme, or anyone with a completed degree; first and second years cannot register |
-| **13 Oct 2026** | [ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026](https://www.lpsc.gov.in/)<br><sub>ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram</sub> | Scientist Engineer-'SC' [Level 10 (Pay Matrix : 56,100/- – 1,77,500/-)] | M.E./M.Tech graduates in welding, turbomachinery or power-electronics specialisations who hold a matching B.E./B.Tech, qualified by 13 Oct 2026, age 30 or under; B.Tech-only candidates and current students cannot apply |
 | **19 Oct 2026** | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute)</sub> | ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027 | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
 | **25 Oct 2026** | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR</sub> | PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration. | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
 | **28 Oct 2026** | [UGC-NET December 2026](https://ugcnet.nta.nic.in/)<br><sub>NTA (for UGC)</sub> | JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026 | master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor |
