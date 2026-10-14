@@ -6,7 +6,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-98-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-4-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-98-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-7-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -18,12 +18,15 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **in 3 days**<br><sub>15 Oct 2026</sub> | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan) · 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY</sub> | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
-| **in 3 days**<br><sub>15 Oct 2026</sub> | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)<br><sub>RSNA / Kaggle · First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; you must accept the rules by 15 Oct to submit at all |
-| **in 3 days**<br><sub>15 Oct 2026</sub> | [LIC Golden Jubilee Scholarship Scheme 2026](https://gjss.licindia.in/GJSS/)<br><sub>LIC Golden Jubilee Foundation · An amount of Rs.40,000/- per annum, will be awarded to the selected Scholar who pursues higher education in the field of Engineering (BE, BTECH, BArch) and shall be payable every year in two instalments of Rs.20000/- each during the duration of the course, subject to eligibility.</sub> | first-year undergrads (2026-27 entry) of any stream incl. IIT/NIT B.Tech, with 60%+ in Class 12 and family income up to ₹4.5 lakh; second years and above, and families above ₹4.5 lakh, cannot apply |
-| **in 7 days**<br><sub>19 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
+| **in 2 days**<br><sub>15 Oct 2026</sub> | [OIST Research Internship – Spring 2027](https://graduateschool.oist.jp/apply/)<br><sub>OIST, Okinawa (Japan) · 2,400 JPY per working day; round-trip air ticket; furnished accommodation; fee 5,000 JPY</sub> | Third and fourth years, any master's year, or recent graduates; first and second years and PhD students cannot apply. Needs 4–6 free months between April and September 2027. |
+| **in 2 days**<br><sub>15 Oct 2026</sub> | [Kaggle: RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)<br><sub>RSNA / Kaggle · First Prize: $9,000 Second Prize: $7,000 Third Prize: $6,500</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; you must accept the rules by 15 Oct to submit at all |
+| **in 2 days**<br><sub>15 Oct 2026</sub> | [LIC Golden Jubilee Scholarship Scheme 2026](https://gjss.licindia.in/GJSS/)<br><sub>LIC Golden Jubilee Foundation · An amount of Rs.40,000/- per annum, will be awarded to the selected Scholar who pursues higher education in the field of Engineering (BE, BTECH, BArch) and shall be payable every year in two instalments of Rs.20000/- each during the duration of the course, subject to eligibility.</sub> | first-year undergrads (2026-27 entry) of any stream incl. IIT/NIT B.Tech, with 60%+ in Class 12 and family income up to ₹4.5 lakh; second years and above, and families above ₹4.5 lakh, cannot apply |
+| **in 6 days**<br><sub>19 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
+| **in 7 days**<br><sub>20 Oct 2026</sub> | [Hacker House Goa 2026](https://hacker-house-goa-2026.devfolio.co/)<br><sub>247 PM Studio · Free residency, accommodation, meals and amenities provided; no cash pool</sub> | any builder who applies on Devfolio, students welcome; selective (~247 picked from 10,000+); you pay your own travel to Goa |
+| **in 7 days**<br><sub>20 Oct 2026</sub> | [Atomic Hack India 2026](https://atomichackindia.com/register)<br><sub>GESH IITB (IIT Bombay) + JSC ETC GET / ROSATOM Corporate Academy · Fully sponsored international research internship in Moscow</sub> | UG and PG students at any Indian engineering, science or technology institution, any year, in teams of three or four; solo entries are not allowed |
+| **in 7 days**<br><sub>20 Oct 2026</sub> | [Commonwealth Master's Scholarships 2027-28](https://cscuk.fcdo.gov.uk/apply/)<br><sub>Commonwealth Scholarship Commission (UK) · full tuition + stipend</sub> | Indian citizens who already hold a bachelor's degree (final years cannot apply), nominated through the Ministry of Education. |
 
-<sub>25 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>26 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 
@@ -40,7 +43,6 @@ Most opportunity lists are copied from other lists. This one is read off the sou
 
 Deadlines that are not what they look like. Each one is quoted from the source.
 
-- **ISRO LPSC Scientist/Engineer 'SC': LPSC/03/2026** — Closes at 2 pm on 13 Oct, not midnight. Qualification must be complete by 13 Oct 2026, final-year M.Tech students are not eligible.<br><sub>[ISRO Liquid Propulsion Systems Centre (LPSC), Thiruvananthapuram](https://www.lpsc.gov.in/) · closes 13 Oct 2026</sub>
 - **Hacker House Goa 2026** — The application window was **extended to 20 October**, but the residency itself runs 28–31 October, so if picked you have about a week to book travel.<br><sub>[247 PM Studio](https://hacker-house-goa-2026.devfolio.co/) · closes 20 Oct 2026</sub>
 - **Atomic Hack India 2026** — Teams of **3 to 4 only**, no solo entries, and the online qualification starts the same day registration closes.<br><sub>[GESH IITB (IIT Bombay) + JSC ETC GET / ROSATOM Corporate Academy](https://atomichackindia.com/register) · closes 20 Oct 2026</sub>
 - **Commonwealth Master's Scholarships 2027-28** — The CSC date is 16:00 BST on 20 Oct, but India’s **Ministry of Education sets its own earlier internal date**, the CSC deadline is not your deadline.<br><sub>[Commonwealth Scholarship Commission (UK)](https://cscuk.fcdo.gov.uk/apply/) · closes 20 Oct 2026</sub>
