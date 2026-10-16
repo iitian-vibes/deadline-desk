@@ -1,0 +1,20 @@
+[
+ {
+  "id": "xat-xlri-application-edit-window-is-open-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "XAT (XLRI)",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Application Edit Window is Open",
+  "apply_url": "https://xatonline.in/",
+  "source_url": "https://xatonline.in/",
+  "notes": "Watcher hit 2026-10-16: reg close date (site currently prints stale year)",
+  "verified_at": null
+ }
+]
