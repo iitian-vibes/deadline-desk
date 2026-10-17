@@ -1,0 +1,38 @@
+[
+ {
+  "id": "eth-zurich-ssrf-the-programme-will-take-place-from-1st-j-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "ETH Zurich SSRF",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "The programme will take place from 1st July – 28 August 2027 (tbc).",
+  "apply_url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+  "source_url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+  "notes": "Watcher hit 2026-10-17: window opens early Nov",
+  "verified_at": null
+ },
+ {
+  "id": "xat-xlri-register-for-xat-2027-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "XAT (XLRI)",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Register for XAT 2027",
+  "apply_url": "https://xatonline.in/",
+  "source_url": "https://xatonline.in/",
+  "notes": "Watcher hit 2026-10-17: reg close date (site currently prints stale year)",
+  "verified_at": null
+ }
+]
