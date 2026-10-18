@@ -74,9 +74,9 @@
     "deadline_quote": "APPLICATION CLOSED. The next application window will open beginning of November 2026.",
     "apply_url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
     "source_url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
-    "notes": "2026 window was 1 Nov – 16 Dec 2025; 2027 close not yet published",
+    "notes": "2026 window was 1 Nov – 16 Dec 2025; 2027 close not yet published. Page (17 Oct): 'Application period: Beginning of November – mid December (tbd)', decisions 'by end of February 2027', programme '1st July – 28 August 2027 (tbc)'.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-17",
     "sub": "International",
     "kind": "Internship"
   },
@@ -487,7 +487,7 @@
     "source_published_at": "2026-07-21",
     "notes": "Rolling; SWE intern HK also live (8617298002); Singapore/NY/London siblings live",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -507,7 +507,7 @@
     "source_published_at": "2026-07-09",
     "notes": "Rolling",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Software",
     "kind": "Internship"
   },
@@ -527,7 +527,7 @@
     "source_published_at": "2026-08-12",
     "notes": "Rolling; SWE intern HK also live (4941206101); no Mumbai intern posting",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -547,7 +547,7 @@
     "source_published_at": "2026-07-13",
     "notes": "One application only across HRT; SWE intern also live (8052083)",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -567,7 +567,7 @@
     "source_published_at": "2026-07-13",
     "notes": "Rolling",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Software",
     "kind": "Internship"
   },
@@ -587,7 +587,7 @@
     "source_published_at": "2026-07-05",
     "notes": "US visa; London 2027 intern (penultimate year only) also live (8037860)",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -607,7 +607,7 @@
     "source_published_at": "2026-08-20",
     "notes": "Suits final-year/M.Tech/dual-degree; wants hands-on agentic-AI tooling",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "ML/AI",
     "kind": "Internship"
   },
@@ -627,7 +627,7 @@
     "source_published_at": "2026-08-03",
     "notes": "Chicago/NY QR intern lists 'estimated base salary $300,000 per year' (7982648); US visa",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -665,7 +665,7 @@
     "source_url": "https://www.twosigma.com/careers/internships/",
     "notes": "US visa; AI Research Scientist intern also live",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -685,7 +685,7 @@
     "source_published_at": "2026-08-04",
     "notes": "Winter slot fits the Indian academic calendar",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -705,7 +705,7 @@
     "source_published_at": "2026-09-03",
     "notes": "Rolling after first batch",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
   },
@@ -725,7 +725,7 @@
     "source_published_at": "2026-09-01",
     "notes": "Posted 1 Sep 2026; SWE 2027 Graduate also live (8764240002)",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Full-time"
   },
@@ -745,7 +745,7 @@
     "source_published_at": "2026-09-01",
     "notes": "Posted 1 Sep 2026",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Software",
     "kind": "Full-time"
   },
@@ -764,28 +764,8 @@
     "source_url": "https://www.quadeye.com/jobs/199893000002318371/intern-quant-strategist-2028-batch?source=CareerSite",
     "notes": "Same Zoho job ID still live, but Quadeye has retitled it 'Intern - Quant Researcher' and dropped the '2028 Batch' label from the page. Batch year no longer stated.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Quant",
-    "kind": "Internship"
-  },
-  {
-    "id": "microsoft-software-engineering-intern-india",
-    "name": "Software Engineering Intern: India",
-    "org": "Microsoft",
-    "lane": "B-industry",
-    "what": "University SWE internship, Hyderabad/Bengaluru/Noida etc., on-site",
-    "eligibility": "Pursuing Bachelor's/Master's in CS/Engineering; ≥1 semester remaining after internship; 1 year OOP experience",
-    "pay": "not stated",
-    "status": "ROLLING",
-    "deadline": null,
-    "deadline_quote": "Must have at least 1 semester/term remaining following the completion of the internship",
-    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-    "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-    "source_published_at": "2026-09-18",
-    "notes": "Job reposted: JSON-LD datePosted 2026-09-18, validThrough 2027-03-17 (listing expiry, not an application deadline). The old 'minimum of 5 days' line is no longer on the page. Title on page: 'Software Engineering INTERN', country IN.",
-    "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
-    "sub": "Software",
     "kind": "Internship"
   },
   {
@@ -804,27 +784,8 @@
     "source_published_at": "2026-07-10",
     "notes": "Term not stated",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "sub": "Software",
-    "kind": "Internship"
-  },
-  {
-    "id": "goldman-sachs-2027-summer-analyst-global-investment-research",
-    "name": "2027 Summer Analyst: Global Investment Research, Mumbai",
-    "org": "Goldman Sachs",
-    "lane": "B-industry",
-    "what": "9–10 week summer analyst internship, Mumbai, summer 2027",
-    "eligibility": "Students pursuing a bachelor's / graduate degree; up to 4 business/location applications per year",
-    "pay": "not stated",
-    "status": "ROLLING",
-    "deadline": null,
-    "deadline_quote": "Each applicant has the opportunity to apply to up to 4 separate business / location combinations in any given recruiting year.",
-    "apply_url": "https://higher.gs.com/roles/183942",
-    "source_url": "https://higher.gs.com/roles/183942",
-    "notes": "Only India 2027 SA posting live; Engineering Bengaluru/Hyderabad 2027 SA not yet posted",
-    "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
-    "sub": "Finance",
     "kind": "Internship"
   },
   {
@@ -1286,7 +1247,7 @@
     "source_url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414-software-engineering-phd-intern-summer-2027",
     "notes": "Rolling; no deadline on the posting",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "qualcomm-2027-campus-hire-engineer-sw",
@@ -1306,7 +1267,7 @@
     "source_published_at": "2026-09-09",
     "notes": "JSON-LD title '2027 Campus Hire_Engineer_SW', datePosted 2026-09-09, validThrough 2027-03-08 (listing expiry). Replaced the stale 'Posted 4 days ago' quote. Siblings 446719784235 and 446719783557 still live.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "qualcomm-2027-campus-hire-associate-engineer-hw",
@@ -1326,7 +1287,7 @@
     "source_published_at": "2026-09-09",
     "notes": "JSON-LD title '2027 Campus Hire_ Associate Engineer_ HW', datePosted 2026-09-09, validThrough 2027-03-08. Replaced the stale 'Posted 4 days ago' quote.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "qualcomm-interim-engineering-intern-2027-hw",
@@ -1346,7 +1307,7 @@
     "source_published_at": "2026-09-09",
     "notes": "JSON-LD title 'Interim Engineering Intern_2027_HW', datePosted 2026-09-09, validThrough 2027-03-08. Still no SW intern equivalent. Replaced the stale 'Posted 4 days ago' quote.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "microsoft-fosse-research-fellow-bangalore",
@@ -1405,7 +1366,7 @@
     "source_published_at": "2026-08-11",
     "notes": "Non-profit; Associate ML Scientist (LLM) II also live",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "wadhwani-ai-sde-i-new-delhi",
@@ -1425,7 +1386,7 @@
     "source_published_at": "2026-06-01",
     "notes": "Opened 1 Jun 2026, still published",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "goldman-sachs-new-analyst-program-india-2027",
@@ -1445,7 +1406,7 @@
     "source_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/india/new-analyst-program",
     "notes": "Divisions close individually on higher.gs.com, apply early",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10"
+    "verified_at": "2026-10-18"
   },
   {
     "id": "cohere-labs-scholars-program-2027",
@@ -2032,7 +1993,7 @@
     "source_url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8862376002",
     "source_published_at": "2026-10-01",
     "notes": "Rolling; posted 1 Oct 2026 (flagged by the watcher). India-founded HFT. No nationality bar on the posting, so India-eligible; Singapore work pass would be employer-arranged (the posting does not say). Graduation year not stated. The posting's own text has ligature breaks ('quali fi cations'). The quote is taken from a clean line.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02",
     "lane": "B-industry",
     "status": "ROLLING",
@@ -2052,7 +2013,7 @@
     "source_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4966569101",
     "source_published_at": "2026-10-01",
     "notes": "Rolling; posted 1 Oct 2026 (watcher flag). India-eligible: the only nationalities the posting turns away are 'Russia, Belarus, and Iran' (US-consulate visa issue). One application per recruiting season, and those not selected can reapply from September 2027.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02",
     "lane": "B-industry",
     "status": "ROLLING",
@@ -2072,7 +2033,7 @@
     "source_url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101",
     "source_published_at": "2022-11-14",
     "notes": "Evergreen posting, first published Nov 2022 and still live on the EU Greenhouse board (watcher flag). India-eligible: there is no nationality bar and it offers 'A relocation package when moving from abroad, including a relocation budget, flight coverage, house-finding service and expat support'. No graduation year stated. HK and Miami siblings are 4559093101 and 4241558101.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02",
     "lane": "B-industry",
     "status": "ROLLING",
@@ -2080,19 +2041,19 @@
   },
   {
     "id": "rubrik-software-engineer-winter-intern-bangalore-2027",
-    "name": "Software Engineer: Winter Intern, Bangalore (Jan–May 2027)",
+    "name": "Software Engineer (CPD): Winter Intern, Bangalore (Jan–May 2027)",
     "org": "Rubrik",
     "sub": "Software",
     "kind": "Internship",
-    "what": "Onsite SWE internship, Bangalore, January–May 2027",
+    "what": "Onsite SWE internship with the Continuous Product Development team, Bangalore, January–May 2027",
     "eligibility": "2027 graduates of circuital branches only; CGPA 8 and above; Bachelor's/Master's in CS or related; available Jan–May 2027 onsite",
     "pay": "not stated",
     "deadline_quote": "Minimum eligibility criteria - CGPA 8 and above - 2027 graduates of Circuital branches only - Available from January 2027 to May 2027 in Bangalore for the onsite internship (No remote options)",
-    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-    "source_url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+    "source_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "source_published_at": "2026-09-06",
-    "notes": "Rolling; Greenhouse rubrik board 8166523, posted 6 Sep 2026. Sibling 'Software Engineer (CPD) - Winter Intern' (8166537) has the same criteria. 'Circuital' = CSE/ECE/EE-type branches. A hard CGPA 8 cutoff.",
-    "verified_at": "2026-10-10",
+    "notes": "Rolling; Greenhouse rubrik board 8166537 (CPD team). The original posting 8166523 came down by 18 Oct; this sibling carries the same criteria. 'Circuital' = CSE/ECE/EE-type branches. A hard CGPA 8 cutoff.",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02",
     "lane": "B-industry",
     "status": "ROLLING",
@@ -2112,7 +2073,7 @@
     "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8168750",
     "source_published_at": "2026-09-01",
     "notes": "Rolling; Greenhouse towerresearchcapital job 8168750, posted 1 Sep 2026. Term/year not stated on the posting. PhD sibling is 8168634.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02",
     "lane": "B-industry",
     "status": "ROLLING",
@@ -2259,26 +2220,6 @@
     "retrieved": "2026-10-02"
   },
   {
-    "id": "microsoft-india-applied-sciences-phd-intern",
-    "name": "Applied Sciences PhD Intern: India",
-    "org": "Microsoft",
-    "lane": "B-industry",
-    "sub": "ML/AI",
-    "kind": "Internship",
-    "what": "Applied science internship building and evaluating ML/LLM/SLM systems for Microsoft products; on-site, multiple India locations",
-    "eligibility": "Currently pursuing a PhD in CS / AI / ML / Statistics / Maths / EE or related, with at least one semester remaining after the internship",
-    "pay": "not stated",
-    "status": "ROLLING",
-    "deadline": null,
-    "deadline_quote": "This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.",
-    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
-    "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
-    "source_published_at": "2026-09-25",
-    "notes": "Job 200055606, re-posted 7 Oct 2026 per the Microsoft careers search API. PhD students only; B.Tech/M.Tech students cannot apply. The sibling 'Data Science INTERN' India posting (job 200041778) was re-posted 8 Oct and now asks for Bachelor's or Master's students, so it ships as its own row (microsoft-india-data-science-intern).",
-    "verified_at": "2026-10-10",
-    "retrieved": "2026-10-10"
-  },
-  {
     "id": "microsoft-india-research-sciences-intern-masters-phd",
     "name": "Research Sciences Intern: AI for Azure SQL (India)",
     "org": "Microsoft",
@@ -2295,7 +2236,7 @@
     "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
     "source_published_at": "2026-02-27",
     "notes": "Job 200015233. It was posted in Feb 2026 but still shows 'Apply now' on 2 Oct. Master's and PhD students only; undergrads cannot apply. This partly replaces the killed FoSSE intern row as the live MSR-adjacent research intern track.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-02"
   },
   {
@@ -2779,7 +2720,7 @@
     "source_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
     "source_published_at": "2026-07-13",
     "notes": "Greenhouse wehrtyou/8052050. HRT allows ONE application across all roles, so a student applying here cannot also apply to the existing HRT intern rows. Singapore is the closest office for India. The PhD sibling is 8059845 and the SWE 2027 Grads role is 8052122.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-10"
   },
   {
@@ -2799,7 +2740,7 @@
     "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8245433",
     "source_published_at": "2026-10-01",
     "notes": "Greenhouse towerresearchcapital/8245433, posted 1 Oct 2026. Graduation year not stated. No nationality bar on the posting. Needs a C++ internship already done, so it suits final-years with a prior SWE internship.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-10"
   },
   {
@@ -2819,7 +2760,7 @@
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
     "source_published_at": "2026-08-25",
     "notes": "Greenhouse jumptrading/8027898. The off-cycle timing suits Indian final-years better than a summer slot. No nationality bar on the posting.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-10"
   },
   {
@@ -2925,7 +2866,7 @@
     "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556917520",
     "source_published_at": "2026-10-08",
     "notes": "Job 200041778, re-posted 8 Oct 2026. Earlier board notes called it PhD-required, but the live JD now asks only for current Bachelor's or Master's students. This is the one Microsoft India ML-flavoured intern opening that undergrads can apply to. Final-year students cannot apply, because a semester must remain after the internship.",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-18",
     "retrieved": "2026-10-10"
   },
   {
@@ -3278,5 +3219,83 @@
     "notes": "Cars24's own careers portal (job id a6a69e43ac24e3). A second listing with the same description runs as Builder - Apprentice (id a6a7074bbaf7cf); apply to one. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
     "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-silicon-engineer-platform-devices-university-graduate-2026",
+    "name": "Silicon Engineer, Platform and Devices: University Graduate 2026 (Bengaluru)",
+    "org": "Google",
+    "lane": "B-industry",
+    "sub": "Core/Hardware",
+    "kind": "Full-time",
+    "what": "Entry-level chip design role for Google consumer hardware (SoC/ASIC, design verification, physical design, Verilog), Bengaluru",
+    "eligibility": "Bachelor's degree in Electrical, Electronics and Communication Engineering, a relevant technical field, or equivalent practical experience; experience with design concepts and computer hardware architecture",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "Silicon Engineer, Platform and Devices, University Graduate, 2026 · Bengaluru, Karnataka, India",
+    "apply_url": "https://www.google.com/about/careers/applications/jobs/results/73379279982731974-silicon-engineer-platform-and-devices-university-graduate-2026",
+    "source_url": "https://www.google.com/about/careers/applications/jobs/results/73379279982731974-silicon-engineer-platform-and-devices-university-graduate-2026",
+    "notes": "Rolling; no deadline on the posting. One of the few Google India early-career hardware roles open to bachelor's graduates (ECE/EE). In-person interviews.",
+    "retrieved": "2026-10-18",
+    "verified_at": "2026-10-18"
+  },
+  {
+    "id": "google-software-engineer-phd-early-career-2026-india",
+    "name": "Software Engineer, PhD, Early Career 2026 (Bengaluru / Hyderabad)",
+    "org": "Google",
+    "lane": "B-industry",
+    "sub": "Software",
+    "kind": "Full-time",
+    "what": "Full-time SWE role for new PhDs: large-scale distributed systems, AI/ML, networking, storage or security; Bengaluru or Hyderabad",
+    "eligibility": "PhD in Computer Science, Electrical Engineering or a related field, with software development experience; availability to start full time in 2026",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "Software Engineer, PhD, Early Career, 2026 · Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
+    "apply_url": "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026",
+    "source_url": "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026",
+    "notes": "Rolling; no deadline on the posting. Separate Hyderabad-only and Bengaluru-only postings of the same title also exist on Google's site. For PhDs finishing in 2026.",
+    "retrieved": "2026-10-18",
+    "verified_at": "2026-10-18"
+  },
+  {
+    "id": "apple-phd-intern-apple-ads-ml-hyderabad",
+    "name": "PhD Intern, Apple Ads (Machine Learning): Hyderabad",
+    "org": "Apple",
+    "lane": "B-industry",
+    "sub": "ML/AI",
+    "kind": "Internship",
+    "what": "PhD ML internship on Apple Ads systems: ad relevance, forecasting and performance; Hyderabad",
+    "eligibility": "Currently pursuing a PhD in Computer Science, Software Engineering, Machine Learning, Data Science or a related technical field",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "PhD Intern, Apple Ads (Machine Learning) · Hyderabad",
+    "apply_url": "https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning",
+    "source_url": "https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning",
+    "source_published_at": "2026-09-20",
+    "notes": "Rolling; no deadline on the posting. Apple job 200684719, posted 20 Sep 2026.",
+    "retrieved": "2026-10-18",
+    "verified_at": "2026-10-18"
+  },
+  {
+    "id": "apple-phd-intern-ml-msi-product-operations-bengaluru",
+    "name": "PhD Intern, Machine Learning: MSI, Product Operations (Bengaluru)",
+    "org": "Apple",
+    "lane": "B-industry",
+    "sub": "ML/AI",
+    "kind": "Internship",
+    "what": "PhD internship applying computer vision and vision-language models to Apple's manufacturing; Bengaluru",
+    "eligibility": "Pursuing a PhD in Computer Science or a related field, with a deep understanding of ML, probability and statistics and of computer vision / VLMs",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "PhD Intern, Machine Learning: MSI, Product Operations Team · Bengaluru",
+    "apply_url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team",
+    "source_url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team",
+    "source_published_at": "2026-09-17",
+    "notes": "Rolling; no deadline on the posting. Apple job 200676908, posted 17 Sep 2026.",
+    "retrieved": "2026-10-18",
+    "verified_at": "2026-10-18"
   }
 ]
