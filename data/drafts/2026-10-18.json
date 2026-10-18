@@ -1,0 +1,38 @@
+[
+ {
+  "id": "gate-iit-madras-application-registration-is-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "GATE (IIT Madras)",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Application registration is",
+  "apply_url": "https://gate2027.iitm.ac.in/",
+  "source_url": "https://gate2027.iitm.ac.in/",
+  "notes": "Watcher hit 2026-10-18: registration windows, paper changes",
+  "verified_at": null
+ },
+ {
+  "id": "xat-xlri-last-official-mock-test-scheduled-on-31s-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "XAT (XLRI)",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Last official Mock Test Scheduled on 31st Oct & 1st Nov",
+  "apply_url": "https://xatonline.in/",
+  "source_url": "https://xatonline.in/",
+  "notes": "Watcher hit 2026-10-18: reg close date (site currently prints stale year)",
+  "verified_at": null
+ }
+]
