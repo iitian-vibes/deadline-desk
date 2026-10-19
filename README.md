@@ -6,7 +6,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-101-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-103-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-6-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -18,11 +18,12 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **in 2 days**<br><sub>19 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
-| **in 3 days**<br><sub>20 Oct 2026</sub> | [Hacker House Goa 2026](https://hacker-house-goa-2026.devfolio.co/)<br><sub>247 PM Studio · Free residency, accommodation, meals and amenities provided; no cash pool</sub> | any builder who applies on Devfolio, students welcome; selective (~247 picked from 10,000+); you pay your own travel to Goa |
-| **in 3 days**<br><sub>20 Oct 2026</sub> | [Atomic Hack India 2026](https://atomichackindia.com/register)<br><sub>GESH IITB (IIT Bombay) + JSC ETC GET / ROSATOM Corporate Academy · Fully sponsored international research internship in Moscow</sub> | UG and PG students at any Indian engineering, science or technology institution, any year, in teams of three or four; solo entries are not allowed |
-| **in 3 days**<br><sub>20 Oct 2026</sub> | [Commonwealth Master's Scholarships 2027-28](https://cscuk.fcdo.gov.uk/apply/)<br><sub>Commonwealth Scholarship Commission (UK) · full tuition + stipend</sub> | Indian citizens who already hold a bachelor's degree (final years cannot apply), nominated through the Ministry of Education. |
-| **in 4 days**<br><sub>21 Oct 2026</sub> | [Dynamix 2027 (Formula Bharat)](https://formulabharat.com/sub-events/dynamix-2027/)<br><sub>Formula Bharat · Track-only Formula Student event for CV/EV cars at Kari Motor Speedway, Coimbatore, 19–24 Jan 2027</sub> | Any year, as part of a university Formula Student team (CV or EV) with club membership; a team entry, so individuals cannot register. |
+| **tomorrow**<br><sub>19 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
+| **in 2 days**<br><sub>20 Oct 2026</sub> | [Hacker House Goa 2026](https://hacker-house-goa-2026.devfolio.co/)<br><sub>247 PM Studio · Free residency, accommodation, meals and amenities provided; no cash pool</sub> | any builder who applies on Devfolio, students welcome; selective (~247 picked from 10,000+); you pay your own travel to Goa |
+| **in 2 days**<br><sub>20 Oct 2026</sub> | [Atomic Hack India 2026](https://atomichackindia.com/register)<br><sub>GESH IITB (IIT Bombay) + JSC ETC GET / ROSATOM Corporate Academy · Fully sponsored international research internship in Moscow</sub> | UG and PG students at any Indian engineering, science or technology institution, any year, in teams of three or four; solo entries are not allowed |
+| **in 2 days**<br><sub>20 Oct 2026</sub> | [Commonwealth Master's Scholarships 2027-28](https://cscuk.fcdo.gov.uk/apply/)<br><sub>Commonwealth Scholarship Commission (UK) · full tuition + stipend</sub> | Indian citizens who already hold a bachelor's degree (final years cannot apply), nominated through the Ministry of Education. |
+| **in 3 days**<br><sub>21 Oct 2026</sub> | [Dynamix 2027 (Formula Bharat)](https://formulabharat.com/sub-events/dynamix-2027/)<br><sub>Formula Bharat · Track-only Formula Student event for CV/EV cars at Kari Motor Speedway, Coimbatore, 19–24 Jan 2027</sub> | Any year, as part of a university Formula Student team (CV or EV) with club membership; a team entry, so individuals cannot register. |
+| **in 7 days**<br><sub>25 Oct 2026</sub> | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR · PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.</sub> | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
 
 <sub>23 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
@@ -129,7 +130,7 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | **3 Nov 2026** | [Y Combinator: Winter 2027 batch](https://www.ycombinator.com/apply)<br><sub>Y Combinator</sub> | We invest $500,000 in each company. | Anyone, any year or graduate, building a startup, including students in India. You must be able to work full-time in San Francisco from January to March 2027. |
 | **30 Apr 2027** | [Silicon Engineering Intern, PhD: Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027)<br><sub>Google</sub> | 12-week PhD silicon / TPU internship, Bengaluru or Hyderabad, summer 2027 | PhD students only, in Computer Engineering, CS, ECE, EE or a related field; BTech/MTech students cannot apply. Bengaluru or Hyderabad. |
 
-<details><summary><b>Rolling — open now, no stated deadline (49)</b></summary>
+<details><summary><b>Rolling — open now, no stated deadline (51)</b></summary>
 
 | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|
@@ -182,6 +183,8 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | [Software Engineer, PhD, Early Career 2026 (Bengaluru / Hyderabad)](https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026) | Google | Full-time SWE role for new PhDs: large-scale distributed systems, AI/ML, networking, storage or security; Bengaluru or Hyderabad | PhD in Computer Science, Electrical Engineering or a related field, with software development experience; availability to start full time in 2026 |
 | [PhD Intern, Apple Ads (Machine Learning): Hyderabad](https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning) | Apple | PhD ML internship on Apple Ads systems: ad relevance, forecasting and performance; Hyderabad | Currently pursuing a PhD in Computer Science, Software Engineering, Machine Learning, Data Science or a related technical field |
 | [PhD Intern, Machine Learning: MSI, Product Operations (Bengaluru)](https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team) | Apple | PhD internship applying computer vision and vision-language models to Apple's manufacturing; Bengaluru | Pursuing a PhD in Computer Science or a related field, with a deep understanding of ML, probability and statistics and of computer vision / VLMs |
+| [Interim Engineering Intern 2027: Software](https://careers.qualcomm.com/careers/job/446719785836) | Qualcomm India | Embedded software internship on Qualcomm mobile chipsets (multimedia, modem/connectivity firmware, Linux/Android kernel, BSP, drivers); Hyderabad / Bangalore / Chennai / Noida | 2027-graduating B.Tech/M.Tech students in CSE, ECE or communication engineering; other branches and other batches are not listed |
+| [Career Accelerator Program: Digital IC Design Engineer](https://careers.ti.com/en/sites/CX/job/25017396/) | Texas Instruments India | New-graduate digital IC design role in Bengaluru, starting with TI's 12-month Career Accelerator Program (technical training plus on-the-job rotations in the TMG organisation) | new college graduates and final-year B.Tech/BE students in EE or ECE with a 3.0/4.0 GPA or equivalent; experienced engineers apply to TI's lateral roles instead |
 
 </details>
 
