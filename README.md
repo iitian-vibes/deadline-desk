@@ -6,7 +6,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-108-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-109-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -18,20 +18,20 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **tomorrow**<br><sub>21 Oct 2026</sub> | [Dynamix 2027 (Formula Bharat)](https://formulabharat.com/sub-events/dynamix-2027/)<br><sub>Formula Bharat · Track-only Formula Student event for CV/EV cars at Kari Motor Speedway, Coimbatore, 19–24 Jan 2027</sub> | Any year, as part of a university Formula Student team (CV or EV) with club membership; a team entry, so individuals cannot register. |
-| **in 2 days**<br><sub>22 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
-| **in 5 days**<br><sub>25 Oct 2026</sub> | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR · PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.</sub> | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
-| **in 6 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $850,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source their solution |
-| **in 6 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $700,000 · Progress Prizes: $275,000 · Grand Prize: $275,000 · Bonus Prize: $150,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source |
+| **tomorrow**<br><sub>22 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
+| **in 4 days**<br><sub>25 Oct 2026</sub> | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR · PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.</sub> | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
+| **in 5 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $850,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source their solution |
+| **in 5 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $700,000 · Progress Prizes: $275,000 · Grand Prize: $275,000 · Bonus Prize: $150,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source |
+| **in 7 days**<br><sub>28 Oct 2026</sub> | [UGC-NET December 2026](https://ugcnet.nta.nic.in/)<br><sub>NTA (for UGC) · JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026</sub> | master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor |
 
-<sub>20 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>19 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 
 Most opportunity lists are copied from other lists. This one is read off the source.
 
-- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *Dynamix 2027 (Formula Bharat)*:
-  > “Registration – Y Y Oct 21 Registration Form CLUB Membership Deadline – Y Y Oct 22 Membership Page Fee Payment – Y Y Oct 23 Online”
+- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *JAM 2027 registration*:
+  > “22 OCT 2026 LAST DATE TO APPLY (EXTENDED)”
 - **Only the organisation's own page.** Never Unstop, never a LinkedIn repost, never a Telegram forward. CI rejects aggregator hosts on every pull request.
 - **Closed rows are deleted, not archived.** If it is on this list, it is open. A daily watcher re-reads ~45 sources and the board is rebuilt every Saturday.
 - **We say who it is *not* for.** Every row names the range and its edge — "third year and up; first and second years cannot register" — so you find out in one line instead of at the end of a form.
@@ -125,7 +125,7 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | **3 Nov 2026** | [Y Combinator: Winter 2027 batch](https://www.ycombinator.com/apply)<br><sub>Y Combinator</sub> | We invest $500,000 in each company. | Anyone, any year or graduate, building a startup, including students in India. You must be able to work full-time in San Francisco from January to March 2027. |
 | **30 Apr 2027** | [Silicon Engineering Intern, PhD: Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027)<br><sub>Google</sub> | 12-week PhD silicon / TPU internship, Bengaluru or Hyderabad, summer 2027 | PhD students only, in Computer Engineering, CS, ECE, EE or a related field; BTech/MTech students cannot apply. Bengaluru or Hyderabad. |
 
-<details><summary><b>Rolling — open now, no stated deadline (59)</b></summary>
+<details><summary><b>Rolling — open now, no stated deadline (61)</b></summary>
 
 | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|
@@ -188,6 +188,8 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | [ASIC Engineer Intern, Design: Bangalore](https://www.metacareers.com/profile/job_details/1631077978652493) | Meta | RTL/HLS design of chip components, design reviews and verification infrastructure for Meta's data-centre chips; 12 to 16 weeks | current students in EE, ECE, computer engineering or a related branch (bachelor's, master's or PhD) who will return to their degree after the internship; graduates are not eligible |
 | [Apprentice - Enterprise Technology Services: Bengaluru / Gurugram / Chennai](https://careers.americanexpress.com/en/sites/CX_1/job/26009713) | American Express | paid ("12-month paid apprenticeship program"; amount not stated) | people who have already finished a bachelor's or master's in CS, IT or another technical discipline (fresh 2026 graduates fit); current students are not eligible |
 | [Quantitative Research Intern (Singapore)](https://job-boards.greenhouse.io/drweng/jobs/8014915) | DRW | Summer quant research internship in Singapore on a systematic equity or fixed-income options desk: statistics, ML and derivatives pricing on market data, each project advised by a trader | students graduating between December 2027 and August 2028 (today's third years on a 4-year B.Tech, or Master's/PhD students finishing then) in a technical field; 2027-summer graduates and 2029 graduates are outside this posting |
+| [Intern Bachelors Software Eng: Bengaluru](https://careers.honeywell.com/en/sites/Honeywell/job/160479/) | Honeywell | Software engineering internship in Honeywell's Bengaluru team, hybrid: code reviews, designing and building software with cross-functional teams; several identical requisitions posted the same day | students currently enrolled in a bachelor's in software engineering, CS or a related branch; graduates who have finished their degree do not meet the enrolment requirement |
+| [Intern Bachelors AI: Bengaluru](https://careers.honeywell.com/en/sites/Honeywell/job/160430/) | Honeywell | AI internship in Bengaluru, hybrid: designing and developing AI algorithms, models and systems alongside Honeywell's AI engineers on real-world projects | students in a bachelor's programme with AI/ML interest; the role is pitched at undergraduates, not master's or PhD students |
 
 </details>
 
@@ -209,7 +211,6 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 
 | Closes | Opportunity | What you get | Who can apply |
 |---|---|---|---|
-| **21 Oct 2026** | [Dynamix 2027 (Formula Bharat)](https://formulabharat.com/sub-events/dynamix-2027/)<br><sub>Formula Bharat</sub> | Track-only Formula Student event for CV/EV cars at Kari Motor Speedway, Coimbatore, 19–24 Jan 2027 | Any year, as part of a university Formula Student team (CV or EV) with club membership; a team entry, so individuals cannot register. |
 | **26 Oct 2026** | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)<br><sub>ARC Prize Foundation / Kaggle</sub> | TOTAL PRIZES AVAILABLE: $850,000 | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source their solution |
 | **26 Oct 2026** | [Kaggle: ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)<br><sub>ARC Prize Foundation / Kaggle</sub> | TOTAL PRIZES AVAILABLE: $700,000 · Progress Prizes: $275,000 · Grand Prize: $275,000 · Bonus Prize: $150,000 | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source |
 | **13 Nov 2026** | [Solar Decathlon India 2026-27](https://sdichallenge.in/)<br><sub>IIHS + AEEE</sub> | scholarship grants for finalists (amounts not stated) | UG and PG students at Indian institutions, any year, entering as a team; fee-paying; 250-team cap |
