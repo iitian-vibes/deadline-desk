@@ -6,7 +6,7 @@
 
 **Every internship, fellowship, scholarship, government intake and competition an Indian student can actually apply to — sorted by the date it closes, with a receipt on every one.**
 
-![open](https://img.shields.io/badge/open_now-109-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-5-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
+![open](https://img.shields.io/badge/open_now-109-C2410C?style=for-the-badge) ![closing](https://img.shields.io/badge/closing_in_7_days-4-E5484D?style=for-the-badge) ![watch](https://img.shields.io/badge/on_watch-64-6F665B?style=for-the-badge) ![links](https://img.shields.io/badge/all_links_checked-12_Oct_2026-1A1714?style=for-the-badge)
 
 [**Live board with countdowns →**](https://iitianvibes.com/blog/deadline-desk/) · [Subscribe in your calendar](#-put-every-deadline-in-your-calendar) · [Add an opportunity](../../issues/new?template=submit-opportunity.yml)
 
@@ -18,20 +18,19 @@
 
 | Closes | Opportunity | Who can apply |
 |---|---|---|
-| **tomorrow**<br><sub>22 Oct 2026</sub> | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute) · ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027</sub> | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
-| **in 4 days**<br><sub>25 Oct 2026</sub> | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR · PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.</sub> | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
-| **in 5 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $850,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source their solution |
-| **in 5 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $700,000 · Progress Prizes: $275,000 · Grand Prize: $275,000 · Bonus Prize: $150,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source |
-| **in 7 days**<br><sub>28 Oct 2026</sub> | [UGC-NET December 2026](https://ugcnet.nta.nic.in/)<br><sub>NTA (for UGC) · JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026</sub> | master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor |
+| **in 3 days**<br><sub>25 Oct 2026</sub> | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR · PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.</sub> | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
+| **in 4 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-3)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $850,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source their solution |
+| **in 4 days**<br><sub>26 Oct 2026</sub> | [Kaggle: ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)<br><sub>ARC Prize Foundation / Kaggle · TOTAL PRIZES AVAILABLE: $700,000 · Progress Prizes: $275,000 · Grand Prize: $275,000 · Bonus Prize: $150,000</sub> | any year, anywhere, solo or in a team, no degree or affiliation required; prize winners must open-source |
+| **in 6 days**<br><sub>28 Oct 2026</sub> | [UGC-NET December 2026](https://ugcnet.nta.nic.in/)<br><sub>NTA (for UGC) · JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026</sub> | master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor |
 
-<sub>19 close within the month. Times are IST unless the organisation states otherwise.</sub>
+<sub>18 close within the month. Times are IST unless the organisation states otherwise.</sub>
 
 ## Why this list is different
 
 Most opportunity lists are copied from other lists. This one is read off the source.
 
-- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *JAM 2027 registration*:
-  > “22 OCT 2026 LAST DATE TO APPLY (EXTENDED)”
+- **Every deadline carries a receipt.** Not "closes in October" — the organisation's own sentence, quoted verbatim in [`data/opportunities.json`](data/opportunities.json). For *TIFR Graduate School GS-2027*:
+  > “Application deadline for completing REGISTRATION 11 pm on 25 th October, 2026”
 - **Only the organisation's own page.** Never Unstop, never a LinkedIn repost, never a Telegram forward. CI rejects aggregator hosts on every pull request.
 - **Closed rows are deleted, not archived.** If it is on this list, it is open. A daily watcher re-reads ~45 sources and the board is rebuilt every Saturday.
 - **We say who it is *not* for.** Every row names the range and its edge — "third year and up; first and second years cannot register" — so you find out in one line instead of at the end of a form.
@@ -125,7 +124,7 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | **3 Nov 2026** | [Y Combinator: Winter 2027 batch](https://www.ycombinator.com/apply)<br><sub>Y Combinator</sub> | We invest $500,000 in each company. | Anyone, any year or graduate, building a startup, including students in India. You must be able to work full-time in San Francisco from January to March 2027. |
 | **30 Apr 2027** | [Silicon Engineering Intern, PhD: Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027)<br><sub>Google</sub> | 12-week PhD silicon / TPU internship, Bengaluru or Hyderabad, summer 2027 | PhD students only, in Computer Engineering, CS, ECE, EE or a related field; BTech/MTech students cannot apply. Bengaluru or Hyderabad. |
 
-<details><summary><b>Rolling — open now, no stated deadline (61)</b></summary>
+<details><summary><b>Rolling — open now, no stated deadline (62)</b></summary>
 
 | Opportunity | Organisation | What you get | Who can apply |
 |---|---|---|---|
@@ -139,6 +138,7 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 | [Campus Quantitative Researcher Intern: Singapore](https://www.jumptrading.com/hr/job?gh_jid=8027939) | Jump Trading | 10-week quant research internship, Singapore, summer 2027 | Top UG/grad programs, any technical discipline; interested in Singapore full-time after graduation |
 | [Software Engineer: Intern (Asia)](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | Citadel | Summer SWE internship, Hong Kong / Singapore | Bachelor's/Master's/PhD in CS/CE or related |
 | [Quantitative Researcher Intern: 2027 Summer, New York](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | Two Sigma | weekly base pay between $4,900/Week (Bachelors), $5,000/Week (Masters) and $5,500/Week (PhD) | Bachelors / Masters / PhD students |
+| [Software Engineering Internship (Summer 2027), New York](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) | Two Sigma | The weekly base pay for this role will be between $4,325/Week (Bachelors), $4,325/Week (Masters) and $4,325/Week (PhD) based on academic degree conferred. | B.Tech, M.Tech and PhD students in CS or any technical/quantitative branch who can take a 10-week New York summer in 2027; the role is in New York only (no India office) and the posting does not say whether it sponsors a US visa |
 | [Trading Intern: Hong Kong](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) | Flow Traders | paid (amount not stated); flights + accommodation | Graduating Aug 2027 – Dec 2028 in STEM/Finance/Econ |
 | [Quant Trading Intern: Amsterdam (2028 graduates)](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) | Da Vinci Derivatives | 8-week quant trading internship, Amsterdam; flights and stay covered | Graduating in 2028 from maths/physics/engineering or similar |
 | [Quantitative Researcher: 2027 Graduate, Gurugram](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8768396002?gh_jid=8768396002) | Graviton Research Capital | Full-time QR new-grad role, Gurugram, 2027 batch, direct off-campus application | Degree in Maths/CS/EE or another highly analytical field; 2027 graduates |
@@ -199,7 +199,6 @@ Subscribe once and every closing date lands in your phone with a 36-hour alarm. 
 
 | Closes | Opportunity | What you get | Who can apply |
 |---|---|---|---|
-| **22 Oct 2026** | [JAM 2027 registration](https://jam.iitkgp.ac.in/)<br><sub>IIT Kharagpur (organising institute)</sub> | ~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027 | final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit |
 | **25 Oct 2026** | [TIFR Graduate School GS-2027](https://www.tifr.res.in/academics/gs_begin_application.php)<br><sub>TIFR</sub> | PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration. | B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates) |
 | **28 Oct 2026** | [UGC-NET December 2026](https://ugcnet.nta.nic.in/)<br><sub>NTA (for UGC)</sub> | JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026 | master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor |
 | **31 Oct 2026** | [CEED 2027 (M.Des. / PhD design entrance)](https://www.ceed.iitb.ac.in/2027/)<br><sub>IIT Bombay (UCEED-CEED Office)</sub> | Entrance for M.Des./PhD in design at IIT Bombay, Delhi, Gandhinagar, Guwahati, Hyderabad, Jodhpur, Kanpur, Roorkee, IISc and IIITDMs; exam Sun 17 Jan 2027 | final-year students of any 3-year-plus degree (B.Tech, B.Des, B.Arch, B.Sc, B.A., graduating by July 2027) and anyone already holding such a degree, any branch, no age limit; students not in their final year cannot apply |

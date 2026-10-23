@@ -92,13 +92,13 @@
     "pay": "In 2026, Fellows will receive an $8,110 award for the ten-week period",
     "status": "OPENS_SOON",
     "opens": "2026-11-01",
-    "deadline": null,
-    "deadline_quote": "The SURF 2027 application will open on November 1st.",
+    "deadline": "2027-02-22",
+    "deadline_quote": "The SURF 2027 application will open on November 1st. ... SURF applications are due on February 22.",
     "apply_url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
     "source_url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
-    "notes": "2027 deadline not yet posted (historically mid-Feb)",
+    "notes": "Application opens 1 Nov 2026; applications and both recommendations are due 22 Feb 2027 (posted on the SFP page 23 Oct 2026). Find a Caltech mentor and co-write the proposal before applying.",
     "retrieved": "2026-09-12",
-    "verified_at": "2026-10-10",
+    "verified_at": "2026-10-23",
     "sub": "International",
     "kind": "Internship"
   },
@@ -649,6 +649,26 @@
     "verified_at": "2026-10-18",
     "sub": "Quant",
     "kind": "Internship"
+  },
+  {
+    "id": "two-sigma-software-engineering-internship-summer-2027-new-york",
+    "name": "Software Engineering Internship (Summer 2027), New York",
+    "org": "Two Sigma",
+    "lane": "B-industry",
+    "sub": "Software",
+    "kind": "Internship",
+    "what": "10-week software engineering internship at Two Sigma's Soho office in New York: one project with an assigned mentor, matched to a team (infrastructure, trading systems, data ingestion) 2-3 months before the start, ending in a final presentation",
+    "eligibility": "Students doing coursework towards a Bachelor's, Master's or PhD in a technical or quantitative field; experience with Java, C, C++, Python or similar, and large-scale systems",
+    "who": "B.Tech, M.Tech and PhD students in CS or any technical/quantitative branch who can take a 10-week New York summer in 2027; the role is in New York only (no India office) and the posting does not say whether it sponsors a US visa",
+    "pay": "The weekly base pay for this role will be between $4,325/Week (Bachelors), $4,325/Week (Masters) and $4,325/Week (PhD) based on academic degree conferred.",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "Software Engineering Internship (Summer 2027) Location NY New York United States",
+    "apply_url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+    "source_url": "https://careers.twosigma.com/careers/InternshipsAndEarlyCareers",
+    "notes": "Found by the watchlist hunt on Two Sigma's own careers portal (Internships and Early Careers). No deadline stated; rolling. The Quantitative Researcher and AI Research Scientist summer 2027 internships are also open in New York.",
+    "retrieved": "2026-10-23",
+    "verified_at": "2026-10-23"
   },
   {
     "id": "flow-traders-trading-intern-hong-kong",
@@ -3031,7 +3051,7 @@
     "source_url": "https://careers.cars24.com/intern/?id=a6a560b13cacdd",
     "notes": "Cars24's own careers portal (job id a6a560b13cacdd, listed via api.cars24.com jobs feed). No deadline or pay stated; rolling. Found by the watchlist hunt (2026-10-14), added under the rolling-internship rule.",
     "retrieved": "2026-10-15",
-    "verified_at": "2026-10-15"
+    "verified_at": "2026-10-23"
   },
   {
     "id": "cars24-data-platform-builder-apprentice-gurgaon",
@@ -3051,7 +3071,7 @@
     "source_url": "https://careers.cars24.com/builder-apprentice/?id=a6a63311c0e721",
     "notes": "Cars24's own careers portal (job id a6a63311c0e721); employment type shown as Intern. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
-    "verified_at": "2026-10-15"
+    "verified_at": "2026-10-23"
   },
   {
     "id": "cars24-cyber-security-engineer-intern-gurugram",
@@ -3071,7 +3091,7 @@
     "source_url": "https://careers.cars24.com/security-engineer/?id=a6a7454f0a938a",
     "notes": "Cars24's own careers portal (job id a6a7454f0a938a), Devops and Security team, 0–1 years. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
-    "verified_at": "2026-10-15"
+    "verified_at": "2026-10-23"
   },
   {
     "id": "cars24-deployment-inc-fde-builder-apprentice-gurgaon",
@@ -3091,7 +3111,7 @@
     "source_url": "https://careers.cars24.com/builder-apprentice/?id=a6ac379704b4d3",
     "notes": "Listed on Cars24's own careers portal (job id a6ac379704b4d3) for Deployment Inc, which the posting says is 'backed by Cars24, recognized as an OpenAI Select Partner'. Employment type Intern. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
-    "verified_at": "2026-10-15"
+    "verified_at": "2026-10-23"
   },
   {
     "id": "cars24-analytics-intern-gurgaon",
@@ -3111,7 +3131,7 @@
     "source_url": "https://careers.cars24.com/intern/?id=a6a69e43ac24e3",
     "notes": "Cars24's own careers portal (job id a6a69e43ac24e3). A second listing with the same description runs as Builder - Apprentice (id a6a7074bbaf7cf); apply to one. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
-    "verified_at": "2026-10-15"
+    "verified_at": "2026-10-23"
   },
   {
     "id": "google-silicon-engineer-platform-devices-university-graduate-2026",
@@ -3232,27 +3252,6 @@
     "notes": "Requisition 25017396 on TI's Oracle Recruiting site, posted 2026-10-09; description: 'The TMG Development program is a 12-month program for new college graduates in the TMG organization.' GPA bar is stated on a 4.0 scale. Found by the daily intern-watchlist hunt.",
     "retrieved": "2026-10-19",
     "verified_at": "2026-10-19"
-  },
-  {
-    "id": "iit-kharagpur-organising-institute-jam-2027-registration",
-    "name": "JAM 2027 registration",
-    "org": "IIT Kharagpur (organising institute)",
-    "lane": "B-govt",
-    "what": "~3,000 M.Sc. / M.Sc.-PhD seats at IITs + IISc; exam 14 Feb 2027",
-    "eligibility": "Bachelor's degree holders / final-year in relevant science disciplines",
-    "pay": "not stated",
-    "status": "OPEN",
-    "opens": "2026-09-11",
-    "deadline": "2026-10-22",
-    "deadline_quote": "22 OCT 2026 LAST DATE TO APPLY (EXTENDED)",
-    "apply_url": "https://jam.iitkgp.ac.in/",
-    "source_url": "https://jam.iitkgp.ac.in/",
-    "notes": "Last date extended again, 19 Oct to 22 Oct 2026 (homepage announcements strip, seen 20 Oct). Earlier moved 12 Oct to 19 Oct. Apply via JOAPS (joaps.iitkgp.ac.in). Exam 14 Feb 2027, results 18 Mar 2027.",
-    "retrieved": "2026-10-02",
-    "verified_at": "2026-10-20",
-    "sub": "Exams",
-    "kind": "Exam / admission",
-    "who": "final-year bachelor's students (graduating 2027) and bachelor's degree holders in the relevant science disciplines; no upper age limit"
   },
   {
     "id": "graviton-qr-2027-summer-internship-overseas",
