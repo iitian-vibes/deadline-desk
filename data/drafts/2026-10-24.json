@@ -1,0 +1,20 @@
+[
+ {
+  "id": "summer-epfl-next-deadline-29th-november-2026-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Summer@EPFL",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Next Deadline: 29th November 2026",
+  "apply_url": "https://summer.epfl.ch/",
+  "source_url": "https://summer.epfl.ch/",
+  "notes": "Watcher hit 2026-10-24: opens ~2 weeks before deadline",
+  "verified_at": null
+ }
+]
