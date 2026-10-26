@@ -1,0 +1,20 @@
+[
+ {
+  "id": "stipendium-hungaricum-apply-stipendium-hungaricum-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Stipendium Hungaricum",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Apply - Stipendium Hungaricum",
+  "apply_url": "https://stipendiumhungaricum.hu/apply/",
+  "source_url": "https://stipendiumhungaricum.hu/apply/",
+  "notes": "Watcher hit 2026-10-26: 2027/28 call (~Nov)",
+  "verified_at": null
+ }
+]
