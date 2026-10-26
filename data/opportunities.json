@@ -833,28 +833,6 @@
     "kind": "Full-time"
   },
   {
-    "id": "tifr-tifr-graduate-school-gs-2027",
-    "name": "TIFR Graduate School GS-2027",
-    "org": "TIFR",
-    "lane": "B-govt",
-    "what": "TIFR GS-2027 entrance for PhD / Integrated PhD / M.Sc. in Physics, Chemistry, Maths, Biology, CS, LIDS, Science Education; exam Sun 13 Dec 2026; programmes start 1 Aug 2027",
-    "eligibility": "B.Sc./B.E./B.Tech./M.Sc. per programme",
-    "pay": "PhD Students receive a monthly fellowship of Rs 37,000 (+ hostel accommodation OR HRA as applicable) enhanced to Rs 42,000 after registration.",
-    "status": "OPEN",
-    "deadline": "2026-10-25",
-    "deadline_quote": "Application deadline for completing REGISTRATION 11 pm on 25 th October, 2026",
-    "apply_url": "https://www.tifr.res.in/academics/gs_begin_application.php",
-    "source_url": "https://www.tifr.res.in/academics/gs_advertisement.php",
-    "notes": "Portal opened 26 Sep 2026. Fee-waiver requests close 11 pm 11 Oct 2026. Exam Sunday 13 Dec 2026. The page also carries a commented-out line with a 2025 date for test-centre priority, ignore it. Eligibility page: 'Candidates in the final year of their qualifying degree can also apply.'",
-    "retrieved": "2026-10-02",
-    "verified_at": "2026-10-24",
-    "sub": "Exams",
-    "kind": "Exam / admission",
-    "opens": "2026-09-26",
-    "deadline_time": "2026-10-25T23:00:00+05:30",
-    "who": "B.Sc./B.E./B.Tech./M.Sc. holders per subject programme, and students in the final year of their qualifying degree (2027 graduates)"
-  },
-  {
     "id": "barc-dae-barc-oces-dgfs-2027",
     "name": "BARC OCES/DGFS-2027",
     "org": "BARC (DAE)",
