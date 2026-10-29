@@ -2601,30 +2601,6 @@
     "retrieved": "2026-10-10"
   },
   {
-    "id": "ugc-net-december-2026",
-    "name": "UGC-NET December 2026",
-    "org": "NTA (for UGC)",
-    "lane": "B-govt",
-    "sub": "Exams",
-    "kind": "Exam",
-    "what": "JRF + Assistant Professor + PhD-admission eligibility in 87 subjects incl. Computer Science & Applications, Economics, Management; CBT 14–19 Dec 2026",
-    "eligibility": "Master's degree or equivalent with at least 55% (relaxations for reserved categories); 4-year/8-semester bachelor's with 75% eligible for JRF/PhD only; final-year candidates admitted provisionally. JRF: not more than 30 years as on 01.12.2026; no upper age for Assistant Professor or PhD admission.",
-    "pay": "not stated",
-    "status": "OPEN",
-    "opens": "2026-10-08",
-    "deadline": "2026-10-28",
-    "deadline_time": "2026-10-28T23:50:00+05:30",
-    "who": "master's students and graduates (55%+) in any of 87 subjects incl. CS, economics, management, humanities, plus final-year 4-year bachelor's students (75%) for JRF/PhD only; JRF stops at age 30 on 1 Dec 2026 (relaxations), no age limit for PhD-admission or Assistant Professor",
-    "deadline_quote": "Submission of Online Application Form 08 October 2026 to 28 October 2026 (up to 11:50 P.M.)",
-    "apply_url": "https://ugcnet.nta.nic.in/",
-    "source_url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
-    "source_published_at": "2026-10-08",
-    "notes": "NTA public notice 08 Oct 2026 (text PDF, quote is the schedule-table row, cells joined). Late submission with ₹500 late fee 29–31 Oct 2026; correction 2–4 Nov. Fee ₹1150 General / ₹600 EWS-OBC-NCL / ₹325 SC-ST-PwD-third gender. Eligibility/age from the Dec 2026 Information Bulletin (uploads/2026/10/202610081852912625.pdf). NTA says dates are tentative.",
-    "trap": "28 Oct is the last day without a late fee; a ₹500 late window runs to 31 Oct. 4-year-degree qualifiers cannot be Assistant Professors.",
-    "verified_at": "2026-10-24",
-    "retrieved": "2026-10-10"
-  },
-  {
     "id": "iitb-ceed-2027",
     "name": "CEED 2027 (M.Des. / PhD design entrance)",
     "org": "IIT Bombay (UCEED-CEED Office)",
@@ -3959,5 +3935,26 @@
     "notes": "Job 200041777, posted 26 Oct 2026 (sibling of the Data Science Intern job 200041778). Undergraduate-only wording. Found via the 2c watchlist hunt.",
     "verified_at": "2026-10-27",
     "retrieved": "2026-10-27"
+  },
+  {
+    "id": "synopsys-formal-verification-intern-bengaluru",
+    "name": "Formal Verification Internship: Bengaluru",
+    "org": "Synopsys",
+    "lane": "B-industry",
+    "sub": "Core/Hardware",
+    "kind": "Internship",
+    "what": "12-month, full-time, in-office internship with Synopsys's formal verification team: learn FV methodology, run validation on live projects and help improve the verification tools",
+    "eligibility": "Currently pursuing a B.E./B.Tech/M.Tech in Electronics, Electrical, Instrumentation, or related fields (Candidates graduating 2027 will be preferred); computer architecture and digital design fundamentals; Python/Perl/Tcl scripting on Unix/Linux",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "who": "B.E./B.Tech/M.Tech students in ECE, EE, instrumentation or a related branch, 2027 graduates preferred; it runs 12 months full-time in Bengaluru from Oct/Nov 2026, so only students free for a year-long in-office stint can take it",
+    "deadline_quote": "Formal Verification Internship · Bengaluru, Karnataka, India",
+    "apply_url": "https://careers.synopsys.com/job/bengaluru/formal-verification-internship/44408/102236641120",
+    "source_url": "https://careers.synopsys.com/job/bengaluru/formal-verification-internship/44408/102236641120",
+    "source_published_at": "2026-10-20",
+    "notes": "Job ID 19193, posted 20 Oct 2026, Interns/Temp. Program length 12 months, start Oct/Nov 2026, in-office. Found via the 2c watchlist hunt.",
+    "verified_at": "2026-10-29",
+    "retrieved": "2026-10-29"
   }
 ]
