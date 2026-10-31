@@ -1,0 +1,20 @@
+[
+ {
+  "id": "caltech-surf-to-access-the-surf-2027-application-port-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Caltech SURF",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "to access the SURF 2027 application portal.",
+  "apply_url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
+  "source_url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
+  "notes": "Watcher hit 2026-10-31: opens 1 Nov",
+  "verified_at": null
+ }
+]
