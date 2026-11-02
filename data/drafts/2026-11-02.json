@@ -1,0 +1,38 @@
+[
+ {
+  "id": "epfl-e3-the-e3-application-portal-for-summer-202-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "EPFL E3",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "The E3 application portal for summer 2027 is closed!",
+  "apply_url": "https://eee.epfl.ch/apply/",
+  "source_url": "https://eee.epfl.ch/apply/",
+  "notes": "Watcher hit 2026-11-02: portal opens October",
+  "verified_at": null
+ },
+ {
+  "id": "microsoft-imagine-cup-apply-to-imagine-cup-2027-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Microsoft Imagine Cup",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Apply to Imagine Cup 2027",
+  "apply_url": "https://imaginecup.microsoft.com/en-us",
+  "source_url": "https://imaginecup.microsoft.com/en-us",
+  "notes": "Watcher hit 2026-11-02: 2027 'coming soon'",
+  "verified_at": null
+ }
+]
