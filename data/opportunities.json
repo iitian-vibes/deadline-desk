@@ -1878,27 +1878,6 @@
     "notes": "Not announced: jest.org.in still shows the JEST 2026 cycle (portal 26 Feb – 25 Mar 2026, exam 12 Apr 2026, organiser IISER Tirupati). Expect a similar Feb–Mar 2027 window."
   },
   {
-    "id": "yc-winter-2027",
-    "name": "Y Combinator: Winter 2027 batch",
-    "org": "Y Combinator",
-    "lane": "B-industry",
-    "sub": "Software",
-    "kind": "Program",
-    "what": "3-month startup accelerator in San Francisco (January–March 2027) with a $500,000 investment per company",
-    "eligibility": "An application process 'open to any startup, anywhere in the world'. Student founders apply all the time, and you can apply before you have a company or co-founder",
-    "pay": "We invest $500,000 in each company.",
-    "status": "OPEN",
-    "deadline": "2026-11-02",
-    "deadline_time": "2026-11-03T09:30:00+05:30",
-    "who": "Anyone, any year or graduate, building a startup, including students in India. You must be able to work full-time in San Francisco from January to March 2027.",
-    "deadline_quote": "The deadline to apply on-time is November 2 at 8pm PT; if you apply before the deadline, you will get a decision by December 11.",
-    "apply_url": "https://www.ycombinator.com/apply",
-    "source_url": "https://www.ycombinator.com/apply",
-    "notes": "8pm PT on 2 Nov is 9:30 AM IST on 3 Nov, because US DST ends on 1 Nov so it is PST (UTC-8). Eligibility comes from ycombinator.com/faq. Applying for Spring/Summer/Fall 2027 is also open now via Early Decision. The batch is in-person in SF. Sub 'Software' is the closest fit; the editor may reclassify.",
-    "verified_at": "2026-10-31",
-    "retrieved": "2026-10-02"
-  },
-  {
     "id": "entrepreneur-first-bangalore",
     "name": "Entrepreneurs First: Bangalore",
     "org": "Entrepreneurs First",
