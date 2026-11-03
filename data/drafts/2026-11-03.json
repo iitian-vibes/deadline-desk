@@ -1,0 +1,38 @@
+[
+ {
+  "id": "cmat-nta-the-ministry-of-education-moe-government-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "CMAT (NTA)",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "The Ministry of Education (MoE), Government of India (GOI) has established the National Testing Agency (NTA) as an independent, autonomous, and self-sustained premier testing organization under the Societies Registration Act (1860) for cond",
+  "apply_url": "https://cmat.nta.nic.in/",
+  "source_url": "https://cmat.nta.nic.in/",
+  "notes": "Watcher hit 2026-11-03: 2027 notification",
+  "verified_at": null
+ },
+ {
+  "id": "stipendium-hungaricum-apply-stipendium-hungaricum-scholarship-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Stipendium Hungaricum",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Apply Stipendium Hungaricum Scholarship",
+  "apply_url": "https://stipendiumhungaricum.hu/apply/",
+  "source_url": "https://stipendiumhungaricum.hu/apply/",
+  "notes": "Watcher hit 2026-11-03: 2027/28 call (~Nov)",
+  "verified_at": null
+ }
+]
