@@ -4520,5 +4520,25 @@
     "notes": "Requisition JR10449573 on Airbus's own Workday careers site (Airbus India Private Limited), posted 25 Oct 2026. 'Ideally, this is a 6 months internship and it should start in January 2027(date subject to flexibility).' No deadline sentence, so listed as rolling. Found by the daily intern-watchlist hunt.",
     "retrieved": "2026-11-01",
     "verified_at": "2026-11-01"
+  },
+  {
+    "id": "cars24-backend-builder-apprentice-software-engineering-gurgaon",
+    "name": "Technology Intern, Software Engineering (Builder - Apprentice, Backend): Gurgaon",
+    "org": "Cars24",
+    "lane": "B-industry",
+    "sub": "Software",
+    "kind": "Internship",
+    "what": "3 to 6 month work-from-office internship with Cars24's engineering teams: build, test and maintain software features, write code and join code reviews, troubleshoot bugs and work with engineers and product managers on live projects",
+    "eligibility": "Currently pursuing or recently completed a degree in Computer Science, Engineering or a related field; basic knowledge of at least one language (Python, Java, JavaScript or C++), data structures and algorithms, databases, APIs and Git; 0 to 1 years of experience",
+    "who": "Students currently in a CS, engineering or related degree, and recent graduates with 0 to 1 years of experience, who can work from the Gurugram office for 3 to 6 months; more than a year of experience is outside the posted range",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "Builder - Apprentice · Backend · 0–1 Years · Apprentice · Gurgaon",
+    "apply_url": "https://careers.cars24.com/builder-apprentice/?id=a6ae3662338adf",
+    "source_url": "https://careers.cars24.com/builder-apprentice/?id=a6ae3662338adf",
+    "notes": "Listed on Cars24's own careers portal (job id a6ae3662338adf, Technology department, Backend, employment type Apprentice, read via the api.cars24.com jobs feed). The posting body is headed 'Technology Intern – Software Engineering', 'Duration: 3–6 months', 'Work mode: Work from office'. No deadline or pay stated; rolling. Found by the daily watchlist hunt (2026-11-04).",
+    "retrieved": "2026-11-04",
+    "verified_at": "2026-11-04"
   }
 ]
