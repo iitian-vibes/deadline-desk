@@ -121,7 +121,7 @@
     "deadline_quote": "The application period is from November 12, 2026 to December 25, 2026 until 17:00 Japan Standard Time (GMT+0900).",
     "apply_url": "https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/",
     "source_url": "https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/",
-    "notes": "UTRIP 2027 window announced (site news 2 Nov 2026): 12 Nov to 25 Dec 2026, 17:00 JST (13:30 IST); recommendation form due the same time. Six consecutive weeks full-time. Selection announced early April 2027. Funding not stated on the Apply Now page (financial support has its own page, not fetched). 7 Nov: funding read on s.u-tokyo.ac.jp/en/utrip/financial-support/ (Financial Support (2027)).",
+    "notes": "UTRIP 2027 window announced (site news 2 Nov 2026): 12 Nov to 25 Dec 2026, 17:00 JST (13:30 IST); recommendation form due the same time. Six consecutive weeks full-time. Selection announced early April 2027. Funding not stated on the Apply Now page (financial support has its own page, not fetched). 7 Nov: funding read on s.u-tokyo.ac.jp/en/utrip/financial-support/ (Financial Support (2027)). FAQ: 'UTRIP is open to students in the science, engineering, and all other relevant fields.'",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
     "sub": "International",
@@ -129,7 +129,7 @@
     "for": ["y2", "y3"],
     "opens": "2026-11-12",
     "deadline_time": "2026-12-25T13:30:00+05:30",
-    "who": "BTech/BS students in a natural science or related field who have finished at least one full year and will still be undergraduates after the programme; third-years of a four-year degree get priority; final-years who graduate before the programme cannot apply"
+    "who": "B.Tech/BS students in science or engineering (the FAQ says it is open to science, engineering and all other relevant fields) who have finished at least one full year and will still be undergraduates after the programme; third years of a four-year degree get priority; final years who graduate before the programme cannot apply"
   },
   {
     "id": "university-of-tokyo-graduate-school-of-frontier-sciences-uts",
