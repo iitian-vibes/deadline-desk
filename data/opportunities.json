@@ -4657,5 +4657,26 @@
     "retrieved": "2026-11-09",
     "verified_at": "2026-11-09",
     "for": ["grad"]
+  },
+  {
+    "id": "honeywell-intern-masters-data-science-bengaluru-161958",
+    "name": "Intern Masters Data Science (Bengaluru)",
+    "org": "Honeywell",
+    "lane": "B-industry",
+    "sub": "ML/AI",
+    "kind": "Internship",
+    "what": "Data science internship at Honeywell Bengaluru: analyse large datasets, build predictive machine learning models, present findings to stakeholders",
+    "eligibility": "YOU MUST HAVE Experience in data analysis and machine learning Proficiency in programming languages like Python or R Familiarity with data visualization tools such as Tableau or Power BI WE VALUE Pursuing a Master's degree in Data Science, Computer Science, or a related field",
+    "who": "master's students in data science, CS or a related field with Python or R, machine learning and Tableau or Power BI; Honeywell's bachelor's interns have separate postings; Bengaluru",
+    "pay": "not stated",
+    "status": "ROLLING",
+    "deadline": null,
+    "deadline_quote": "Intern Masters Data Science · Bengaluru, Karnataka, India",
+    "apply_url": "https://careers.honeywell.com/en/sites/Honeywell/job/161958/",
+    "source_url": "https://careers.honeywell.com/en/sites/Honeywell/job/161958/",
+    "notes": "Requisition 161958 posted 2026-11-10, live in Honeywell's Oracle Recruiting API (siteNumber CX_1). No deadline on the posting. Rolling; receipt = title and location line.",
+    "retrieved": "2026-11-10",
+    "verified_at": "2026-11-10",
+    "for": ["pg"]
   }
 ]
