@@ -18,7 +18,11 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y2", "y3", "final"]
+    "for": [
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "eth-zurich-dept-of-computer-science-eth-zurich-student-summe",
@@ -41,7 +45,10 @@
     "kind": "Internship",
     "deadline_time": "2026-12-16T17:30:00+05:30",
     "who": "BTech/BS and Master's students in CS or a related field with at least two years of study done and graduating 2028 or later; first and second years (under two years completed) cannot apply",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "caltech-student-faculty-programs-usa-caltech-surf-2027",
@@ -63,7 +70,10 @@
     "sub": "International",
     "kind": "Internship",
     "who": "Undergraduates in any branch who have finished their second semester and will still be enrolled in autumn 2027 (so second, third and pre-final years); final-years graduating before autumn 2027 cannot apply, and you need a Caltech mentor's approval first.",
-    "for": ["y2", "y3"]
+    "for": [
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "amgen-foundation-hosts-kyoto-utokyo-nus-tsinghua-iiit-hydera",
@@ -84,7 +94,11 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "max-planck-institute-for-astronomy-mpia-heidelberg-summer-in",
@@ -106,7 +120,13 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "university-of-tokyo-graduate-school-of-science-utokyo-utrip-",
@@ -126,7 +146,10 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y2", "y3"],
+    "for": [
+      "y2",
+      "y3"
+    ],
     "opens": "2026-11-12",
     "deadline_time": "2026-12-25T13:30:00+05:30",
     "who": "B.Tech/BS students in science or engineering (the FAQ says it is open to science, engineering and all other relevant fields) who have finished at least one full year and will still be undergraduates after the programme; third years of a four-year degree get priority; final years who graduate before the programme cannot apply"
@@ -149,7 +172,11 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "nanyang-technological-university-singapore-ntu-global-connec",
@@ -170,7 +197,10 @@
     "sub": "International",
     "kind": "Internship",
     "opens": "2027-01-15",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "institut-fran-ais-en-inde-campus-france-france-excellence-ch",
@@ -190,7 +220,11 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y3", "final", "pg"]
+    "for": [
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "iusstf-dbt-winstep-forward-khorana-program-for-scholars",
@@ -210,7 +244,9 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y3"]
+    "for": [
+      "y3"
+    ]
   },
   {
     "id": "cern-cern-summer-student-programme-2027",
@@ -230,7 +266,11 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y3", "final", "pg"]
+    "for": [
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "desy-hamburg-zeuthen-desy-summer-student-programme-2027",
@@ -250,7 +290,12 @@
     "verified_at": "2026-11-07",
     "sub": "International",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "indian-academy-of-sciences-insa-nasi-science-academies-summe",
@@ -272,7 +317,11 @@
     "sub": "India",
     "kind": "Internship",
     "who": "BTech second and third years, dual-degree second to fourth years, MTech/MSc first years, integrated PhD first and second years; final-year BTech students cannot apply. 65% in core subjects from Class X up.",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "gates-cambridge-trust-gates-cambridge-scholarship-2027-28",
@@ -294,7 +343,11 @@
     "sub": "Study abroad",
     "kind": "Scholarship",
     "who": "Final-years and graduates applying to a full-time postgraduate course at Cambridge starting 2027; any Indian citizen qualifies, UK citizens do not.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "tsinghua-university-schwarzman-scholars-2028-29",
@@ -315,7 +368,11 @@
     "verified_at": "2026-11-07",
     "sub": "Study abroad",
     "kind": "Scholarship",
-    "for": ["y3", "final", "grad"]
+    "for": [
+      "y3",
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "google-research-google-phd-fellowship-india",
@@ -335,7 +392,9 @@
     "verified_at": "2026-11-07",
     "sub": "PhD fellowships",
     "kind": "Fellowship",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "adobe-research-adobe-india-ai-research-fellowship",
@@ -355,7 +414,9 @@
     "verified_at": "2026-11-07",
     "sub": "PhD fellowships",
     "kind": "Fellowship",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "qualcomm-qualcomm-innovation-fellowship-india",
@@ -375,7 +436,10 @@
     "verified_at": "2026-11-07",
     "sub": "PhD fellowships",
     "kind": "Fellowship",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "j-n-tata-endowment-j-n-tata-endowment-loan-scholarship",
@@ -395,7 +459,11 @@
     "verified_at": "2026-11-07",
     "sub": "Study abroad",
     "kind": "Scholarship",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "inlaks-shivdasani-foundation-inlaks-shivdasani-scholarship",
@@ -415,7 +483,11 @@
     "verified_at": "2026-11-07",
     "sub": "Study abroad",
     "kind": "Scholarship",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "jane-street-quantitative-trader-summer-internship-2027-hong-",
@@ -436,7 +508,12 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "jane-street-software-engineer-summer-internship-2027-hong-ko",
@@ -457,7 +534,12 @@
     "verified_at": "2026-11-07",
     "sub": "Software",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "imc-trading-quantitative-trader-intern-2027-hong-kong",
@@ -478,7 +560,10 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "hudson-river-trading-quant-research-trading-internship-summe",
@@ -499,7 +584,12 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "hudson-river-trading-software-engineering-internship-summer-",
@@ -520,7 +610,11 @@
     "verified_at": "2026-11-07",
     "sub": "Software",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "tower-research-capital-quant-trader-researcher-intern-summer",
@@ -541,7 +635,12 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "jump-trading-campus-quantitative-researcher-intern-singapore",
@@ -562,7 +661,10 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "citadel-software-engineer-intern-asia",
@@ -582,7 +684,12 @@
     "verified_at": "2026-11-07",
     "sub": "Software",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "two-sigma-quantitative-researcher-intern-2027-summer-new-yor",
@@ -602,7 +709,12 @@
     "verified_at": "2026-11-08",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "two-sigma-software-engineering-internship-summer-2027-new-york",
@@ -623,7 +735,12 @@
     "notes": "Found by the watchlist hunt on Two Sigma's own careers portal (Internships and Early Careers). No deadline stated; rolling. The Quantitative Researcher and AI Research Scientist summer 2027 internships are also open in New York.",
     "retrieved": "2026-10-23",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "flow-traders-trading-intern-hong-kong",
@@ -644,7 +761,10 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y3", "final"]
+    "for": [
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "da-vinci-derivatives-quant-trading-intern-amsterdam-2028-gra",
@@ -665,7 +785,9 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y3"]
+    "for": [
+      "y3"
+    ]
   },
   {
     "id": "quadeye-intern-quant-strategist-2028-batch-gurugram",
@@ -685,7 +807,12 @@
     "verified_at": "2026-11-07",
     "sub": "Quant",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "stripe-software-engineer-intern-bengaluru",
@@ -706,7 +833,12 @@
     "verified_at": "2026-11-07",
     "sub": "Software",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "drdo-rac-drdo-scientist-b-2027-via-gate-2027",
@@ -727,7 +859,11 @@
     "verified_at": "2026-10-10",
     "sub": "Recruitment",
     "kind": "Full-time",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "gail-india-limited-gail-executive-trainee-through-gate-2027",
@@ -749,7 +885,10 @@
     "verified_at": "2026-11-07",
     "sub": "Recruitment",
     "kind": "Full-time",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "coal-india-limited-coal-india-management-trainee-mining-via-",
@@ -770,7 +909,10 @@
     "verified_at": "2026-11-07",
     "sub": "Recruitment",
     "kind": "Full-time",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "barc-dae-barc-oces-dgfs-2027",
@@ -790,7 +932,11 @@
     "verified_at": "2026-11-07",
     "sub": "Exams",
     "kind": "Exam / admission",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "iit-kanpur-iit-kanpur-surge-2027",
@@ -810,7 +956,11 @@
     "verified_at": "2026-11-07",
     "sub": "Summer research",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "iit-roorkee-iit-roorkee-spark-2027",
@@ -830,7 +980,11 @@
     "verified_at": "2026-11-07",
     "sub": "Summer research",
     "kind": "Internship",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "iihs-aeee-solar-decathlon-india-2026-27",
@@ -853,7 +1007,13 @@
     "kind": "Competition",
     "who": "UG and PG students at Indian institutions, any year, entering as a team; fee-paying; 250-team cap",
     "trap": "Both cheaper tiers are **sold out**; only the final 100 Standard slots (INR 7,500) remain, so 13 November is the outer date, not the real one.",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "hult-prize-foundation-hult-prize-2027",
@@ -873,7 +1033,13 @@
     "verified_at": "2026-11-07",
     "sub": "Student competitions",
     "kind": "Competition",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "major-league-hacking-mlh-fellowship",
@@ -893,7 +1059,14 @@
     "verified_at": "2026-11-07",
     "sub": "Open source",
     "kind": "Program",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "google-ospo-google-summer-of-code-2027",
@@ -913,7 +1086,14 @@
     "verified_at": "2026-11-07",
     "sub": "Open source",
     "kind": "Program",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "outreachy-outreachy-may-2027-cohort",
@@ -933,7 +1113,14 @@
     "verified_at": "2026-11-07",
     "sub": "Open source",
     "kind": "Program",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "the-linux-foundation-lfx-mentorship-spring-2027",
@@ -953,7 +1140,14 @@
     "verified_at": "2026-11-07",
     "sub": "Open source",
     "kind": "Program",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "meta-meta-hacker-cup-2026",
@@ -973,7 +1167,15 @@
     "verified_at": "2026-10-31",
     "sub": "Hackathons",
     "kind": "Competition",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad", "school"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "tata-consultancy-services-tcs-codevita-season-14",
@@ -994,7 +1196,13 @@
     "sub": "Hackathons",
     "kind": "Competition",
     "who": "science or engineering UG/PG students graduating 2027 to 2030, so first year through final year now; 2026 graduates are out",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "microsoft-microsoft-imagine-cup-2027",
@@ -1015,7 +1223,14 @@
     "sub": "Hackathons",
     "kind": "Competition",
     "who": "founders aged 18+ in any year of study, recent graduates or working: the startup must be a registered company founded on or after 2 Nov 2024; an idea without a registered company cannot enter",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "google-silicon-engineering-intern-phd-summer-2027",
@@ -1036,7 +1251,9 @@
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
     "who": "PhD students only, in Computer Engineering, CS, ECE, EE or a related field; BTech/MTech students cannot apply. Bengaluru or Hyderabad.",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "google-software-engineering-phd-intern-summer-2027",
@@ -1056,7 +1273,9 @@
     "notes": "Rolling; no deadline on the posting",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "qualcomm-2027-campus-hire-engineer-sw",
@@ -1077,7 +1296,10 @@
     "notes": "JSON-LD title '2027 Campus Hire_Engineer_SW', datePosted 2026-09-09, validThrough 2027-03-08 (listing expiry). Replaced the stale 'Posted 4 days ago' quote. Siblings 446719784235 and 446719783557 still live.",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "qualcomm-2027-campus-hire-associate-engineer-hw",
@@ -1098,7 +1320,10 @@
     "notes": "JSON-LD title '2027 Campus Hire_ Associate Engineer_ HW', datePosted 2026-09-09, validThrough 2027-03-08. Replaced the stale 'Posted 4 days ago' quote.",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "qualcomm-interim-engineering-intern-2027-hw",
@@ -1119,7 +1344,10 @@
     "notes": "JSON-LD title 'Interim Engineering Intern_2027_HW', datePosted 2026-09-09, validThrough 2027-03-08. Still no SW intern equivalent. Replaced the stale 'Posted 4 days ago' quote.",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "microsoft-fosse-research-fellow-bangalore",
@@ -1140,7 +1368,11 @@
     "notes": "Job 200049575; letters emailed by the writers to fosse-hiring@microsoft.com",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "wadhwani-ai-associate-ml-scientist-i",
@@ -1162,7 +1394,11 @@
     "retrieved": "2026-10-31",
     "verified_at": "2026-11-07",
     "who": "Fresh graduates and early-career people with a quantitative bachelor's or master's (engineering, CS, EE, stats, maths, physics, economics) and 0 to 1 years of experience; current students cannot take a permanent role; based in Delhi",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "goldman-sachs-new-analyst-program-india-2027",
@@ -1183,7 +1419,10 @@
     "notes": "Divisions close individually on higher.gs.com, apply early",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "cohere-labs-scholars-program-2027",
@@ -1203,7 +1442,11 @@
     "notes": "Not announced beyond \"Fall 2026\"; previous cycles opened in August with a January start; remote and India-eligible in past cohorts",
     "retrieved": "2026-09-12",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "xat-2027-registration",
@@ -1224,7 +1467,10 @@
     "retrieved": "2026-10-02",
     "verified_at": "2026-11-07",
     "who": "Final-year undergrads (any discipline, 3-year degree or longer, finishing exams by June 2027) and graduates; no work experience needed. Indian candidates must take XAT; NRI/foreign/OCI/PIO applicants go through GMAT instead.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "gmat-rolling",
@@ -1244,7 +1490,12 @@
     "notes": "Rolling, schedule to your application timeline",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["y3", "final", "pg", "grad"]
+    "for": [
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "loreal-brandstorm",
@@ -1264,7 +1515,14 @@
     "notes": "Sign-up is live on the official site but no season deadline is published yet, countdown appears when L'Oréal posts the phase calendar Not re-read on 10 Oct 2026: brandstorm.loreal.com sits behind a Cloudflare challenge that hangs our fetcher; receipt kept from 2 Oct, needs a manual check.",
     "retrieved": "2026-09-13",
     "verified_at": "2026-10-02",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "mckinsey-campus-deadlines",
@@ -1284,7 +1542,13 @@
     "notes": "India-office dates surface per school inside the tool, no single public date to count down",
     "retrieved": "2026-10-10",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "cmat-2027-expected",
@@ -1304,7 +1568,10 @@
     "notes": "Registration for CMAT 2027 not announced, cmat.nta.nic.in still shows the 2026 scorecard. NTA's Examination Calendar (December 2026 cycle onwards, notice dated 16 Sep 2026, a scanned image PDF) lists CMAT on 07 Feb 2027 with the note 'Dates are tentative and may undergo changes'. Quote is the table row read off the scanned PDF (not text-extractable). Last year's window suggests registration may open around Oct–Nov; watch cmat.nta.nic.in.",
     "retrieved": "2026-10-02",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "itc-interrobang-expected",
@@ -1324,7 +1591,9 @@
     "notes": "Registrations open only after the on-campus case launch; 2026-27 season not announced",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "gs-asia-possibilities-expected",
@@ -1344,7 +1613,11 @@
     "notes": "Previous cycle closed; next not announced. MBA students explicitly excluded.",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "amd-lablab-ai-academy-challenge",
@@ -1366,7 +1639,14 @@
     "verified_at": "2026-11-07",
     "who": "anyone online, any year, individual entries only, no teams; pitched at beginners wanting hands-on GPU time",
     "trap": "Top-3 League cash needs **at least 5 Academy courses finished**; the last Match ends 14 November, two weeks before the 1 December close.",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "pi-school-ai-residency",
@@ -1386,7 +1666,11 @@
     "notes": "Next cohort not announced. The programme page still shows 'Start date Q2 2026' (now past) with no newer cohort date, so a ROLLING tag overstates it. The Apply button is still live. Restore to ROLLING/OPEN once a new start date is published.",
     "retrieved": "2026-10-02",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "fal-research-grants",
@@ -1406,30 +1690,15 @@
     "notes": "Email application: project description + GitHub",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad", "school"]
-  },
-  {
-    "id": "swiss-excellence-2027-28-india",
-    "name": "Swiss Government Excellence Scholarships 2027–28 (India window)",
-    "org": "SERI, Switzerland · via Swiss Embassy New Delhi",
-    "lane": "A-fellowship",
-    "sub": "Study abroad",
-    "kind": "Scholarship",
-    "what": "Fully-funded 12-month research fellowship or PhD at Swiss universities and the ETH domain, starting September 2027",
-    "eligibility": "Master's completed by 31 July 2027 (ETH Zurich: 30 June); born after 31 Dec 1991; needs a support letter from a Swiss supervisor; applications go to the Swiss Embassy in New Delhi",
-    "pay": "CHF 2,450 per month to cover basic living expenses",
-    "status": "OPEN",
-    "opens": "2026-08-20",
-    "deadline": "2026-11-10",
-    "deadline_quote": "India, 20. Aug 26–10. Nov 26, ndh.scholarship@eda.admin.ch, Embassy of Switzerland in India, Nyaya Marg, Chanakyapuri, New Delhi",
-    "apply_url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
-    "source_url": "https://www.sbfi.admin.ch/dam/en/sd-web/ETBRLVHEDk7K/2026-08-04_Asia_List_of_countries_and_territories_complete.pdf",
-    "source_published_at": "2026-08-04",
-    "notes": "Start emailing Swiss professors now, the supervisor letter is the slow part. Results by end of May 2027.",
-    "retrieved": "2026-09-13",
-    "verified_at": "2026-11-07",
-    "who": "M.Tech, M.Sc and other master's students finishing by 31 July 2027, born after 31 Dec 1991, with a Swiss supervisor's support letter; B.Tech-only applicants cannot apply.",
-    "for": ["pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "erasmus-mundus-joint-masters-2027",
@@ -1449,7 +1718,10 @@
     "notes": "No single deadline, the catalogue is the official list; each consortium sets its own date. Shortlist programmes now, apply Oct–Jan.",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "daad-epos-2027-28",
@@ -1469,7 +1741,9 @@
     "notes": "The two-years-work-experience rule excludes current students, this is for graduates. Per-course deadlines on each course page.",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["grad"]
+    "for": [
+      "grad"
+    ]
   },
   {
     "id": "japan-mext-2028-india",
@@ -1490,7 +1764,12 @@
     "notes": "Previous cycle (Apr–May 2026); 2028-intake window not announced, expect April 2027",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad", "school"]
+    "for": [
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "korea-gks-2027",
@@ -1510,7 +1789,12 @@
     "notes": "Standing schedule; the 2027 guidelines post on the GKS notice board around late January, previous cycle pattern, next not announced",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad", "school"]
+    "for": [
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "china-csc-2027",
@@ -1530,7 +1814,12 @@
     "notes": "No official global deadline, each receiving university/agency sets its own 2027 date; previous cycles cluster Dec–Apr. Next cycle not announced.",
     "retrieved": "2026-10-02",
     "verified_at": "2026-10-31",
-    "for": ["final", "pg", "grad", "school"]
+    "for": [
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "turkiye-burslari-2027",
@@ -1551,7 +1840,12 @@
     "notes": "Standing official calendar (10 Jan – 20 Feb); the 2027 call itself is not yet announced, previous cycle pattern",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad", "school"]
+    "for": [
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "stipendium-hungaricum-2027-28",
@@ -1571,7 +1865,12 @@
     "notes": "Previous cycle (closed 15 Jan 2026); 2027/28 call expected ~November, not announced",
     "retrieved": "2026-09-13",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad", "school"]
+    "for": [
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "eiffel-excellence-2027",
@@ -1592,7 +1891,11 @@
     "retrieved": "2026-10-02",
     "verified_at": "2026-11-07",
     "who": "Final-year undergrads and graduates applying to a French master's (up to age 29) or PhD (up to age 35) starting 2027; you cannot apply directly, your French institution must nominate you, so its internal deadline is earlier.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "great-scholarships-india-2027-28",
@@ -1612,7 +1915,10 @@
     "notes": "Previous cycle spent; 2027-28 list not announced, typically posts in autumn. Partial funding, labelled so.",
     "retrieved": "2026-10-02",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "kaust-vsrp-internship",
@@ -1633,7 +1939,11 @@
     "notes": "You apply to a specific project from the project list (Apply button on each project page). vsrp.kaust.edu.sa redirects to admissions.kaust.edu.sa/study/internships. Stipend amount not printed on the page. Works for a summer 2027 slot or a free semester.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y3", "final", "pg"]
+    "for": [
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "weizmann-kupcinet-getz-2027",
@@ -1654,7 +1964,13 @@
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
     "opens": "2026-12-20",
-    "for": ["y1", "y2", "y3", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "iusstf-viterbi-program-2027",
@@ -1674,7 +1990,10 @@
     "notes": "Previous cycle only (summer 2026 programme, deadline extended to 31 Dec 2025). 2027 call not announced; the page still describes 'summer of 2026'. Applications go through the IUSSTF portal.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "ksb-pm-scholarship-scheme-2026-27",
@@ -1695,7 +2014,9 @@
     "notes": "Amount from ksb.gov.in/scholarships-available.htm; eligibility from ksb.gov.in/students-eligible-scholarship.htm. Niche (ex-servicemen families) but large and government-run; many IIT/NIT first years qualify. The online portal host (online.ksb.gov.in) did not resolve on 2 Oct; the link goes to KSB's own notice, which routes to the current portal.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y1"]
+    "for": [
+      "y1"
+    ]
   },
   {
     "id": "azim-premji-scholarship-2026-round-2",
@@ -1717,7 +2038,9 @@
     "notes": "Registration and document upload possible now; submission only 10-31 Jan 2027. Pay sentence from /what-we-do/education/azim-premji-scholarship-programme/. Renewal for 2024/2025 cohorts separately open, first-batch deadline 30 Oct 2026 (existing scholars only).",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y1"]
+    "for": [
+      "y1"
+    ]
   },
   {
     "id": "graviton-graduate-central-execution-trader-singapore",
@@ -1738,7 +2061,10 @@
     "lane": "B-industry",
     "status": "ROLLING",
     "deadline": null,
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "da-vinci-graduate-quant-amsterdam",
@@ -1759,7 +2085,11 @@
     "lane": "B-industry",
     "status": "ROLLING",
     "deadline": null,
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "tower-research-qr-intern-bs-ms-apac",
@@ -1780,7 +2110,12 @@
     "lane": "B-industry",
     "status": "ROLLING",
     "deadline": null,
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "lane": "B-govt",
@@ -1802,7 +2137,10 @@
     "source_url": "https://www.upsc.gov.in/sites/default/files/Calendar-Year-2027-Engl-200526_0.pdf",
     "source_published_at": "2026-05-20",
     "notes": "From UPSC Programme of Examinations 2027 (as on 20.05.2026): notification 13 Jan 2027, last date 2 Feb 2027, prelims 23 May 2027. Quote is the calendar table row (tabular PDF, cells joined). Age/eligibility in the 'eligibility' field is from prior notifications, not this calendar, verify when notified.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-govt",
@@ -1823,7 +2161,10 @@
     "source_url": "https://careers.ntpc.co.in/recruitment/",
     "source_published_at": "2026-08-14",
     "notes": "Not announced: Advt 11/26 is a pre-notice only (posted 14 Aug 2026); application window will be given later. Action now = register for GATE 2027 (closes 5 Oct, 12 Oct with late fee). Advert PDF is behind a tokenised viewer on careers.ntpc.co.in; text read via OCR.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-govt",
@@ -1844,7 +2185,10 @@
     "source_url": "https://www.powergrid.in/sites/default/files/job_opportunities_document/ET2027_Detailed_Advertisement_For%20Website_1.pdf",
     "source_published_at": "2026-09-24",
     "notes": "Not announced: Advt CC/03/2026 dated 24.09.2026 is a pre-advertisement; vacancies and dates come in a separate notification around March/April 2027. Register for GATE 2027 now. Service bond ₹5 lakh (Gen/OBC/EWS), ₹2.5 lakh (SC/ST/PwBD) for 3 years after training.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-govt",
@@ -1864,7 +2208,11 @@
     "apply_url": "https://www.jest.org.in/",
     "source_url": "https://www.jest.org.in/",
     "notes": "Not announced: jest.org.in still shows the JEST 2026 cycle (portal 26 Feb – 25 Mar 2026, exam 12 Apr 2026, organiser IISER Tirupati). Expect a similar Feb–Mar 2027 window.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "entrepreneur-first-bangalore",
@@ -1884,7 +2232,11 @@
     "notes": "The rolling-basis quote is from joinef.com/faqs/ and the INR 360,000 figure is from the Bangalore FAQ (subject to 10% TDS). Funded teams can get up to $250,000 (an 8% post-money SAFE for $125k, plus an optional $125k MFN SAFE if they relocate to SF). No cohort dates are published.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "msr-india-research-fellow-2027",
@@ -1904,7 +2256,11 @@
     "notes": "The 2027 cycle is not announced. The quote is the PREVIOUS cycle's 'Important dates' block (open 7 Jan 2026, deadline 15 Feb 2026, start July 2026), so expect a January opening. The FoSSE Research Fellow row is a separate, live, rolling track.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-gemma-4-developer-agent-2026",
@@ -1929,7 +2285,14 @@
     "trap": "Two deadlines that look like one: the **paper track closes 12 November**, two weeks before the 25 November entry deadline for the main competition.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-enveda-casmi-2026",
@@ -1952,7 +2315,14 @@
     "field": "4,422 teams",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "snap-2026-registration",
@@ -1973,7 +2343,10 @@
     "notes": "Fees per snaptest.org: SNAP test registration ₹2,550 per attempt plus ₹1,000 per programme (taxes extra); you can take up to three attempts. Paying the SNAP fee alone doesn't register you for a programme.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "mat-december-2026",
@@ -1994,7 +2367,10 @@
     "notes": "Deadline shown is the paper-test (PBT) close. The computer test (CBT) stays open longer: 'CBT: Computer Based Test Registration Closes 21 December 2026 … Test Date 27 December 2026'. Results first week of January 2027. Mid-tier exam; worth listing as a backup to CAT/XAT. The 'who' line paraphrases AIMA's own line 'MAT continues to empower graduates and final-year students across disciplines'.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "isb-pgp-yl-2027-r1",
@@ -2015,7 +2391,11 @@
     "notes": "Round 2 closes February 15, 2027 ('We shall not accept applications received after February 15, 2027, for the class of 2029'). The page says 'Applications are open for the PGP YL Class of 2027-29'. Need-based scholarships for family income below INR 18 lakh. Eligibility sentence is from ISB's PGP application-deadlines page (YLP section).",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "tata-crucible-campus-2026-expected",
@@ -2035,7 +2415,13 @@
     "notes": "2026–27 rules and prizes are published but the registration window is not announced yet. It's a quiz, not a case contest; filed under Case competitions as the nearest sub. Open to any full-time student in India, not only MBAs; the 2025 edition drew 1 million+ registrations.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "yenching-academy-pku-2027",
@@ -2057,7 +2443,10 @@
     "kind": "Scholarship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "kaust-fellowship-fall-2027",
@@ -2079,7 +2468,11 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "astar-arap-dec-2026",
@@ -2100,7 +2493,9 @@
     "lane": "A-fellowship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "oxford-clarendon-2027-28",
@@ -2120,7 +2515,11 @@
     "kind": "Scholarship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "rhodes-scholarship-india-2028",
@@ -2140,7 +2539,10 @@
     "kind": "Scholarship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "commonwealth-shared-scholarships-2027-28",
@@ -2163,7 +2565,10 @@
     "opens": "2026-11-10",
     "deadline_time": "2026-12-08T21:30:00+05:30",
     "who": "Indian citizens living in India with a first-class or 2:1-equivalent degree by September 2027 who cannot afford UK study; anyone who has studied or worked a year or more in a high-income country is out.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "nl-scholarship-2027-28",
@@ -2183,7 +2588,11 @@
     "kind": "Scholarship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "grad", "school"]
+    "for": [
+      "final",
+      "grad",
+      "school"
+    ]
   },
   {
     "id": "boell-foundation-scholarship-2027",
@@ -2204,7 +2613,11 @@
     "kind": "Scholarship",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-02",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "mbzuai-mgrip-2027",
@@ -2226,7 +2639,10 @@
     "notes": "Admission cycle accordion: 'Opens: 1 January, 2027 (8a.m. GST)', closes 28 Feb 2027 5 pm GST (= 18:30 IST), decisions by 2 April 2027; 'for all nationalities'. 'Projects for the 2027 MGRIP will be released in November.' Old /ugrip/ URL redirects here. Behind Cloudflare: curl is blocked; read via scrapling + Playwright (accordion needed a click). Stipend amount not printed.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "ista-scientific-internship-rolling",
@@ -2246,7 +2662,14 @@
     "notes": "This is the route ISTA itself points to now that ISTernship is paused (see dead_doors). You email the group leader directly; appointment is 'subject to the availability of sufficient funds for the salary of the scientific intern', so it is paid when offered, but the amount is not printed. Portal registration must be done at least 2 months before the start date.",
     "verified_at": "2026-10-31",
     "retrieved": "2026-10-10",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "cmu-riss-2027",
@@ -2267,7 +2690,11 @@
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
     "opens": "2026-11-01",
-    "for": ["y1", "y2", "y3"],
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ],
     "who": "Undergraduates in any year, Indian students included, who will still be undergrads in summer 2027; graduates and master's students cannot apply."
   },
   {
@@ -2289,7 +2716,9 @@
     "notes": "Quote is from the scheme's own block on the NSP All-Scholarships list (the block heading is 'Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme) by Department of Social Justice & Empowerment'). Pay and eligibility from the guideline linked on that block (scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018.pdf). That PDF is dated 2018, so the amounts may since have been revised. I did not check whether each IIT is on the notified-institution list (Annexure in the PDF). NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["y1"]
+    "for": [
+      "y1"
+    ]
   },
   {
     "id": "nsp-yasasvi-top-class-college-obc-2026-27",
@@ -2310,7 +2739,9 @@
     "notes": "Quote is from the scheme's block on the NSP list (heading 'PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)'). Do not confuse it with the 'In Schools' variant, which is renewal-only. Guideline: scholarships.gov.in/public/schemeGuidelines/ApprovedmodifieddraftofTopClassCollege.pdf. NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["y1"]
+    "for": [
+      "y1"
+    ]
   },
   {
     "id": "aicte-pragati-degree-2026-27",
@@ -2331,7 +2762,10 @@
     "notes": "Quote from the 'AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Degree) (Merit Based Scheme)' block on NSP. Guideline: scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf. The IIT exclusion is my reading (IITs are Institutes of National Importance, not AICTE-approved), so please confirm. Strong fit for NIT and state-college readers. A sister Saksham scheme (specially-abled students) has the same 30 Nov date. NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["y1", "y2"]
+    "for": [
+      "y1",
+      "y2"
+    ]
   },
   {
     "id": "ugc-national-scholarship-pg-2026-27",
@@ -2352,7 +2786,9 @@
     "notes": "Quote from the 'Post Graduate Studies (Merit Based Scheme) by UGC' block on NSP (opened 16 Sep 2026). Guideline: scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf (2023-24 edition). The 'only one benefit' clause matters for IIT M.Tech students on the MoE stipend. A good replacement for the dead Reliance PG row. NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "hrt-algorithm-developer-2027-grads",
@@ -2373,7 +2809,10 @@
     "notes": "Greenhouse wehrtyou/8052050. HRT allows ONE application across all roles, so a student applying here cannot also apply to the existing HRT intern rows. Singapore is the closest office for India. The PhD sibling is 8059845 and the SWE 2027 Grads role is 8052122.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "tower-research-swe-cpp-graduate-hk-sg",
@@ -2394,7 +2833,10 @@
     "notes": "Greenhouse towerresearchcapital/8245433, posted 1 Oct 2026. Graduation year not stated. No nationality bar on the posting. Needs a C++ internship already done, so it suits final-years with a prior SWE internship.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "jump-trading-qr-offcycle-winter-spring-2027-hk",
@@ -2415,31 +2857,10 @@
     "notes": "Greenhouse jumptrading/8027898. The off-cycle timing suits Indian final-years better than a summer slot. No nationality bar on the posting.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "pg"]
-  },
-  {
-    "id": "iitb-ceed-2027",
-    "name": "CEED 2027 (M.Des. / PhD design entrance)",
-    "org": "IIT Bombay (UCEED-CEED Office)",
-    "lane": "B-govt",
-    "sub": "Exams",
-    "kind": "Exam",
-    "what": "Entrance for M.Des./PhD in design at IIT Bombay, Delhi, Gandhinagar, Guwahati, Hyderabad, Jodhpur, Kanpur, Roorkee, IISc and IIITDMs; exam Sun 17 Jan 2027",
-    "eligibility": "Candidates must have completed a graduate degree/ diploma/ postgraduate degree program having a minimum duration of THREE years (after class 10+2) or must be appearing for the final examination of such a program by July 2027, or must have passed the 5-year Government Diploma in Art (G. D. Art) (after class 10) by July 2027",
-    "pay": "not stated",
-    "status": "OPEN",
-    "opens": "2026-10-01",
-    "deadline": "2026-11-10",
-    "who": "final-year students of any 3-year-plus degree (B.Tech, B.Des, B.Arch, B.Sc, B.A., graduating by July 2027) and anyone already holding such a degree, any branch, no age limit; students not in their final year cannot apply",
-    "deadline_quote": "The last date for online registration with late fee is 5 PM on Tuesday, 10th November 2026.",
-    "apply_url": "https://www.ceed.iitb.ac.in/2027/",
-    "source_url": "https://www.ceed.iitb.ac.in/2027/",
-    "notes": "Regular-fee window extended to 5 Nov; registration with late fee now runs 6 to 10 Nov 2026, 5 PM (was 6 Nov). Late fee applies.",
-    "trap": "From 1 Nov you pay the late fee; CEED score alone does not admit you, each IIT runs its own test/interview after.",
-    "verified_at": "2026-11-07",
-    "retrieved": "2026-10-10",
-    "deadline_time": "2026-11-10T17:00:00+05:30",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "upsc-cds-1-2027",
@@ -2461,7 +2882,10 @@
     "notes": "From UPSC Programme of Examinations 2027 (as on 20.05.2026), rows 7–8 (NDA&NA (I) and CDS (I) share one notification/last-date cell). Quote is the tabular row with cells joined. Eligibility field is from prior cycles, not this calendar; verify when notified.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "perplexity-research-fellowship-2027",
@@ -2481,7 +2905,11 @@
     "notes": "The priority date (30 Sep) has passed, but the page says 'Applications remain open until positions are filled.' India-eligible in principle: 'Perplexity provides immigration and visa sponsorship support based on individual circumstances.' Graduates and PhDs fit; students mid-degree effectively cannot join without a 1-year leave of absence. Applications must be written without help from other people or AI (the Ashby posting warns of permanent disqualification). The Ashby page is Perplexity's own ATS. The homepage was fetched with scrapling because plain curl gets a bot wall.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-nfl-big-data-bowl-2027",
@@ -2506,7 +2934,14 @@
     "verified_at": "2026-10-31",
     "retrieved": "2026-10-10",
     "field": "450 teams",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "yale-silver-scholars-2027-r2",
@@ -2527,7 +2962,9 @@
     "notes": "Round 1 (15 Sep 2026) has passed, so the countdown is to Round 2, 6 Jan 2027; Round 3 is 7 Apr 2027. Unlike HBS 2+2 and Wharton Moelis, this is not a deferral: you start the MBA right after graduating and do the work years in the middle. The page links a '2026-2027 Application Guide'. The quote's fuller eligibility rules (early graduates, people already working) live further down the same page.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "id": "hbs-2plus2-2027",
@@ -2549,7 +2986,10 @@
     "notes": "HBS gives only the month the application opens ('December 2026'), not a day, so 'opens' is set to 2026-12-01 as a placeholder: display it as 'opens December'. Reduced application fee of $100 USD; need-based fee waiver available. 'Applications are not reviewed on a rolling basis'. The quote keeps HBS's stray space before the full stop; it is verbatim. HBS says the application opens in December 2026; no exact day printed.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "wharton-moelis-advance-access-2027",
@@ -2571,7 +3011,10 @@
     "notes": "Page no longer says the application 'will be available in November'. It now lists the deadline row: Application Deadline Wednesday, April 21, 2027; interview invitations May 26, 2027; decisions July 1, 2027. Whether the portal is already live is not stated on the page (shows a 'Start your Application' button); reduced fee $100. The row table text is 'Application Deadline Interview Invitations Interview Dates Decisions Deposit Deadline Wednesday, April 21, 2027 Wednesday, May 26, 2027 Tuesday, June 1 - Friday, June 11, 2027 Thursday, July 1, 2027 Friday, July 30, 2027'.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "eth-zurich-esop-2027",
@@ -2593,7 +3036,10 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"],
+    "for": [
+      "final",
+      "grad"
+    ],
     "deadline_time": "2026-11-30T23:59:00+01:00"
   },
   {
@@ -2615,7 +3061,10 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "erasmus-mundus-cybersure-2027",
@@ -2638,7 +3087,10 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "kc-mahindra-pg-abroad-2027",
@@ -2658,7 +3110,10 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "narotam-sekhsaria-pg-2027",
@@ -2678,7 +3133,10 @@
     "sub": "Study abroad",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-10",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "hrt-data-scientist-intern-2027",
@@ -2700,7 +3158,12 @@
     "notes": "Greenhouse wehrtyou/8257369, first posted 5 Oct 2026 (watcher issue #17). No deadline on the posting. HRT: 'We do not allow multiple applications.' Kaggle and independent data projects count as a plus. US/UK work authorisation not stated as a bar.",
     "retrieved": "2026-10-12",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "imc-ml-engineer-intern-summer-2027-ny",
@@ -2722,7 +3185,10 @@
     "notes": "Greenhouse EU imc/4962456101, first posted 8 Oct 2026 (watcher issue #19). No deadline on the posting. Needs a US internship visa (J-1); IMC does not say it sponsors. 'You may submit one application per role each year.'",
     "retrieved": "2026-10-12",
     "verified_at": "2026-11-07",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "cars24-backend-intern-gurgaon",
@@ -2743,7 +3209,11 @@
     "notes": "Cars24's own careers portal (job id a6a560b13cacdd, listed via api.cars24.com jobs feed). No deadline or pay stated; rolling. Found by the watchlist hunt (2026-10-14), added under the rolling-internship rule.",
     "retrieved": "2026-10-15",
     "verified_at": "2026-11-07",
-    "for": ["y3", "final", "grad"]
+    "for": [
+      "y3",
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "cars24-cyber-security-engineer-intern-gurugram",
@@ -2764,7 +3234,10 @@
     "notes": "Cars24's own careers portal (job id a6a7454f0a938a), Devops and Security team, 0–1 years. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "cars24-deployment-inc-fde-builder-apprentice-gurgaon",
@@ -2785,7 +3258,10 @@
     "notes": "Listed on Cars24's own careers portal (job id a6ac379704b4d3) for Deployment Inc, which the posting says is 'backed by Cars24, recognized as an OpenAI Select Partner'. The employment-type tag changed from 'Intern' to 'Apprentice' (24 Oct), so the title-and-location receipt was updated to match. No deadline or pay stated; rolling.",
     "retrieved": "2026-10-15",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "cars24-analytics-intern-gurgaon",
@@ -2806,7 +3282,12 @@
     "notes": "Cars24's own careers portal (job id a6a69e43ac24e3). A second listing with the same description runs as Builder - Apprentice (id a6a7074bbaf7cf); apply to one. No deadline or pay stated; rolling. Watchlist hunt.",
     "retrieved": "2026-10-15",
     "verified_at": "2026-11-07",
-    "for": ["y3", "final", "pg", "grad"]
+    "for": [
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "cars24-mobile-engineer-builder-apprentice-gurgaon",
@@ -2827,7 +3308,10 @@
     "notes": "Listed on Cars24's own careers portal (job id a6a6af3022d535, Technology department, employment type Apprentice, posted 23 Oct 2026). The posting body calls the role 'Mobile Engineer'. No deadline or pay stated; rolling. Found by the daily watchlist hunt.",
     "retrieved": "2026-10-25",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "google-silicon-engineer-platform-devices-university-graduate-2026",
@@ -2847,7 +3331,10 @@
     "notes": "Rolling; no deadline on the posting. One of the few Google India early-career hardware roles open to bachelor's graduates (ECE/EE). In-person interviews.",
     "retrieved": "2026-10-18",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "google-software-engineer-phd-early-career-2026-india",
@@ -2867,7 +3354,10 @@
     "notes": "Rolling; no deadline on the posting. Separate Hyderabad-only and Bengaluru-only postings of the same title also exist on Google's site. For PhDs finishing in 2026.",
     "retrieved": "2026-10-18",
     "verified_at": "2026-11-07",
-    "for": ["pg", "grad"]
+    "for": [
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "apple-phd-intern-apple-ads-ml-hyderabad",
@@ -2888,7 +3378,9 @@
     "notes": "Rolling; no deadline on the posting. Apple job 200684719, posted 20 Sep 2026.",
     "retrieved": "2026-10-18",
     "verified_at": "2026-11-07",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "apple-phd-intern-ml-msi-product-operations-bengaluru",
@@ -2909,7 +3401,9 @@
     "notes": "Rolling; no deadline on the posting. Apple job 200676908, posted 17 Sep 2026.",
     "retrieved": "2026-10-18",
     "verified_at": "2026-11-07",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "qualcomm-interim-engineering-intern-2027-sw",
@@ -2931,7 +3425,10 @@
     "notes": "Posting title 'Interim Engineering Intern_2027_SW' (Qualcomm India Private Limited); JSON-LD datePosted 2026-09-15, validThrough 2027-03-14. Software twin of qualcomm-interim-engineering-intern-2027-hw. Found by the daily intern-watchlist hunt.",
     "retrieved": "2026-10-19",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "graviton-qr-2027-summer-internship-overseas",
@@ -2953,7 +3450,10 @@
     "notes": "Posted 19 Oct 2026 (flagged by the watcher). India-founded HFT; the posting sets no nationality bar and does not mention visas. A separate PhD-only version exists (job 8899671002).",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-07",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "graviton-qr-2027-graduates-overseas",
@@ -2975,7 +3475,11 @@
     "notes": "Posted 19 Oct 2026 (flagged by the watcher). The posting does not mention visas or nationality.",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-07",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "meta-asic-intern-implementation-bangalore",
@@ -2996,7 +3500,11 @@
     "notes": "Found by the watchlist hunt on Meta Careers (Internship filter, India). The posting says: \"Internships are twelve (12) to sixteen (16) weeks long.\" No deadline, pay or graduation year stated. Also asks for knowledge of Verilog, VHDL, or HLS.",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-08",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "meta-asic-intern-design-verification-bangalore",
@@ -3017,7 +3525,11 @@
     "notes": "Found by the watchlist hunt on Meta Careers (Internship filter, India). The posting says: \"Internships are twelve (12) to sixteen (16) weeks long.\" No deadline, pay or graduation year stated. Also asks for computer architecture and logic design fundamentals; SystemVerilog/UVM and Python/Perl preferred.",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-08",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "meta-asic-intern-infra-silicon-enablement-bangalore",
@@ -3038,7 +3550,11 @@
     "notes": "Found by the watchlist hunt on Meta Careers (Internship filter, India). The posting says: \"Internships are twelve (12) to sixteen (16) weeks long.\" No deadline, pay or graduation year stated. Also asks for Linux, Python, C/C++ (data structures, algorithms, OOP).",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-08",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "meta-asic-intern-design-bangalore",
@@ -3059,7 +3575,11 @@
     "notes": "Found by the watchlist hunt on Meta Careers (Internship filter, India). The posting says: \"Internships are twelve (12) to sixteen (16) weeks long.\" No deadline, pay or graduation year stated. Also asks for knowledge of Verilog or SystemVerilog or HLS.",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-08",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "amex-apprentice-enterprise-technology-services-india",
@@ -3080,7 +3600,10 @@
     "notes": "Found by the watchlist hunt on Amex's own careers site (Oracle Recruiting). Posted 19 Oct 2026; the listing's system end date is 27 Oct 2026 (23:00 IST), but no deadline sentence appears in the text, so it is listed as rolling. Also open in Gurugram and Chennai.",
     "retrieved": "2026-10-20",
     "verified_at": "2026-11-07",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "drw-quantitative-research-intern-singapore-2027",
@@ -3101,7 +3624,11 @@
     "notes": "Found by the watchlist hunt on drw.com/work-at-drw/listings (Greenhouse board drweng). DRW has no India office; the posting sets no nationality bar and does not mention visas. Same title also open in London (7957756) and Chicago/New York (7818540).",
     "retrieved": "2026-10-21",
     "verified_at": "2026-11-07",
-    "for": ["y3", "final", "pg"]
+    "for": [
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "honeywell-intern-bachelors-ai-bengaluru",
@@ -3123,7 +3650,12 @@
     "notes": "Requisition 160430 on Honeywell's own careers site (Oracle Recruiting), posted 22 Oct 2026; a second identical posting is 160473. Posting text: 'you will gain hands-on experience in designing and developing AI algorithms, models, and systems.' No deadline sentence, so listed as rolling. A related 'Intern Bachelors AI Eng' (data science) posting, 159821, is set to come down on 23 Oct and was not added. Found by the daily intern-watchlist hunt.",
     "retrieved": "2026-10-22",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "epfl-sv-summer-research-program-2027",
@@ -3145,7 +3677,11 @@
     "notes": "Main page also says '2027 applications are open 2027 application deadline: November 15, 2026 Program Dates: July 5 – August 27, 2027'. 23:59 CET = 04:29 IST on 16 Nov; count down to end of 15 Nov IST to be safe. Housing is deducted from the stipend up front ('approximately CHF 1,700 left to live on'); 'The majority of travel costs to and from Switzerland is covered.' Needs one recommendation letter and short essays (questions in the FAQ). Sister to the E3 and Summer@EPFL rows already on the board.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "ashoka-young-india-fellowship-2027",
@@ -3166,7 +3702,10 @@
     "notes": "Priority Deadline 29 Nov 2026 gets reviewed and interviewed first. Final deadlines: Round 1 10 Jan 2027, Round 2 (final) 21 Mar 2027. Class of 2028 (2027 intake); final-year students finishing summer 2027 are eligible.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "nsp-top-class-st-2026-27",
@@ -3187,7 +3726,13 @@
     "notes": "Quote is from the block 'National Fellowship And Scholarship For Higher Education Of ST Students - Scholarship (Formally Top Class Education For Schedule Tribe Students) (Merit Based Scheme) by Ministry of Tribal Affairs' on NSP. Pay/eligibility from the linked guideline scholarships.gov.in/public/schemeGuidelines/tribalfellowshipguideline.pdf (Part B). No institute/stream slot ceiling per guideline. Sister row to the SC and OBC top-class rows already on the board. NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "nsp-top-class-pwd-2026-27",
@@ -3208,7 +3753,13 @@
     "notes": "Quote from the block 'Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme) by Department of Empowerment of Persons with Disabilities' on NSP. Pay/eligibility from the linked guideline scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf (section 6 and the slot table). NSP extended student applications from 31-10-2026 to 30-11-2026 (seen 31 Oct 2026); institute verification now to 15-12-2026.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "lane": "A-fellowship",
@@ -3229,7 +3780,11 @@
     "apply_url": "https://www.oist.jp/admissions/phd-program",
     "source_url": "https://www.oist.jp/admissions",
     "notes": "Quote is from the OIST Admissions page (admissions.oist.jp redirects to oist.jp/admissions). No time of day stated, so treat 14 Nov as the safe date. The page also lists the Research Internship with 'Application Deadline: October 15, 2026' (closed, not shipped). I could not fetch the stipend figure because the financial-support page returns 404, so pay is the page's own 'fully-funded' line. A PhD fellowship, not a scholarship; editor may prefer the 'PhD fellowships' sub.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "A-fellowship",
@@ -3252,7 +3807,10 @@
     "apply_url": "https://master-cde.eu/admission/procedures-deadlines/calls/",
     "source_url": "https://master-cde.eu/admission/procedures-deadlines/calls/",
     "notes": "Page updated 13 Oct 2026. Only the Nov-Jan window is open worldwide and carries scholarships; the Mar-May window is Europeans-only and self-funded. 23:59 CET on 22 Jan = 04:29 IST on 23 Jan. Certified/apostilled documents needed, so start early.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "A-fellowship",
@@ -3274,7 +3832,10 @@
     "apply_url": "https://www.europhotonics.org/wordpress/",
     "source_url": "https://www.europhotonics.org/wordpress/",
     "notes": "Homepage sentence gives day/month only. The year comes from 'Intake 2027-2029' (opens 1 Nov 2026, closes 4 Feb 2027). Previous campaign closed 30 Jan 2026. The scholarships page lists the EMJM Scholarship, AMIDEX TIGER Scholarship and Europhotonics Consortium Scholarship but gives no amount here, so pay is 'not stated'. Recheck after 1 Nov for the exact closing time.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3296,7 +3857,11 @@
     "source_published_at": "2026-08-24",
     "notes": "Greenhouse quberesearchandtechnologies/8581570002. Page: 'Applications are reviewed on a rolling basis'. No nationality bar. QRT also has a Mumbai office (experienced QR only, 5953097002) and a Europe/Dubai sibling (8785833002).",
     "who": "penultimate- or final-year bachelor's, master's or PhD students (today's third and fourth years on a B.Tech); first and second years are out",
-    "for": ["y3", "final", "pg"]
+    "for": [
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3318,7 +3883,11 @@
     "source_published_at": "2019-04-03",
     "notes": "Evergreen Greenhouse squarepointcapital/239376 (updated 6 Aug 2026). Graduation year not stated. Squarepoint asks you to apply to one role only. Intern Quant Researcher (243853) covers London/Paris/NY/Singapore/HK but not Bangalore. ML Alpha sibling: 6069464.",
     "who": "graduates with a quantitative degree; no batch year stated",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3340,7 +3909,9 @@
     "source_published_at": "2026-10-19",
     "notes": "PhD sibling of the existing graviton-qr-2027-summer-internship-overseas row. No visa/nationality text.",
     "who": "PhD students graduating in 2028 only",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3362,7 +3933,10 @@
     "source_published_at": "2026-08-12",
     "notes": "Greenhouse EU imc/4941208101. Research sibling of the existing IMC QT intern HK row. No nationality bar.",
     "who": "students who have started their penultimate year (third years on a 4-year B.Tech, first-year master's) and can start May/June 2027",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3384,7 +3958,10 @@
     "source_published_at": "2026-08-03",
     "notes": "Greenhouse jumptrading/8027941. Trader sibling of the existing Jump QR Singapore row. 'Timing of application consideration and interviews will vary to accommodate university timelines.'",
     "who": "students at top UG/grad programmes who want a full-time job in Singapore after graduating; batch year not stated",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3405,7 +3982,10 @@
     "apply_url": "https://careers.qualcomm.com/careers/job/446719783487",
     "source_url": "https://careers.qualcomm.com/careers/job/446719783487",
     "notes": "Posting title verbatim (JSON-LD and page heading). Locations: Bangalore, Hyderabad. datePosted 2026-09-30, validThrough 2027-03-29 (listing expiry, not a deadline). Found through Qualcomm's own PCSX search API (query 2027, India). Rolling.",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3426,7 +4006,10 @@
     "apply_url": "https://careers.qualcomm.com/careers/job/446719784235",
     "source_url": "https://careers.qualcomm.com/careers/job/446719784235",
     "notes": "Posting title verbatim. Page says 'Job Location : Hyderabad / Bangalore / Chennai / Noida' (the listing shows Hyderabad and Chennai). datePosted 2026-09-09, validThrough 2027-03-08. Was cited as a live sibling in an earlier row's notes but never had its own row. Rolling.",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3447,7 +4030,11 @@
     "apply_url": "https://careers.qualcomm.com/careers/job/446721334828",
     "source_url": "https://careers.qualcomm.com/careers/job/446721334828",
     "notes": "Posting title verbatim. Location: Bangalore. datePosted 2026-09-30, validThrough 2027-03-29. The 'Sr. System Engineer' 2027 campus posting (446721334825) needs 2+ years' experience (1+ with a master's), so it is left out. Rolling.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "rbi-summer-placement-2027",
@@ -3470,7 +4057,9 @@
     "trap": "Penultimate year only, and only management/stats/law/commerce/economics/banking/finance streams; you can apply to one Control Office only, decided by where your college is.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "upsc-ies-iss-2027",
@@ -3492,7 +4081,11 @@
     "notes": "From UPSC Programme of Examinations 2027 (as on 20.05.2026), row 13; quote is the tabular row with cells joined. Eligibility is from earlier cycles, not this calendar. Relevant for M.A./M.Sc. economics and statistics students, including final-year students (previously admitted provisionally).",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-google-quantum-circuit-compilation-2026",
@@ -3515,7 +4108,14 @@
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
     "field": "1,742 teams",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-name-that-llm-2026",
@@ -3538,7 +4138,14 @@
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
     "field": "3,991 teams",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "kaggle-squares-in-squares-2027",
@@ -3561,7 +4168,14 @@
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
     "field": "1,302 teams",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "iift-mba-2027",
@@ -3583,7 +4197,10 @@
     "notes": "Source is IIFT's admission calendar on applyadmission.net, which iift.ac.in/admission-2027 links to as 'Admission Calendar'. The quote is verbatim, including the missing closing bracket on their page. The calendar also gives 'Online Application Starts 12-Oct-2026', 'CAT Exam Date 29-Nov-2026', GD/PI 'From Feb-2027 onwards', and final results 'Last week of April 2027'. The prospectus (iift.ac.in/uploads/manage-files/2026/10/brochure-mba-2027.pdf) says 'IIFT will use score of CAT 2026 and other defined parameters'. Seats: 240 each at Delhi and Kolkata, 120 each at Kakinada and GIFT City. Fee waiver scheme for family income below Rs. 8.00 lakh p.a. IIFT no longer runs its own exam, so this is an application on top of CAT, not a separate test.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "stanford-gsb-deferred-2027-r2",
@@ -3605,7 +4222,9 @@
     "notes": "The quote is the Round 2 row of the '2026–27 Deadlines' table on the deadlines page (deadline, then notification date). The page says the application 'is due at 4:00 p.m. Pacific Time on the deadline date', which is 05:30 IST on 7 Jan. Round 3 is 07 Apr 2027; Round 1 (09 Sep 2026) has passed. The deferred-enrollment page says: 'You are eligible to apply in any of the three rounds during your year of eligibility even if you graduate before a round deadline.'",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "id": "mit-sloan-mba-early-2027",
@@ -3627,7 +4246,9 @@
     "notes": "Single deadline per cycle; decisions June 2027. 3:00 p.m. ET on 13 Apr (EDT) is 00:30 IST on 14 Apr. The page has a 'Start your application' link, so the application is live. The quote runs the table header and row together as the page renders them.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-24",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "id": "microsoft-india-security-research-intern",
@@ -3649,7 +4270,11 @@
     "notes": "Job 200062560, posted 23 Oct 2026. Undergraduate-only wording (no Master's/PhD requirement). Security Engineering profession, Security Research discipline. Found via the 2c watchlist hunt.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-27",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "microsoft-india-applied-sciences-intern",
@@ -3671,7 +4296,11 @@
     "notes": "Job 200041777, posted 26 Oct 2026 (sibling of the Data Science Intern job 200041778). Undergraduate-only wording. Found via the 2c watchlist hunt.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-27",
-    "for": ["y1", "y2", "y3"]
+    "for": [
+      "y1",
+      "y2",
+      "y3"
+    ]
   },
   {
     "id": "cactus-tuebingen-internship-2027",
@@ -3692,7 +4321,14 @@
     "notes": "Official 2027 timeline on the programme site: 'Oct 21, 2026 Application portal opens', 'Nov 16, 2026 Application deadline', interviews Jan 2027, offers Feb 2027, internship 1 Jul - 30 Sep 2027. Also 'Travel and accommodation assistance'. Stipend amount not printed on the org page. The 'About' paragraph still says 'during the summer of 2026' (stale copy); the timeline block is the 2027 one, so the quote is taken from the timeline. Aimed at students held back by financial/regional constraints; FAQ says students without such constraints may still apply. Found via a GSO aggregator post that linked to this mpg.de site.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "ias-fastsf-2027",
@@ -3713,7 +4349,11 @@
     "notes": "Announced 10 Sep 2026 on ias.ac.in alongside SRFP 2027 (announcement PDF: https://www.ias.ac.in/public/Resources/News/FASTSF2027_Announcement.pdf). Same 30 Nov deadline as SRFP. Needs a 150-250 word write-up on the specific area of interest and one teacher's contact for the recommendation. Teachers in those regions can also apply. One application per candidate.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "oist-research-internship-fall-2027",
@@ -3735,7 +4375,12 @@
     "notes": "Selection-schedule table: Spring 2027 round closed 15 Oct 2026; Fall 2027 round deadline 15 Apr 2027 23:59 JST (20:29 IST), results mid-June 2027, internship any 4-6 months between 1 Oct 2027 and 31 Mar 2028. 'The schedule is tentative and subject to change.' The quote is the table row as rendered (cells joined). Support: one round-trip air ticket, furnished accommodation, visa CoE support. Needs 1-3 professor recommendation letters (submission only after one is received). www.oist.jp is a JS bot-wall to curl; read via scrapling stealthy_fetch. Apply button is on the same page.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y3", "final", "pg", "grad"]
+    "for": [
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "nus-iris-2027",
@@ -3755,7 +4400,11 @@
     "notes": "Previous cycle only (Jan-May 2027 programme, closed 28 Aug 2026). Next round not announced beyond the page line 'Next application: End December 2026'; no deadline yet. Two recommendation letters needed. The NUS CDE mirror page (last updated 16 Aug 2026) was read; the canonical nusgs.nus.edu.sg page renders empty to curl and scrapling.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "aicte-swanath-degree-2026-27",
@@ -3776,7 +4425,12 @@
     "notes": "Quote from the block 'AICTE - Swanath Scholarship Scheme ( Technical Degree) (Welfare Based Scheme) by All India Council For Technical Education' on NSP (31 Oct 2026; deadline already extended to 30-11-2026). Pay/eligibility from the linked guideline scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf. Students already in 2nd-4th year are eligible (guideline section 2.0(3)). IIT exclusion is my reading (IITs are not AICTE-approved), same as the Pragati row.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "aicte-saksham-degree-2026-27",
@@ -3797,7 +4451,10 @@
     "notes": "Quote from the block 'AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Degree) (Welfare Based Scheme)' on NSP, 31 Oct 2026 (extended to 30-11-2026). Guideline: scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2012_G.pdf (2020-21 edition; amount may since have been revised). Sister to the Pragati row; complements the DEPwD top-class PwD row for students outside the notified institutes.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y1", "y2"]
+    "for": [
+      "y1",
+      "y2"
+    ]
   },
   {
     "id": "ugc-ishan-uday-ner-2026-27",
@@ -3818,7 +4475,9 @@
     "notes": "Quote from the block 'Ishan Uday Special Scholarship Scheme For NER (Merit Based Scheme) by UGC' on NSP, 31 Oct 2026. Pay/eligibility from the linked guideline scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN UDAY_2324.pdf (2023-24 edition; it prints Rs 8,000/month). Selection on state-wise Class 12 merit. Strong fit for NE students at IITs/NITs (Institutions of National Importance are eligible institutions per UGC).",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y1"]
+    "for": [
+      "y1"
+    ]
   },
   {
     "id": "hkpfs-2027-28",
@@ -3841,7 +4500,11 @@
     "notes": "12:00 noon HKT = 09:30 IST on 1 Dec. You also apply to the university PhD programme directly (max two programmes); several universities set earlier internal deadlines, check the chosen programme page. 400 fellowships for 2027/28.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "tu-delft-van-effen-2027",
@@ -3863,7 +4526,10 @@
     "notes": "23:59 CET on 1 Dec = 04:29 IST on 2 Dec. The English test result must be in the MSc application by the deadline, book IELTS/TOEFL now. Results by end of March 2027. Same page lists 2 partial MSc Electrical Engineering scholarships with the same deadline.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "epfl-master-excellence-2027",
@@ -3885,7 +4551,10 @@
     "notes": "The EPFL admission page says Master applications open 'from mid-November to the 15th of December', no exact opening day, so 'opens' 15 Nov is approximate. Renewal for year two needs 50 ECTS and a 5.0/6 average. Values research, startups and civic work as well as grades.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "kaist-scholarship-fall-2027",
@@ -3907,7 +4576,11 @@
     "notes": "Quote sits under 'B. Application Dates for the 2027 Entries'. Scholarship page: KGPS gives Master's applicants full tuition and 1,000,000 KRW/month for 4 semesters; KPS gives PhD applicants full tuition and 300,000 KRW/month for 8 semesters; KAIST says the scholarship covers 94% of its international students. Page is JS-rendered (fetched with scrapling).",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "felix-scholarship-oxford-2027",
@@ -3927,7 +4600,10 @@
     "notes": "Same mechanism as Clarendon: no separate form; apply to the Oxford course by its January deadline (dates on each Oxford graduate course page). Reading and SOAS have their own routes on the same page. India-specific, one of few UK awards that targets Indian students by name. Award value not stated on the site.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "aga-khan-isp-2027",
@@ -3947,7 +4623,10 @@
     "notes": "Not announced: the 2027-28 cycle has no dates yet, the page only says 'early 2027'. Page lists India among eligible countries. Award terms are not stated on the page fetched; check the grant/loan terms when the call posts.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3969,7 +4648,11 @@
     "source_url": "https://job-boards.greenhouse.io/worldquant/jobs/4673030006",
     "source_published_at": "2026-04-15",
     "notes": "Greenhouse worldquant/4673030006, listed on worldquant.com/career-listing under Mumbai, India. Posting: 'While prior finance experience is not required, a successful candidate must possess a strong interest in learning about finance and global markets.' The sibling 'Quantitative Researcher - IPM (India)' (4715001006) wants an MS/PhD and top-10% bachelor's rank; 'Deep Researcher' Mumbai needs 2+ years' experience.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -3991,7 +4674,10 @@
     "source_url": "https://www.quadeye.com/jobs/199893000000707783/graduate-trading-technology-quant-research-engineer?source=CareerSite",
     "source_published_at": "2026-04-20",
     "notes": "Listed on quadeye.com/jobs as 'Gurugram, New York / Graduate-Trading Technology & Quant Research Engineer' (31 Oct). JSON-LD: experienceRequirements 'Fresher (Till 1 Years)', datePosted 2026-04-20, validThrough 2026-06-30 (stale, like the intern row's, but the role is still listed and applyable). India-founded HFT, Gurugram HQ.",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4013,7 +4699,9 @@
     "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
     "source_published_at": "2026-09-01",
     "notes": "Greenhouse towerresearchcapital/8037824. No nationality or visa text on the posting; UK work visa would be needed. Sibling of the London Summer Internship 2027 (8037860).",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4035,7 +4723,10 @@
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
     "source_published_at": "2026-08-24",
     "notes": "Greenhouse jumptrading/8027922. Trader sibling of the existing Jump off-cycle QR HK/Shanghai row; summer QR HK/Shanghai is 8027900. No nationality bar on the posting.",
-    "for": ["y3", "pg"]
+    "for": [
+      "y3",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4057,7 +4748,12 @@
     "source_url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
     "source_published_at": "2023-07-06",
     "notes": "Evergreen Greenhouse squarepointcapital/243853 (first published Jul 2023, still live 31 Oct). Pay line is an annualised NY figure as printed. Squarepoint: 'Please only apply to the one job you feel best fits your skillset and experience.' No nationality bar.",
-    "for": ["y1", "y2", "y3", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4079,7 +4775,11 @@
     "source_url": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs/8130876",
     "source_published_at": "2026-10-28",
     "notes": "Rolling; first published on Greenhouse 2026-10-28. Receipt is the posting's title + location line (owner rule for ROLLING). Eligibility quoted from 'Minimum requirements'.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4100,7 +4800,11 @@
     "apply_url": "https://www.google.com/about/careers/applications/jobs/results/101007950268506822-associate-product-manager-university-graduate-2027-start",
     "source_url": "https://www.google.com/about/careers/applications/jobs/results/101007950268506822-associate-product-manager-university-graduate-2027-start",
     "notes": "Google's own page now states a deadline (applications opened Oct 30, 2026; cohort starts Apr-Aug 2027; applicants notified by end of Spring 2027). Product role, filed under Software as closest sub.",
-    "for": ["final", "pg", "grad"]
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4121,7 +4825,10 @@
     "apply_url": "https://www.google.com/about/careers/applications/jobs/results/111711283144729286-design-verification-engineer-phd-early-career",
     "source_url": "https://www.google.com/about/careers/applications/jobs/results/111711283144729286-design-verification-engineer-phd-early-career",
     "notes": "Rolling. Works on TPU (AI accelerator) silicon. Receipt = title + location line.",
-    "for": ["pg", "grad"]
+    "for": [
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4142,7 +4849,10 @@
     "apply_url": "https://www.google.com/about/careers/applications/jobs/results/126485952255140550-software-engineer-phd-early-career-networking-2026-start",
     "source_url": "https://www.google.com/about/careers/applications/jobs/results/126485952255140550-software-engineer-phd-early-career-networking-2026-start",
     "notes": "Rolling. Sibling of existing google-software-engineer-phd-early-career-2026-india but a separate requisition (networking team, SmartNIC preferred).",
-    "for": ["pg", "grad"]
+    "for": [
+      "pg",
+      "grad"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4163,7 +4873,10 @@
     "apply_url": "https://careers.qualcomm.com/careers/job/446721334825",
     "source_url": "https://careers.qualcomm.com/careers/job/446721334825",
     "notes": "Rolling. Found in Qualcomm pcsx search '2027 Campus' (India) alongside existing System Engineer row 446721334828. Receipt = posting title (location Bangalore, India).",
-    "for": ["pg", "grad"]
+    "for": [
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "jncasr-srfp-2027",
@@ -4183,7 +4896,11 @@
     "notes": "Not announced: JNCASR fellowships page still shows the SRFP-2026 window (22 Dec 2025 – 31 Jan 2026) and the selected list. Expect a similar late-Dec 2026 to end-Jan 2027 window. Quote from https://www.jncasr.ac.in/fandeprogrammes; stipend from the SRFP page.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "nta-jee-main-2027-session-1",
@@ -4208,7 +4925,11 @@
     "trap": "Name and date of birth must match the Class 10 certificate; a second form with a second application number does not give a second attempt in the same session.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y1", "y2", "school"]
+    "for": [
+      "y1",
+      "y2",
+      "school"
+    ]
   },
   {
     "id": "google-research-scientist-phd-intern-summer-2027-hyderabad",
@@ -4230,7 +4951,9 @@
     "notes": "Short 10-day window. Location on the posting is 'Hyderabad, Telangana, India'. Preferred: research experience, publications, and an interest in security-related research. B1S already carries the sibling 'Software Engineering PhD Intern, Summer 2027' row.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "adobe-research-phd-intern-2027-bangalore",
@@ -4252,7 +4975,9 @@
     "notes": "Adobe Workday requisition R173016, start date 2026-10-19, no end date and no deadline sentence, so listed as rolling. This is separate from the Adobe India AI Research Fellowship row in A2.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "ibm-research-india-summer-intern-2027",
@@ -4273,7 +4998,11 @@
     "notes": "IBM job 137471 'IBM Research/Research Software - Intern', 'Multiple Cities', Hybrid. The text was read from IBM's own careers search index (www-api.ibm.com/search/api/v2, the backend of careers.ibm.com) because the JobDetail page renders empty to curl and scrapling. It states: 'The internship will be conducted between May and August 2027, for a maximum duration of 3 months.' No deadline stated.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["y2", "y3", "pg"]
+    "for": [
+      "y2",
+      "y3",
+      "pg"
+    ]
   },
   {
     "id": "microsoft-fosse-postdoc-researcher-bangalore",
@@ -4295,7 +5024,9 @@
     "notes": "Job 200049580, the postdoc sibling of the FoSSE Research Fellow row. You need at least two letters of recommendation, emailed by the writers to fosse-hiring@microsoft.com. Listed in Microsoft's India search today.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["grad"]
+    "for": [
+      "grad"
+    ]
   },
   {
     "id": "indiaai-fellowship-2026-27",
@@ -4317,7 +5048,10 @@
     "notes": "Lane note: this is a scholarship/fellowship, not an industry role, so it is tagged A-fellowship/Scholarships; the editor should drop it if A2 also files it. Announcement 'Fresh Applications Open for AY 2026-27' dated 16 Oct 2026 on the official portal (built by BISAG-N for MeitY). The UG needs an institute endorsement letter. Use https://fellowship.indiaai.gov.in/login: the bare domain redirects to plain http and times out.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "lane": "C-competition",
@@ -4338,7 +5072,15 @@
     "apply_url": "https://www.spaceappschallenge.org/2026/",
     "source_url": "https://www.spaceappschallenge.org/2026/",
     "notes": "Hackathon runs 14-15 Nov 2026 ('Be a part of the largest annual global hackathon on November 14-15, 2026.'). Project submission 'opens on Saturday, November 14 at 9:00 AM and closes on Sunday, November 15 at 11:59 PM local time.' Challenge statements are live now. No cash prize printed; value is NASA Global Judging/Global Nominee recognition. Awards and FAQ subpages returned 404 at check, so under-18 rules not verified. Registering early matters only for finding a team and local event.",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad", "school"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad",
+      "school"
+    ]
   },
   {
     "lane": "C-competition",
@@ -4361,7 +5103,14 @@
     "source_url": "https://kiroween.devpost.com/rules",
     "notes": "Official rules name Amazon Web Services (Seattle) as Sponsor, Devpost as administrator. 'Only new projects are eligible. You must build your project during the Submission Period (October 30 to December 4, 2026).' Free Kiro credits (one-time 4,000) on request. 'No extensions will be granted.' 3,086 participants at check. Deadline 22:00 UTC 4 Dec = 03:30 IST 5 Dec.",
     "trap": "Only <strong>new projects</strong> count: anything started before 30 October, including a Kiroween 2025 entry, is ineligible.",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "darden-future-year-scholars-2027-r1",
@@ -4382,7 +5131,9 @@
     "notes": "Quote is the deadlines table as the page renders it (round headers, then the deadline row). Same page: 'The application is currently open for prospective Future Year Scholars Program candidates graduating between 1 October 2026 and 30 September 2027.' Round 2 closes 14 July 2027; decisions 16 June / 11 August 2027. Admitted scholars pay an annual $500 non-refundable deposit to hold the seat. Tests accepted: GMAT, GRE, EA, MCAT, LSAT, or SAT/ACT (FAQ). Eligibility text from the FAQ page. The FAQ does not address international applicants explicitly; nothing on the pages excludes them.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "id": "kellogg-future-leaders-2027",
@@ -4403,7 +5154,10 @@
     "notes": "Decision released June 23, 2027. Page: 'No application fees. GMAT or GRE required*' (asterisk notes a GMAT/GRE option). English test (TOEFL/IELTS/Duolingo) required unless university was conducted entirely in English. Deposit $500, then $500 every year of deferment. Single deadline; the page gives no time of day.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "pg"]
+    "for": [
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "spjimr-pgdm-2027-29",
@@ -4424,7 +5178,10 @@
     "notes": "From 'Important timelines (Admissions for Batch of 2027-2029)': 'Application opens – 15th September 2026' / 'Application closes – 27th November 2026'; header also shows 'Application Deadline 27 November 2026', 'Programme Starts June 2027'. Application fee ₹2,500 for Indian applicants (₹5,000 international). Page is JS-rendered; fetched with scrapling stealthy_fetch (spjimr.org/pgdm/admissions/ redirects here). Note the deadline falls before CAT 2026 (29 Nov), so you apply first and the CAT score comes later.",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final", "grad"]
+    "for": [
+      "final",
+      "grad"
+    ]
   },
   {
     "id": "booth-scholars-2027-expected",
@@ -4444,7 +5201,9 @@
     "notes": "2027 cycle not announced. The page still shows last cycle's timeline: 'Application Deadline Decision Notification April 2, 2026 11:59 p.m. CT June 25, 2026', so expect an early-April 2027 deadline. Fee: 'The $250 application fee is waived for Chicago Booth Scholars applicants.'",
     "verified_at": "2026-11-07",
     "retrieved": "2026-10-31",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "id": "airbus-ai-for-systems-engineering-intern-bangalore",
@@ -4466,7 +5225,9 @@
     "notes": "Requisition JR10449573 on Airbus's own Workday careers site (Airbus India Private Limited), posted 25 Oct 2026. 'Ideally, this is a 6 months internship and it should start in January 2027(date subject to flexibility).' No deadline sentence, so listed as rolling. Found by the daily intern-watchlist hunt.",
     "retrieved": "2026-11-01",
     "verified_at": "2026-11-07",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   },
   {
     "id": "cars24-backend-builder-apprentice-software-engineering-gurgaon",
@@ -4487,7 +5248,14 @@
     "notes": "Listed on Cars24's own careers portal (job id a6ae3662338adf, Technology department, Backend, employment type Apprentice, read via the api.cars24.com jobs feed). The posting body is headed 'Technology Intern – Software Engineering', 'Duration: 3–6 months', 'Work mode: Work from office'. No deadline or pay stated; rolling. Found by the daily watchlist hunt (2026-11-04).",
     "retrieved": "2026-11-04",
     "verified_at": "2026-11-07",
-    "for": ["y1", "y2", "y3", "final", "pg", "grad"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg",
+      "grad"
+    ]
   },
   {
     "id": "google-student-researcher-2027-india",
@@ -4508,7 +5276,13 @@
     "retrieved": "2026-11-06",
     "verified_at": "2026-11-07",
     "who": "Bachelor's, Master's and PhD students in CS, stats, maths, OR, economics, linguistics or natural sciences who already have some research or project experience in a CS area; you must be enrolled and based in India for the whole project. Graduates who have left their degree cannot apply.",
-    "for": ["y1", "y2", "y3", "final", "pg"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final",
+      "pg"
+    ]
   },
   {
     "id": "imperial-presidents-phd-scholarship-2027-28",
@@ -4528,7 +5302,11 @@
     "apply_url": "https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/",
     "source_url": "https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/",
     "notes": "Three rounds: 2 Nov 2026, 11 Jan 2027, 1 Mar 2027 (all 23:59 UK time); 11 Jan is the next one after the board deploys. Needs an agreed Imperial supervisor before applying.",
-    "for": ["final", "pg", "grad"],
+    "for": [
+      "final",
+      "pg",
+      "grad"
+    ],
     "verified_at": "2026-11-07",
     "retrieved": "2026-11-07"
   },
@@ -4551,7 +5329,9 @@
     "apply_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "source_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "notes": "Rolling; no deadline. Receipt = posting title and location line (Greenhouse API title 'Software Engineer (CPD) - Winter Intern', location Bangalore, updated 2026-11-03). Eligibility lines quoted from the posting: 'Minimum eligibility criteria - CGPA 8 and above - 2027 graduates of Circuital branches only'.",
-    "for": ["final"]
+    "for": [
+      "final"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4572,7 +5352,12 @@
     "apply_url": "https://careers.honeywell.com/en/sites/Honeywell/job/160484/",
     "source_url": "https://careers.honeywell.com/en/sites/Honeywell/job/160484/",
     "notes": "Requisition 160484, posted 2026-10-26, live in Honeywell's Oracle Recruiting API (details finder, siteNumber CX_1). Replaces the delisted 160479 row; identical requisitions 160483 and 160491 are also live. No deadline in posting; rolling. Receipt = title and location line.",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "lane": "B-industry",
@@ -4593,7 +5378,12 @@
     "apply_url": "https://careers.honeywell.com/en/sites/Honeywell/job/160486/",
     "source_url": "https://careers.honeywell.com/en/sites/Honeywell/job/160486/",
     "notes": "Requisition 160486 posted 2026-10-26, live in Honeywell's Oracle Recruiting API. Replaces delisted 160488 row. Rolling; receipt = title and location line.",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "quadeye-intern-software-developer-product-gurugram",
@@ -4614,7 +5404,12 @@
     "notes": "Rolling; no deadline stated. Receipt = the posting's title and location as listed under Open Roles on quadeye.com/jobs (25 open positions, 9 Nov). Eligibility quoted from the posting: 'Pursuing an engineering degree in Computer Science or a related technical discipline.' The page's JSON-LD carries datePosted 2026-08-11 and validThrough 2026-10-30, which has passed, but the role is still listed and applyable; recheck weekly.",
     "retrieved": "2026-11-09",
     "verified_at": "2026-11-09",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "quadeye-intern-systems-engineer-gurugram",
@@ -4635,7 +5430,12 @@
     "notes": "Rolling; no deadline stated. Receipt = the posting's title and location as listed under Open Roles on quadeye.com/jobs (9 Nov). Eligibility quoted from the posting: 'Pursuing a degree in Computer Science, Computer Engineering, or a closely related technical discipline, preferably from a leading academic institution.' JSON-LD validThrough 2026-09-30 has passed but the role is still listed and applyable; recheck weekly.",
     "retrieved": "2026-11-09",
     "verified_at": "2026-11-09",
-    "for": ["y1", "y2", "y3", "final"]
+    "for": [
+      "y1",
+      "y2",
+      "y3",
+      "final"
+    ]
   },
   {
     "id": "synopsys-apprentice-technical-engineer-bengaluru-19509",
@@ -4656,7 +5456,9 @@
     "notes": "Rolling; no deadline stated. Job ID 19509, posted 11/05/2026, category Interns/Temp, hire type Intern; alternative title 'Digital Library Characterization Trainee'. Quoted: 'Fresh graduates from the class of 2026 or 2025.' Program facts on the page: 12 months, 4-5 days in office, full-time, start November/December 2026.",
     "retrieved": "2026-11-09",
     "verified_at": "2026-11-09",
-    "for": ["grad"]
+    "for": [
+      "grad"
+    ]
   },
   {
     "id": "honeywell-intern-masters-data-science-bengaluru-161958",
@@ -4677,6 +5479,8 @@
     "notes": "Requisition 161958 posted 2026-11-10, live in Honeywell's Oracle Recruiting API (siteNumber CX_1). No deadline on the posting. Rolling; receipt = title and location line.",
     "retrieved": "2026-11-10",
     "verified_at": "2026-11-10",
-    "for": ["pg"]
+    "for": [
+      "pg"
+    ]
   }
 ]
