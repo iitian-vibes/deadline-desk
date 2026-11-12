@@ -1,0 +1,38 @@
+[
+ {
+  "id": "amazon-india-area-manager-program-manager-p2p-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "Amazon India",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Area Manager , Program Manager - P2P — IN, KA, Bengaluru — https://www.amazon.jobs/en/jobs/10602991/area-manager-program-manager-p2p",
+  "apply_url": "https://www.amazon.jobs/en/jobs/10602991/area-manager-program-manager-p2p",
+  "source_url": "https://www.amazon.jobs/en/search.json?base_query=intern&country=IND&result_limit=100",
+  "notes": "Watcher hit 2026-11-12:",
+  "verified_at": null
+ },
+ {
+  "id": "isro-icrb-portal-shall-remain-open-from-DRAFT",
+  "name": "TODO — from watcher hit",
+  "org": "ISRO ICRB",
+  "lane": "TODO A-research | A-fellowship | B-industry | B-govt | C-competition | D-mba",
+  "sub": "TODO",
+  "kind": "TODO",
+  "what": "TODO",
+  "eligibility": "TODO — must state who can apply, incl. year/branch",
+  "pay": "TODO verbatim or \"not stated\"",
+  "status": "OPEN",
+  "deadline": "TODO YYYY-MM-DD",
+  "deadline_quote": "Portal Shall remain open from",
+  "apply_url": "https://www.isro.gov.in/ICRB_Recruitment13.html",
+  "source_url": "https://www.isro.gov.in/ICRB_Recruitment13.html",
+  "notes": "Watcher hit 2026-11-12: scientist/engineer drives",
+  "verified_at": null
+ }
+]
